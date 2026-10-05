@@ -1,0 +1,49 @@
+{
+  "fecha_utc": "2026-10-05T17:31:37.268977+00:00",
+  "proyecto": "proyecto-deswik",
+  "copias": [
+    {
+      "archivo": "01_datos/Veta_atributos_ejemplo.csv",
+      "origen": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\outputs\\Veta_atributos_ejemplo.csv",
+      "bytes": 368,
+      "sha256": "a31581d3f394501c659777973b83b33aa4d0f7a97a6a3eb98954811a1ff76443",
+      "copia_verificada": true
+    },
+    {
+      "archivo": "02_geometria/Veta_75_ESE_solido_1_3m.dxf",
+      "origen": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\outputs\\Veta_75_ESE_solido_1_3m.dxf",
+      "bytes": 2545849,
+      "sha256": "f17122075dda9fc11412569f8d32227adab1bd2ef2faefb39e1d174b41e17773",
+      "copia_verificada": true
+    },
+    {
+      "archivo": "02_geometria/Veta_75_ESE_1000m.dxf",
+      "origen": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\outputs\\Veta_75_ESE_1000m.dxf",
+      "bytes": 163847,
+      "sha256": "f9d7b60d6577ad980e84fd324bf7455be1ac913705e3d1acde17ca0af26ed7b3",
+      "copia_verificada": true
+    },
+    {
+      "archivo": "03_documentacion/Veta_solido_validacion_original.json",
+      "origen": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\outputs\\Veta_solido_validacion.json",
+      "bytes": 2499,
+      "sha256": "5d7943cd42b050cae15903fbe3dc5c1167a49ec538ce25bda099fdf24e16ce34",
+      "copia_verificada": true
+    },
+    {
+      "archivo": "03_documentacion/Veta_atributos_verificacion_original.json",
+      "origen": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\outputs\\Veta_atributos_verificacion.json",
+      "bytes": 1412,
+      "sha256": "8d12f41cb011d059cc5e08246bcbce5aef9c1cd3cb61093a1abc553b4dbfb33f",
+      "copia_verificada": true
+    },
+    {
+      "archivo": "04_respaldo/PMS_2026_VETA_CON_DATOS_EJEMPLO.duf",
+      "origen": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\outputs\\PMS_2026_VETA_CON_DATOS_EJEMPLO.duf",
+      "bytes": 2602186,
+      "sha256": "2e79b49e303dacce29954d3d89dfb1ec8b966a1a98290bcae04ae662f72fba6a",
+      "copia_verificada": true
+    }
+  ],
+  "alcance": "Historial de las copias iniciales. El CSV vigente fue adaptado posteriormente a HANDLE=A74; consultar Inventario_archivos_sha256.csv para los hashes finales."
+}

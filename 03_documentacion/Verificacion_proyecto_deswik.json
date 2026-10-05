@@ -1,0 +1,397 @@
+{
+  "fecha_utc": "2026-10-05T17:55:12.786578+00:00",
+  "resultado": "VERIFICADO",
+  "document": {
+    "filename": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf",
+    "fileDirectory": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik",
+    "isDirty": false,
+    "isReadOnly": false,
+    "activeLayerName": "01_TOPOGRAFIA\\POINTS",
+    "activeLayoutName": "MODEL",
+    "layerCount": 22
+  },
+  "layers": [
+    {
+      "name": "0",
+      "visible": false,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 1182,
+      "description": ""
+    },
+    {
+      "name": "_DW_HIDDEN_GRAPHICS",
+      "visible": true,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 1,
+      "description": ""
+    },
+    {
+      "name": "01_TOPOGRAFIA",
+      "visible": false,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 0,
+      "description": ""
+    },
+    {
+      "name": "02_GEOLOGIA_VETA_001",
+      "visible": true,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 0,
+      "description": ""
+    },
+    {
+      "name": "03_REFERENCIAS",
+      "visible": false,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 1,
+      "description": ""
+    },
+    {
+      "name": "_DW_SETTINGS",
+      "visible": false,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 0,
+      "description": ""
+    },
+    {
+      "name": "03_REFERENCIAS\\SOLIDOS",
+      "visible": false,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 3,
+      "description": ""
+    },
+    {
+      "name": "03_REFERENCIAS\\LAYPOL",
+      "visible": false,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 1,
+      "description": ""
+    },
+    {
+      "name": "01_TOPOGRAFIA\\01_SUPERFICIE",
+      "visible": true,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 2,
+      "description": ""
+    },
+    {
+      "name": "01_TOPOGRAFIA\\POINTS",
+      "visible": false,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 1,
+      "description": ""
+    },
+    {
+      "name": "01_TOPOGRAFIA\\BOUNDARYY",
+      "visible": false,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 0,
+      "description": ""
+    },
+    {
+      "name": "01_TOPOGRAFIA\\POINTS\\CONTOUR",
+      "visible": false,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 248,
+      "description": ""
+    },
+    {
+      "name": "01_TOPOGRAFIA\\POINTS\\CONTOUR\\ANNOTATION",
+      "visible": false,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 598,
+      "description": ""
+    },
+    {
+      "name": "01_TOPOGRAFIA\\SLICES7",
+      "visible": false,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 55,
+      "description": ""
+    },
+    {
+      "name": "04_SUPERFICIES_AUX",
+      "visible": false,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 0,
+      "description": ""
+    },
+    {
+      "name": "01_TOPOGRAFIA\\POINTS2",
+      "visible": false,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 1,
+      "description": ""
+    },
+    {
+      "name": "_DW_XREF_LAYER",
+      "visible": true,
+      "locked": true,
+      "isLoaded": true,
+      "entityCount": 0,
+      "description": ""
+    },
+    {
+      "name": "_DW_HIDDEN_ANNOTATIONS",
+      "visible": true,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 0,
+      "description": ""
+    },
+    {
+      "name": "90_GUIAS_VETA",
+      "visible": false,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 0,
+      "description": ""
+    },
+    {
+      "name": "90_GUIAS_VETA\\MODELO_GUIA_1000M",
+      "visible": false,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 22,
+      "description": ""
+    },
+    {
+      "name": "02_GEOLOGIA_VETA_001\\01_SOLIDO_POT_1_3M",
+      "visible": true,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 1,
+      "description": ""
+    },
+    {
+      "name": "02_GEOLOGIA_VETA_001\\02_SUPERFICIE_CENTRAL",
+      "visible": false,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 1,
+      "description": ""
+    }
+  ],
+  "selection": {
+    "count": 2,
+    "figures": [
+      {
+        "handle": 2639,
+        "guid": "0e27460a-44dc-4068-ad3f-f7bbd9ac92a9",
+        "type": "Polyface",
+        "layer": "01_TOPOGRAFIA\\01_SUPERFICIE",
+        "boundingBox": {
+          "min": {
+            "x": 4710.24169922,
+            "y": 10010.24169922,
+            "z": 2008.23739624
+          },
+          "max": {
+            "x": 5489.75830078,
+            "y": 11189.75830078,
+            "z": 2261
+          },
+          "mid": {
+            "x": 5100,
+            "y": 10600,
+            "z": 2134.61869812
+          },
+          "dx": 779.5166015600007,
+          "dy": 1179.5166015600007,
+          "dz": 252.76260376000005
+        }
+      },
+      {
+        "handle": 2676,
+        "guid": "1387534c-b5c9-4846-b6c5-8d2e859c9c84",
+        "type": "Polyface",
+        "layer": "02_GEOLOGIA_VETA_001\\01_SOLIDO_POT_1_3M",
+        "boundingBox": {
+          "min": {
+            "x": 4833.770167545858,
+            "y": 9923.51159954853,
+            "z": 1030.343059045579
+          },
+          "max": {
+            "x": 5426.716180207267,
+            "y": 11190.069829725386,
+            "z": 2261.039592289492
+          },
+          "mid": {
+            "x": 5130.243173876563,
+            "y": 10556.790714636958,
+            "z": 1645.6913256675352
+          },
+          "dx": 592.9460126614085,
+          "dy": 1266.5582301768554,
+          "dz": 1230.6965332439129
+        }
+      }
+    ]
+  },
+  "vein_attributes": {
+    "layer": "02_GEOLOGIA_VETA_001\\01_SOLIDO_POT_1_3M",
+    "attributeNames": [
+      "HANDLE",
+      "VETA_ID",
+      "ESTADO_DATOS",
+      "AU_G_T_EJEMPLO",
+      "AG_G_T_EJEMPLO",
+      "DENSIDAD_T_M3_EJEMPLO",
+      "BUZAMIENTO_DEG",
+      "AZIMUT_BUZ_DEG",
+      "POT_MIN_M",
+      "POT_MAX_M",
+      "PROF_VERTICAL_M",
+      "VOLUMEN_M3",
+      "TONELAJE_T_EJEMPLO",
+      "ORIGEN_LEYES",
+      "CLASIFICACION",
+      "VERSION_DATOS"
+    ],
+    "count": 1,
+    "entities": [
+      {
+        "handle": 2676,
+        "attrs": {
+          "HANDLE": "A74",
+          "VETA_ID": "VETA_001",
+          "ESTADO_DATOS": "SINTETICO_NO_ENSAYADO",
+          "AU_G_T_EJEMPLO": "4.2",
+          "AG_G_T_EJEMPLO": "65",
+          "DENSIDAD_T_M3_EJEMPLO": "2.7",
+          "BUZAMIENTO_DEG": "75",
+          "AZIMUT_BUZ_DEG": "108.815301",
+          "POT_MIN_M": "1",
+          "POT_MAX_M": "3",
+          "PROF_VERTICAL_M": "1000",
+          "VOLUMEN_M3": "2537039.801976",
+          "TONELAJE_T_EJEMPLO": "6850007.465335",
+          "ORIGEN_LEYES": "EJEMPLO_SIN_MUESTREO",
+          "CLASIFICACION": "NO_CLASIFICADO",
+          "VERSION_DATOS": "2026-10-05_v1"
+        }
+      }
+    ]
+  },
+  "vein_polyface": {
+    "handle": 2676,
+    "cog": {
+      "x": 5125.15738254705,
+      "y": 10558.546535881396,
+      "z": 1664.4410434950873
+    },
+    "boundingBox": {
+      "min": {
+        "x": 4833.770167545858,
+        "y": 9923.51159954853,
+        "z": 1030.343059045579
+      },
+      "max": {
+        "x": 5426.716180207267,
+        "y": 11190.069829725386,
+        "z": 2261.039592289492
+      },
+      "mid": {
+        "x": 5130.243173876563,
+        "y": 10556.790714636958,
+        "z": 1645.6913256675352
+      },
+      "dx": 592.9460126614085,
+      "dy": 1266.5582301768554,
+      "dz": 1230.6965332439129
+    },
+    "volume": 2537039.8019757625,
+    "vertexCount": 5522
+  },
+  "topography_attributes": {
+    "layer": "01_TOPOGRAFIA\\01_SUPERFICIE",
+    "attributeNames": [
+      "HANDLE",
+      "VETA_ID",
+      "ESTADO_DATOS",
+      "AU_G_T_EJEMPLO",
+      "AG_G_T_EJEMPLO",
+      "DENSIDAD_T_M3_EJEMPLO",
+      "BUZAMIENTO_DEG",
+      "AZIMUT_BUZ_DEG",
+      "POT_MIN_M",
+      "POT_MAX_M",
+      "PROF_VERTICAL_M",
+      "VOLUMEN_M3",
+      "TONELAJE_T_EJEMPLO",
+      "ORIGEN_LEYES",
+      "CLASIFICACION",
+      "VERSION_DATOS"
+    ],
+    "count": 2,
+    "entities": [
+      {
+        "handle": 2639,
+        "attrs": {
+          "HANDLE": "",
+          "VETA_ID": "",
+          "ESTADO_DATOS": "",
+          "AU_G_T_EJEMPLO": "",
+          "AG_G_T_EJEMPLO": "",
+          "DENSIDAD_T_M3_EJEMPLO": "",
+          "BUZAMIENTO_DEG": "",
+          "AZIMUT_BUZ_DEG": "",
+          "POT_MIN_M": "",
+          "POT_MAX_M": "",
+          "PROF_VERTICAL_M": "",
+          "VOLUMEN_M3": "",
+          "TONELAJE_T_EJEMPLO": "",
+          "ORIGEN_LEYES": "",
+          "CLASIFICACION": "",
+          "VERSION_DATOS": ""
+        }
+      },
+      {
+        "handle": 2643,
+        "attrs": {
+          "HANDLE": "",
+          "VETA_ID": "",
+          "ESTADO_DATOS": "",
+          "AU_G_T_EJEMPLO": "",
+          "AG_G_T_EJEMPLO": "",
+          "DENSIDAD_T_M3_EJEMPLO": "",
+          "BUZAMIENTO_DEG": "",
+          "AZIMUT_BUZ_DEG": "",
+          "POT_MIN_M": "",
+          "POT_MAX_M": "",
+          "PROF_VERTICAL_M": "",
+          "VOLUMEN_M3": "",
+          "TONELAJE_T_EJEMPLO": "",
+          "ORIGEN_LEYES": "",
+          "CLASIFICACION": "",
+          "VERSION_DATOS": ""
+        }
+      }
+    ]
+  },
+  "comprobaciones": {
+    "guardado_sin_cambios_pendientes": true,
+    "csv_coincide_con_16_atributos_nativos": true,
+    "handle_csv_coincide_con_entidad": true,
+    "guid_seleccion_y_geometria_conservados": true,
+    "sin_leyes_de_ejemplo_en_topografia": true,
+    "leyes_y_densidad_sinteticas": true
+  }
+}

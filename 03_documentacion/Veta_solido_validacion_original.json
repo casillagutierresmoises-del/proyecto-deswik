@@ -1,0 +1,81 @@
+{
+  "dip": 75,
+  "dipAzimuth": 108.81530145811885,
+  "verticalDepth": 1000,
+  "thicknessConvention": "true thickness perpendicular to central plane",
+  "thicknessRange": [
+    1.0000155141365854,
+    2.999984485863415
+  ],
+  "thicknessFormula": "2 + sin(2*pi*normalizedStrikeStation)*cos(pi*normalizedDepth)",
+  "geologicalStatus": "Conceptual hypothesis; no measured thickness input",
+  "vertices": 5522,
+  "triangles": 11040,
+  "volumeM3": 2537039.801975289,
+  "watertight": true,
+  "consistentlyOriented": true,
+  "connectedComponents": 1,
+  "centerSurfaceVertices": 2761,
+  "centerSurfaceTriangles": 5000,
+  "topTreatment": "cap follows central topographic intersection; wall offsets are perpendicular to plane, not independently clipped to terrain",
+  "savedToDeswik": true,
+  "importedIntoDeswik": true,
+  "nativeSolidHandle": 2503,
+  "nativeVolumeM3": 2537039.8019757625,
+  "savedProject": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\outputs\\PMS_2026_VETA_75_1_3m.duf",
+  "liveDocument": {
+    "filename": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\outputs\\PMS_2026_VETA_75_1_3m.duf",
+    "fileDirectory": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\outputs",
+    "isDirty": false,
+    "isReadOnly": false,
+    "activeLayerName": "0",
+    "activeLayoutName": "MODEL",
+    "layerCount": 22
+  },
+  "nativeLayers": [
+    "VETA_75_ESE_SOLIDO_1_3M_DXF\\VETA_75_ESE_SOLIDO_1_3M",
+    "VETA_75_ESE_SOLIDO_1_3M_DXF\\VETA_75_ESE_SUPERFICIE"
+  ],
+  "layerStates": [
+    {
+      "name": "VETA_75_ESE",
+      "visible": true,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 0,
+      "description": ""
+    },
+    {
+      "name": "VETA_75_ESE\\MODELO_GUIA_1000M",
+      "visible": false,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 22,
+      "description": ""
+    },
+    {
+      "name": "VETA_75_ESE_SOLIDO_1_3M_DXF",
+      "visible": true,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 0,
+      "description": ""
+    },
+    {
+      "name": "VETA_75_ESE_SOLIDO_1_3M_DXF\\VETA_75_ESE_SOLIDO_1_3M",
+      "visible": true,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 1,
+      "description": ""
+    },
+    {
+      "name": "VETA_75_ESE_SOLIDO_1_3M_DXF\\VETA_75_ESE_SUPERFICIE",
+      "visible": false,
+      "locked": false,
+      "isLoaded": true,
+      "entityCount": 1,
+      "description": ""
+    }
+  ]
+}

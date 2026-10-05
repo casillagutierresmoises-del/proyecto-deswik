@@ -1,0 +1,55 @@
+{
+  "fecha_utc": "2026-10-05T20:04:16.070297+00:00",
+  "estado": "INSTALADO_Y_PROBADO",
+  "python": "C:/Users/moise/.codex/tools/mineria-deswik/.venv/Scripts/python.exe",
+  "paquetes": {
+    "ezdxf": "1.4.4",
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "pyarrow": "25.0.1",
+    "trimesh": "5.1.1"
+  },
+  "habilidades_nuevas": [
+    "mineria-subterranea-deswik",
+    "deswik-data-workflows",
+    "jupyter-notebook"
+  ],
+  "habilidad_mejorada": "deswik-fast-control",
+  "mcp": {
+    "passed": true,
+    "version": "0.3.0",
+    "tools": [
+      "get_cad_document",
+      "get_cad_layers",
+      "get_cad_selection",
+      "get_cad_context",
+      "get_cad_elements",
+      "get_cad_polyface_info",
+      "get_cad_polylines_under",
+      "get_cad_layer_attributes",
+      "get_cad_layer_inspection"
+    ],
+    "inspectionRoundTripMs": 93.421,
+    "resolvedHandle": 2676,
+    "guid": "1387534c-b5c9-4846-b6c5-8d2e859c9c84",
+    "verifiedAttributes": 16,
+    "volumeM3": 2537039.8019757625,
+    "rejectedInvalidCases": 6,
+    "document": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf",
+    "readOnly": true
+  },
+  "mcp_adapter": "C:\\Users\\moise\\.codex\\tools\\mineria-deswik\\deswik_mcp.py",
+  "mcp_adapter_sha256": "82cb4b9594c6d50d74e5cab3993c776f585dfc93e99a3e76f1980539aaada65c",
+  "mcp_tools_reload_pending": true,
+  "prueba_archivos_reales": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\tooling-review\\forward-test\\result.md",
+  "prueba_conceptos_mineros": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\tooling-review\\forward-test\\mining-response.md",
+  "duf_sin_modificaciones_durante_setup": true,
+  "duf_sha256": "9dad3c8ba2cb7c164bdf522c5616544080a45aa649ccc0f2d412a4d15a47f54d",
+  "limitaciones": [
+    "Sin captura continua de pantalla ni modificación del modelo de IA",
+    "Nuevas herramientas MCP requieren recarga del proceso; scripts disponibles ahora",
+    "Inspección DXF sin autointersecciones ni expansión de INSERT/XREF",
+    "Datos actuales de leyes/densidad son ejemplos sintéticos"
+  ]
+}

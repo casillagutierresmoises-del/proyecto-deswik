@@ -1,0 +1,130 @@
+{
+  "fecha_preparacion_local": "2026-10-05",
+  "resultado": "VERIFICADO",
+  "tipo": "copia_independiente_para_repositorio",
+  "carpeta_origen": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik",
+  "carpeta_destino": "C:\\Users\\moise\\Documents\\Codex\\proyectos\\proyecto-deswik",
+  "fuente_no_modificada": true,
+  "archivos_copiados_sin_cambios": [
+    {
+      "origen_relativo": "proyecto-deswik.duf",
+      "destino_relativo": "proyecto-deswik.duf",
+      "bytes": 2602705,
+      "sha256": "9dad3c8ba2cb7c164bdf522c5616544080a45aa649ccc0f2d412a4d15a47f54d"
+    },
+    {
+      "origen_relativo": "01_datos/Diccionario_atributos.csv",
+      "destino_relativo": "01_datos/Diccionario_atributos.csv",
+      "bytes": 2563,
+      "sha256": "d40a71960d46465edfd4425327bc7c911800b0b4cabf20ab71cd12a9d4851882"
+    },
+    {
+      "origen_relativo": "01_datos/Veta_atributos_ejemplo.csv",
+      "destino_relativo": "01_datos/Veta_atributos_ejemplo.csv",
+      "bytes": 368,
+      "sha256": "e8ea15e4ad96832374e969cc03f6469b66ca97431d673c09179821f1a115f9c9"
+    },
+    {
+      "origen_relativo": "02_geometria/Veta_75_ESE_1000m.dxf",
+      "destino_relativo": "02_geometria/Veta_75_ESE_1000m.dxf",
+      "bytes": 163847,
+      "sha256": "f9d7b60d6577ad980e84fd324bf7455be1ac913705e3d1acde17ca0af26ed7b3"
+    },
+    {
+      "origen_relativo": "02_geometria/Veta_75_ESE_solido_1_3m.dxf",
+      "destino_relativo": "02_geometria/Veta_75_ESE_solido_1_3m.dxf",
+      "bytes": 2545849,
+      "sha256": "f17122075dda9fc11412569f8d32227adab1bd2ef2faefb39e1d174b41e17773"
+    },
+    {
+      "origen_relativo": "03_documentacion/Herramientas_verificacion.json",
+      "destino_relativo": "03_documentacion/Herramientas_verificacion.json",
+      "bytes": 2162,
+      "sha256": "3ae04c2b444ea9ad63a7c726e6c4ae201efa17a2c1617b8005b62baefac2f7e7"
+    },
+    {
+      "origen_relativo": "03_documentacion/Herramientas_y_habilidades.md",
+      "destino_relativo": "03_documentacion/Herramientas_y_habilidades.md",
+      "bytes": 5637,
+      "sha256": "b043c487a798f112f842d571d4470ae343c564b3a91f082ed68f7548e67671cb"
+    },
+    {
+      "origen_relativo": "03_documentacion/Inventario_capas.csv",
+      "destino_relativo": "03_documentacion/Inventario_capas.csv",
+      "bytes": 1034,
+      "sha256": "7ab7b603a56ac78597fa997036a8f0d1080d26afe167e718fd26094b97b281e3"
+    },
+    {
+      "origen_relativo": "03_documentacion/Manifiesto_copias.json",
+      "destino_relativo": "03_documentacion/Manifiesto_copias.json",
+      "bytes": 2282,
+      "sha256": "4f52be4dab109d983254348ba5c0416f8f0ca9c197ee472640a9f26c614b19ce"
+    },
+    {
+      "origen_relativo": "03_documentacion/Procedencia_del_modelo.md",
+      "destino_relativo": "03_documentacion/Procedencia_del_modelo.md",
+      "bytes": 2333,
+      "sha256": "5c2433c86e7626155e4ad1e232edd79923cdeba5648ed53b60a15e61b4cf5ad6"
+    },
+    {
+      "origen_relativo": "03_documentacion/Verificacion_proyecto_deswik.json",
+      "destino_relativo": "03_documentacion/Verificacion_proyecto_deswik.json",
+      "bytes": 9953,
+      "sha256": "75fa8ed07cc8c02fd51d8a989d50c3eb66fa8ec4479ce006e240e377f4977c0a"
+    },
+    {
+      "origen_relativo": "03_documentacion/Veta_atributos_verificacion_original.json",
+      "destino_relativo": "03_documentacion/Veta_atributos_verificacion_original.json",
+      "bytes": 1412,
+      "sha256": "8d12f41cb011d059cc5e08246bcbce5aef9c1cd3cb61093a1abc553b4dbfb33f"
+    },
+    {
+      "origen_relativo": "03_documentacion/Veta_ficha.md",
+      "destino_relativo": "03_documentacion/Veta_ficha.md",
+      "bytes": 4230,
+      "sha256": "3b6c39ea3781df3e7ea18acdc472e8a39f06c0dd1c3306803e01f28bcb765a4e"
+    },
+    {
+      "origen_relativo": "03_documentacion/Veta_solido_validacion_original.json",
+      "destino_relativo": "03_documentacion/Veta_solido_validacion_original.json",
+      "bytes": 2499,
+      "sha256": "5d7943cd42b050cae15903fbe3dc5c1167a49ec538ce25bda099fdf24e16ce34"
+    },
+    {
+      "origen_relativo": "04_respaldo/PMS_2026_VETA_CON_DATOS_EJEMPLO.duf",
+      "destino_relativo": "04_respaldo/PMS_2026_VETA_CON_DATOS_EJEMPLO.duf",
+      "bytes": 2602186,
+      "sha256": "2e79b49e303dacce29954d3d89dfb1ec8b966a1a98290bcae04ae662f72fba6a"
+    },
+    {
+      "origen_relativo": "04_respaldo/README.md",
+      "destino_relativo": "04_respaldo/README.md",
+      "bytes": 309,
+      "sha256": "7ae2ed44d02750f71ebb2af04bfa923dd37a703c6270080670386ccf5d933e32"
+    },
+    {
+      "origen_relativo": "README.md",
+      "destino_relativo": "03_documentacion/README_paquete_escritorio_original.md",
+      "bytes": 3682,
+      "sha256": "cb613a08a36c8c4e180182cd4a78236287aa5f01b7d4259d8a1d6d908ca00ab0"
+    },
+    {
+      "origen_relativo": "captura_aportada_por_usuario",
+      "destino_relativo": "03_documentacion/vista-topografia-veta.png",
+      "bytes": 147954,
+      "sha256": "6e6bfbfe21859a71531b037d139d8d06152222beb2c4e126c9b6dfeb4c3fca75"
+    }
+  ],
+  "inventario_regenerado": "03_documentacion/Inventario_archivos_sha256.csv",
+  "exclusiones": [
+    "*.lck",
+    "Backup/",
+    "*.deswikbak",
+    "configuracion_personal",
+    "credenciales",
+    "entornos_python",
+    "add_ins"
+  ],
+  "readme_enlaces_relativos_validos": true,
+  "git_inicializado": false
+}

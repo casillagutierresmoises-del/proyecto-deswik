@@ -1,0 +1,17 @@
+﻿CAMPO,TIPO_LOGICO,UNIDAD,VALOR_ACTUAL,DESCRIPCION,PROCEDENCIA,OBSERVACION,TIPO_DESWIK_ACTUAL
+HANDLE,texto,sin unidad,A74,Clave de enlace con entidad Deswik; hexadecimal,"Deswik actual, 2676 decimal",Puede cambiar al editar capas o entidades; comprobar junto con VETA_ID/GUID antes de importar,texto
+VETA_ID,texto,sin unidad,VETA_001,Identificador de la veta,Identificación de este modelo,Mantener estable al vincular futuras muestras,texto
+ESTADO_DATOS,texto,sin unidad,SINTETICO_NO_ENSAYADO,Estado de los datos asociados,Declaración de procedencia,Conservar mientras no existan ensayes reales,texto
+AU_G_T_EJEMPLO,número decimal,g/t,4.2,Ley de oro uniforme de ejemplo,"Sintético, sin muestreo",No usar para estimación de recursos,texto
+AG_G_T_EJEMPLO,número decimal,g/t,65,Ley de plata uniforme de ejemplo,"Sintético, sin muestreo",No usar para estimación de recursos,texto
+DENSIDAD_T_M3_EJEMPLO,número decimal,t/m³,2.7,Densidad uniforme supuesta,"Sintético, sin medición",Sustituir por densidad medida antes de evaluar tonelajes,texto
+BUZAMIENTO_DEG,número decimal,grados,75,Inclinación de la superficie central,Parámetro geométrico solicitado,Desde la horizontal,texto
+AZIMUT_BUZ_DEG,número decimal,grados,108.815301,Dirección del buzamiento hacia ESE,Geometría derivada del rumbo de la traza,Azimut desde el norte en sentido horario,texto
+POT_MIN_M,número decimal,m,1,Potencia verdadera mínima conceptual,Hipótesis de construcción,Medida perpendicular al plano central,texto
+POT_MAX_M,número decimal,m,3,Potencia verdadera máxima conceptual,Hipótesis de construcción,Medida perpendicular al plano central,texto
+PROF_VERTICAL_M,número decimal,m,1000,Extensión vertical bajo la traza superior,Parámetro geométrico solicitado,No es longitud sobre el plano inclinado,texto
+VOLUMEN_M3,número decimal,m³,2537039.801976,Volumen del sólido cerrado,Cálculo nativo Deswik verificado,Corresponde a geometría conceptual,texto
+TONELAJE_T_EJEMPLO,número decimal,t,6850007.465335,Volumen por densidad de ejemplo,Cálculo sintético,No constituye recurso ni reserva,texto
+ORIGEN_LEYES,texto,sin unidad,EJEMPLO_SIN_MUESTREO,Procedencia de las leyes,Declaración de procedencia,Actualizar al integrar datos reales trazables,texto
+CLASIFICACION,texto,sin unidad,NO_CLASIFICADO,Estado de clasificación del modelo,Sin estimación de recursos,No asigna categoría de recursos o reservas,texto
+VERSION_DATOS,texto,sin unidad,2026-10-05_v1,Versión de los atributos,Registro de revisión,Actualizar al cambiar la ficha,texto

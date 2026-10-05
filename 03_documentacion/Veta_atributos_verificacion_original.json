@@ -1,0 +1,52 @@
+{
+  "id": "c6b365cc-a470-4eae-91df-c82d2f42aabe",
+  "success": true,
+  "data": {
+    "layer": "VETA_75_ESE_SOLIDO_1_3M_DXF\\VETA_75_ESE_SOLIDO_1_3M",
+    "attributeNames": [
+      "HANDLE",
+      "VETA_ID",
+      "ESTADO_DATOS",
+      "AU_G_T_EJEMPLO",
+      "AG_G_T_EJEMPLO",
+      "DENSIDAD_T_M3_EJEMPLO",
+      "BUZAMIENTO_DEG",
+      "AZIMUT_BUZ_DEG",
+      "POT_MIN_M",
+      "POT_MAX_M",
+      "PROF_VERTICAL_M",
+      "VOLUMEN_M3",
+      "TONELAJE_T_EJEMPLO",
+      "ORIGEN_LEYES",
+      "CLASIFICACION",
+      "VERSION_DATOS"
+    ],
+    "count": 1,
+    "entities": [
+      {
+        "handle": 2503,
+        "attrs": {
+          "HANDLE": "9C7",
+          "VETA_ID": "VETA_001",
+          "ESTADO_DATOS": "SINTETICO_NO_ENSAYADO",
+          "AU_G_T_EJEMPLO": "4.2",
+          "AG_G_T_EJEMPLO": "65",
+          "DENSIDAD_T_M3_EJEMPLO": "2.7",
+          "BUZAMIENTO_DEG": "75",
+          "AZIMUT_BUZ_DEG": "108.815301",
+          "POT_MIN_M": "1",
+          "POT_MAX_M": "3",
+          "PROF_VERTICAL_M": "1000",
+          "VOLUMEN_M3": "2537039.801976",
+          "TONELAJE_T_EJEMPLO": "6850007.465335",
+          "ORIGEN_LEYES": "EJEMPLO_SIN_MUESTREO",
+          "CLASIFICACION": "NO_CLASIFICADO",
+          "VERSION_DATOS": "2026-10-05_v1"
+        }
+      }
+    ]
+  },
+  "error": null,
+  "errorCode": null,
+  "timestamp": "2026-10-05T17:23:42.4202448Z"
+}
