@@ -1,0 +1,17 @@
+{
+  "anchor_status": "CONFIRMED_WCS",
+  "surface_anchor_wcs": [5085, 10675, 2192.86424255],
+  "anchor_entity": {"handle": 2678, "guid": "92eaf13e-85a4-440b-a105-b31e739fa65d", "type": "Rectangle", "layer": "01_TOPOGRAFIA\\POINTS"},
+  "output_directory": "work/piloto-cyr/piloto-real-validacion",
+  "strike_length_m": 50,
+  "vertical_height_m": 30,
+  "trace_cover_m": 10,
+  "cut_height_m": 3,
+  "block_size_m": [0.5, 2, 1.5],
+  "block_margin_x_m": 1,
+  "density_assumed_t_m3": 2.7,
+  "access_floors_m": [0, 9, 18, 27],
+  "minimum_full_terrain_cover_m": 2,
+  "terrain_mesh_json": null,
+  "ramp": {"radius_m": 8, "grade_percent": 12, "width_m": 3, "height_m": 3, "footwall_offset_m": 26, "bay_spacing_m": 25}
+}

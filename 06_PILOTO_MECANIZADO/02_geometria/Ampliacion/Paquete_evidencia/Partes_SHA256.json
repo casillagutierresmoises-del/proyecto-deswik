@@ -1,0 +1,22 @@
+{
+  "original_filename": "../Geometria_y_evidencia.zip",
+  "original_bytes": 66062713,
+  "original_sha256": "b16994ea0a2f5ac80e86102d0c7b61ae342d918efe39b4715bc0087918a1d136",
+  "parts": [
+    {
+      "filename": "Geometria_y_evidencia.zip.part001",
+      "bytes": 25165824,
+      "sha256": "81d7980f07a94f6c2178c25d37d454c6f95326311d179ed95e3b64cf51d0967d"
+    },
+    {
+      "filename": "Geometria_y_evidencia.zip.part002",
+      "bytes": 25165824,
+      "sha256": "c791b16ce184af0558c2feb765510e4b961fa6273b99d7eead365311f83e5be9"
+    },
+    {
+      "filename": "Geometria_y_evidencia.zip.part003",
+      "bytes": 15731065,
+      "sha256": "38c3d2bc06b86800b3cb1afb4426777fc9afee5b7f5c783c620f34a3a625184e"
+    }
+  ]
+}

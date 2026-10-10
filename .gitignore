@@ -1,21 +1,18 @@
-# Deswik: bloqueos y respaldos automáticos locales
+# Local Deswik locks and automatic backups
 *.lck
 *.deswikbak
-/Backup/
-
-# Entornos, caches y configuración local
+*.tmp
+**/Backup/
+# Local environments, configuration and credentials
 .venv/
 venv/
 __pycache__/
 *.py[cod]
-.ipynb_checkpoints/
 .codex/
 .env
 .env.*
 *.pem
 *.key
-
-# Sistema operativo y editor
 Thumbs.db
 Desktop.ini
 .DS_Store

@@ -1,0 +1,12 @@
+FIELD,TYPE,UNIT,DESCRIPTION
+BID,integer,1,Stable generated block ID
+XC/YC/ZC,float,m WCS,"Rotated centroid in project WCS, nine decimals"
+DX/DY/DZ,float,m local axes,"Dimensions along horizontal dip direction, strike, vertical"
+I/J/K,integer,zero based,"Parent-grid indices, X fastest"
+DOM,integer,code,1 any mineral overlap; 0 wholly synthetic waste
+ORE_FRAC,float,fraction,Contact volume fraction; interval integration and quadrature
+AU_GPT,float,g/t mineral,Synthetic mineral grade; wholly waste cells explicitly assumed zero
+AG_GPT,float,g/t mineral,Synthetic mineral grade; wholly waste cells explicitly assumed zero
+DENS,float,t/m3,Assumed density on all cells
+T_EST,float,t mineral illustrative,ORE_FRAC*DX*DY*DZ*DENS; not reserves/resources
+SYNTH,integer,flag,1 all data synthetic; no samples or assays

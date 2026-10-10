@@ -1,0 +1,256 @@
+{
+  "verified": true,
+  "readOnly": true,
+  "dufSaveInvoked": false,
+  "uiCreated": false,
+  "design_geometry_still_matches_saved_source": true,
+  "design_reuse_approval_stopped": false,
+  "design_baseline": {
+    "source": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\base_mecanizado_actual.duf",
+    "sha256": "dbdafbd70d1e01f6746c3f1d4b77262c2e1a460809a8f95ff620969c1bd8dd68"
+  },
+  "saved_baseline": {
+    "source": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\rebase\\base_guardada.duf",
+    "sha256": "a8349eab3075e10265cd616621b687ac84726868cd36c4a98e24157727a81928"
+  },
+  "original_figure_count": 167,
+  "original_figure_guids_exact": true,
+  "all_167_original_geometry_objects_exact": true,
+  "original_indexed_entity_count": 1596,
+  "all_original_indexed_guids_exact": true,
+  "geometry_changes": [],
+  "figure_changes": [
+    {
+      "guid": "0e27460a-44dc-4068-ad3f-f7bbd9ac92a9",
+      "label": null,
+      "changed_fields": [
+        "color"
+      ],
+      "before_color": {
+        "flag": "Foreground",
+        "index": 0,
+        "rgba": {
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "A": 0
+        }
+      },
+      "saved_color": {
+        "flag": "ByColor",
+        "index": 0,
+        "rgba": {
+          "R": 255,
+          "G": 255,
+          "B": 255,
+          "A": 128
+        }
+      }
+    }
+  ],
+  "changed_figure_field_counts": {
+    "color": 1
+  },
+  "protected_sources": {
+    "topography": {
+      "guid": "0e27460a-44dc-4068-ad3f-f7bbd9ac92a9",
+      "vertices": 8283,
+      "geometry_including_vertices_faces_volume_and_area_exact": true,
+      "attributes_and_native_types_exact": true,
+      "guid_handle_layer_guid_and_layer_name_exact": true,
+      "expected_vertex_count": 8283,
+      "only_other_changed_fields": [
+        "color"
+      ]
+    },
+    "vein": {
+      "guid": "1387534c-b5c9-4846-b6c5-8d2e859c9c84",
+      "vertices": 5522,
+      "geometry_including_vertices_faces_volume_and_area_exact": true,
+      "attributes_and_native_types_exact": true,
+      "guid_handle_layer_guid_and_layer_name_exact": true,
+      "expected_vertex_count": 5522,
+      "only_other_changed_fields": []
+    }
+  },
+  "units_exact": true,
+  "line_types_and_text_styles_exact": true,
+  "layer_changes": [
+    {
+      "guid": "039961c7-6450-4c30-93d2-24cec20bf983",
+      "name": "_DW_SETTINGS",
+      "changed_fields": [
+        "attrs"
+      ]
+    },
+    {
+      "guid": "608d3c98-c967-4319-b590-d3daa95c5969",
+      "name": "01_TOPOGRAFIA\\01_SUPERFICIE",
+      "changed_fields": [
+        "attrs",
+        "frozen"
+      ]
+    },
+    {
+      "guid": "e428aba7-11eb-4e55-84ab-3b59f79d07b8",
+      "name": "_DW_HIDDEN_GRAPHICS",
+      "changed_fields": [
+        "attrs"
+      ]
+    },
+    {
+      "guid": "ee3de907-22a4-498d-bcde-cb33baf36553",
+      "name": "_DW_BOUNDARY_SLICEBOUNDARYBOXES_2",
+      "changed_fields": [
+        "attrs"
+      ]
+    }
+  ],
+  "native_header_changes": [
+    {
+      "guid": "039961c7-6450-4c30-93d2-24cec20bf983",
+      "name": "_DW_SETTINGS",
+      "changed_fields": [
+        "xpropsHash",
+        "xpropsPayloadSha256"
+      ]
+    },
+    {
+      "guid": "0e27460a-44dc-4068-ad3f-f7bbd9ac92a9",
+      "name": null,
+      "changed_fields": [
+        "nativeHash",
+        "payloadSha256"
+      ]
+    },
+    {
+      "guid": "15417a3c-67c2-4904-89bd-8a244e0a2b91",
+      "name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C06",
+      "changed_fields": [
+        "xpropsHash",
+        "xpropsPayloadSha256"
+      ]
+    },
+    {
+      "guid": "3c2777a8-0ae9-46fa-86f2-ba2f483d2e70",
+      "name": "03_PILOTO_MECANIZADO\\21_ROTULOS",
+      "changed_fields": [
+        "xpropsHash",
+        "xpropsPayloadSha256"
+      ]
+    },
+    {
+      "guid": "4c568a09-1d23-4d3a-b2ad-8e1500be36fe",
+      "name": "02_GEOLOGIA_VETA_001\\02_SUPERFICIE_CENTRAL",
+      "changed_fields": [
+        "xpropsHash",
+        "xpropsPayloadSha256"
+      ]
+    },
+    {
+      "guid": "608d3c98-c967-4319-b590-d3daa95c5969",
+      "name": "01_TOPOGRAFIA\\01_SUPERFICIE",
+      "changed_fields": [
+        "nativeHash",
+        "payloadSha256",
+        "xpropsHash",
+        "xpropsPayloadSha256"
+      ]
+    },
+    {
+      "guid": "6ae39dac-44ba-4c10-a04a-9311afa6ff6b",
+      "name": null,
+      "changed_fields": [
+        "nativeHash",
+        "payloadSha256"
+      ]
+    },
+    {
+      "guid": "791fe821-f29a-4762-9575-1c9573cd3fc6",
+      "name": "02_GEOLOGIA_VETA_001",
+      "changed_fields": [
+        "xpropsHash",
+        "xpropsPayloadSha256"
+      ]
+    },
+    {
+      "guid": "7c0c3d1e-e218-4868-a163-8e9b88f1f66c",
+      "name": "01_TOPOGRAFIA\\BOUNDARYY",
+      "changed_fields": [
+        "xpropsHash",
+        "xpropsPayloadSha256"
+      ]
+    },
+    {
+      "guid": "8d1a8e72-07e3-4ca0-abd4-d1a6bb8ab971",
+      "name": "02_GEOLOGIA_VETA_001\\01_SOLIDO_POT_1_3M",
+      "changed_fields": [
+        "xpropsHash",
+        "xpropsPayloadSha256"
+      ]
+    },
+    {
+      "guid": "c3cea3cf-0dd2-4dce-8185-d922f780b930",
+      "name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C10",
+      "changed_fields": [
+        "xpropsHash",
+        "xpropsPayloadSha256"
+      ]
+    },
+    {
+      "guid": "da4c6d43-dbfa-4586-855c-e299255dd2ee",
+      "name": "01_TOPOGRAFIA\\POINTS",
+      "changed_fields": [
+        "xpropsHash",
+        "xpropsPayloadSha256"
+      ]
+    },
+    {
+      "guid": "dfab7b85-e9e1-4934-9dbf-b9d2788432a3",
+      "name": "01_TOPOGRAFIA\\SLICES7",
+      "changed_fields": [
+        "xpropsHash",
+        "xpropsPayloadSha256"
+      ]
+    },
+    {
+      "guid": "e428aba7-11eb-4e55-84ab-3b59f79d07b8",
+      "name": "_DW_HIDDEN_GRAPHICS",
+      "changed_fields": [
+        "xpropsHash",
+        "xpropsPayloadSha256"
+      ]
+    },
+    {
+      "guid": "e6f3de7a-d5df-4fb0-a0a0-701fc3344bda",
+      "name": "01_TOPOGRAFIA\\POINTS2",
+      "changed_fields": [
+        "xpropsHash",
+        "xpropsPayloadSha256"
+      ]
+    },
+    {
+      "guid": "ee3de907-22a4-498d-bcde-cb33baf36553",
+      "name": "_DW_BOUNDARY_SLICEBOUNDARYBOXES_2",
+      "changed_fields": [
+        "xpropsHash",
+        "xpropsPayloadSha256"
+      ]
+    }
+  ],
+  "preservation_rule": "Use the saved baseline for final QA and preserve all its geometry, attributes, colors and general metadata. Existing original03 history presentation alone remains an explicitly allowed later transformation.",
+  "limits": [
+    "Read-only SDK file comparison; no live CAD inspection",
+    "Design geometry compatibility does not constitute engineering approval"
+  ],
+  "evidence": {
+    "design_base": {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\base_export.json",
+      "sha256": "9763533e409f068b597497963e021f145262f3697334aa73408647f1c2c57901"
+    },
+    "saved_base": {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\rebase\\Base_guardada_export.json",
+      "sha256": "caa7b9b950444ad1da63e6839ee172c08d68b2c0eb00e84a44ad1a0c40d85eb0"
+    }
+  }
+}

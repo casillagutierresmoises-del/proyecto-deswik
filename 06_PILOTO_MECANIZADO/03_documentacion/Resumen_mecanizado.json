@@ -1,0 +1,57 @@
+{
+  "meshes": 74,
+  "lines": 70,
+  "texts": 18,
+  "portal": {
+    "ramp_level_27_wcs": [
+      4978.335009236156,
+      10695.15770777429,
+      2124.9608782041414
+    ],
+    "main_top_tangent_theta_local_deg": 230.0,
+    "portal_mouth_wcs": [
+      4998.692985071606,
+      10661.522425261976,
+      2128.89212516837
+    ],
+    "natural_floor_daylight_wcs": [
+      5003.353172081169,
+      10653.822902092588,
+      2129.79203516837
+    ],
+    "underground_adit_horizontal_length_m": 39.31640128241588,
+    "floor_daylight_distance_m": 48.31640128241588,
+    "grade_percent": 10.0,
+    "minimum_original_roof_cover_at_bench_front_m": 0.8251559370178256,
+    "bench_width_m": 8.0,
+    "bench_length_m": 14.0,
+    "earthworks": [
+      {
+        "name": "BAN_CUT_01",
+        "role": "CUT",
+        "volume_m3": 189.3769386984774,
+        "original_tin_interpolation": true
+      },
+      {
+        "name": "BAN_FILL_01",
+        "role": "FILL",
+        "volume_m3": 35.19894163016579,
+        "original_tin_interpolation": true
+      }
+    ]
+  },
+  "cover_failures": [],
+  "dxf": {
+    "filename": "03_PILOTO_MECANIZADO.dxf",
+    "sha256": "d0436f77942c092e0f604fec42a96bb655b5c203257db7cac60dc5d744d99c22",
+    "native_filename": "03_PILOTO_MECANIZADO_Deswik.dxf",
+    "native_sha256": "16b7c939fed2758a1d32f9569bcde456dffb6d0978ddbe9cdeb54079dcbbd7d5",
+    "dxf_version": "AC1024",
+    "polyface_entities": 74,
+    "polyline_entities": 70,
+    "text_entities": 18,
+    "normalization": "Only EXTMIN/EXTMAX removed; all remaining original bytes exact",
+    "wcs_scale": 1,
+    "insunits": 0
+  }
+}

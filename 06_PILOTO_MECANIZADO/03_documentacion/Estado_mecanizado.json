@@ -1,0 +1,18 @@
+{
+  "estado": "ABIERTO_VERIFICADO_GUARDADO_EN_DESWIK",
+  "conceptual": true,
+  "datos_sinteticos": true,
+  "original_sha256": "dad5de0a4311d47f7b77340aca039e0bb60c4033edd5409da4ba942ebe1e276d",
+  "previous_pilot_sha256": "9713c4a3edd1a6092de123e0891a6bf1a8b609be29bced6d83aa548f487b43f6",
+  "opened_in_cad": true,
+  "saved_in_cad": true,
+  "duf_sha256": "6d77bd003b1ed498d76889ce7fdf8bb88600c45ffbfa758c99e7b9f5a1d8d5a6",
+  "sdk_pre_cad_sha256": "af329349927a129a4947741034a964c3d52ca4a603b3c52bbac94dc163712e6f",
+  "cad_observed_at": "2026-10-09T17:19:56.859838+00:00",
+  "cad_layer_count": 49,
+  "cad_active_layer": "03_PILOTO_MECANIZADO",
+  "phase_visibility_confirmed_live": true,
+  "block_model_rendered_in_this_check": false,
+  "window_arrangement": "1194x824 origin428,-10; 1186x816 origin438,0 unchanged in UI observations",
+  "report": "CAD_guardado_verificacion.json"
+}

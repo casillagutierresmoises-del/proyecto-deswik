@@ -1,0 +1,9 @@
+{
+  "solids_exactly_unchanged": true,
+  "solid_count": 38,
+  "previous_dxf_sha256": "fd72a7613d91cc02cc32084bafb3a998f8810c98cbeac498e950692d8ecac002",
+  "revised_dxf_sha256": "98ba5e91afa78982658a5097ae58cc31f7d722e8e2cd7911d4317e7829da2274",
+  "change": "Eight escape rest outline markers, spacing along inclined axis 4.436897916 m",
+  "original_cover_report_sha256": "e21fe6f275b22c24eaed6c3ab0d7ef913614821c88aca88f8a76bf4a5ec917ad",
+  "scope": "Previous native terrain sampling applies to the 38 identical solids; rest outlines are conceptual markers"
+}

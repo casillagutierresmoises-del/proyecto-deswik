@@ -1,58 +1,56 @@
 # proyecto-deswik
 
-Proyecto independiente de minería subterránea desarrollado en **Deswik CAD 2026.1**. Esta versión reúne la topografía original y una veta conceptual con su geometría, atributos, exportaciones y evidencia de verificación. Se preparó el 5 de octubre de 2026 como copia independiente del proyecto de escritorio para continuar su desarrollo mediante GitHub.
+Avance al **9 de octubre de 2026, Lima**, de un proyecto conceptual de minería subterránea en **Deswik CAD 2026.1**.
 
-## Avance actual
+El archivo vigente es **[06_PILOTO_MECANIZADO/proyecto-deswik-mecanizado.duf](06_PILOTO_MECANIZADO/proyecto-deswik-mecanizado.duf)**. Es el mismo proyecto que se ha ido mejorando, con topografía y veta conservadas. El DUF de la raíz y `05_PILOTO_CYR` documentan etapas anteriores.
 
-- **Topografía dentro del DUF principal:** superficie triangulada, objetos de puntos, curvas de nivel, anotaciones y secciones originales. Estos datos están en el mismo archivo que la veta; no se dispone de una exportación DXF independiente de la topografía en este repositorio.
-- **Veta VETA_001:** buzamiento de 75°, dirección de buzamiento ESE (azimut 108.815301°), extensión vertical conceptual de 1000 m por debajo de la traza que pasa por la superficie y potencia verdadera variable de 1 a 3 m.
-- **Sólido y superficie central:** capas separadas, geometría auxiliar DXF y comprobaciones de cierre, orientación y volumen del sólido. Volumen geométrico: 2537039.801976 m³.
-- **Datos:** ficha CSV con 16 campos, diccionario y atributos incorporados al sólido. Au 4.2 g/t, Ag 65 g/t y densidad 2.7 t/m³ son ejemplos sintéticos, sin muestreo ni ensayes; el tonelaje calculado también es un ejemplo. La potencia variable es una hipótesis geométrica.
-- **Organización:** 22 capas nativas, grupos de topografía, geología, referencias y guías, respaldos y documentación de procedencia.
+## Avance del diseño
 
-**Todavía no se ha diseñado una rampa ni elegido un método de explotación.** No hay modelo de bloques, interpolación de leyes ni clasificación de recursos o reservas. Esta es una base conceptual de trabajo; no constituye un diseño listo para ejecución ni una estimación mineral validada.
+- **6 niveles**, cotas de piso 2210, 2190, 2170, 2150, 2130 y 2110 m WCS, sobre un sector de unos 340 m de rumbo.
+- **Rampa mecanizada** de 4,5 × 4,5 m con arco, cinco vueltas de radio de eje 30 m, descansos y ensanches. Longitud 947,83 m y pendiente máxima 11,08%; accesos de nivel con radio mínimo de eje 20 m.
+- **6 tajeos:** TJ-A1 a TJ-A4 y TJ-C1 de corte y relleno ascendente, con 12 cortes por tajeo; TJ-B1 de taladros largos, con subniveles cada 20 m y anillos dibujados como líneas.
+- **Galerías, cruceros, estocadas, cámaras de carga, reservas de refugio y sumideros**, con sólidos cerrados, atributos y capas por método, nivel y función.
+- **4 chimeneas hasta superficie:** ventilación, escape, pase de mineral y relleno, conectadas a los seis niveles.
+- **Topografía, veta y 14.000 bloques originales preservados.** Los bloques siguen cubriendo el piloto de 50 × 30 m; no cubren todo el nuevo sector.
 
-## Vista de referencia
+Cobertura vertical mínima comprobada de las labores ordinarias: 21,94 m. Cobertura geométrica de techo en el socavón de bocamina: 4,19 m; la competencia de la roca todavía debe validarse. Mineral conceptual: 12.656,2 m³ y 34.171,6 t usando densidad supuesta de 2,7 t/m³; relleno geométrico 22.268,6 m³. Las cantidades y supuestos completos están en el resumen y en el Excel.
 
-![Vista de referencia de la topografía gris y la veta roja](03_documentacion/vista-topografia-veta.png)
+## Imágenes del avance
 
-Captura aportada durante el trabajo local. Sirve para identificar el modelo; no reemplaza la revisión de la geometría en Deswik.
+### Captura real de Deswik CAD
 
-## Archivos
+![Proyecto mecanizado abierto en Deswik CAD](06_PILOTO_MECANIZADO/04_imagenes/Captura_Deswik_2026-10-09.jpg)
 
-| Ruta | Contenido |
-|---|---|
-| [proyecto-deswik.duf](proyecto-deswik.duf) | Proyecto principal: topografía, veta y atributos nativos |
-| [01_datos](01_datos/) | Ficha de ejemplo y diccionario de atributos |
-| [02_geometria](02_geometria/) | DXF del sólido con superficie central y DXF de guías |
-| [03_documentacion](03_documentacion/) | Ficha, procedencia, verificaciones, inventarios y vista de referencia |
-| [04_respaldo](04_respaldo/) | Versión anterior a la organización de capas |
+Captura del proyecto abierto después de guardar; el encuadre es el que tenía la sesión del usuario y muestra parte del modelo.
 
-El repositorio conserva los datos y documentos del proyecto. No incluye entornos Python, configuración personal de Codex, credenciales, add-ins comunitarios ni archivos temporales de bloqueo o respaldos automáticos de Deswik. Las herramientas y habilidades preparadas en el PC están descritas en [Herramientas_y_habilidades.md](03_documentacion/Herramientas_y_habilidades.md); ese documento registra la instalación local, no instala componentes en otra máquina.
+### Vista isométrica del diseño
 
-## Abrir y continuar
+![Isométrica de la ampliación mecanizada](06_PILOTO_MECANIZADO/02_geometria/Ampliacion/Isometrica_ampliacion.png)
+
+### Proyección longitudinal
+
+![Proyección longitudinal con niveles y tajeos](06_PILOTO_MECANIZADO/02_geometria/Ampliacion/Seccion_longitudinal.png)
+
+Las dos últimas imágenes se generaron con las coordenadas y mallas verificadas. La longitudinal es una proyección sobre el rumbo, no una intersección por plano ni una sección nativa de CAD.
+
+## Descargar y continuar
 
 1. Descargar o clonar el repositorio completo.
-2. Abrir **proyecto-deswik.duf** en Deswik CAD. La referencia de versión usada es 2026.1; no se ha probado compatibilidad con otras versiones.
-3. Consultar [Veta_ficha.md](03_documentacion/Veta_ficha.md) y [Diccionario_atributos.csv](01_datos/Diccionario_atributos.csv) antes de modificar o importar datos.
-4. Trabajar sobre el DUF principal y guardar los cambios. El archivo de `04_respaldo` conserva una etapa anterior.
+2. Abrir [proyecto-deswik-mecanizado.duf](06_PILOTO_MECANIZADO/proyecto-deswik-mecanizado.duf) en Deswik CAD 2026.1. Conservar `06_PILOTO_MECANIZADO/01_datos` junto al DUF para su referencia relativa `Bloques_piloto.dm`.
+3. Consultar el [resumen de la ampliación](06_PILOTO_MECANIZADO/03_documentacion/Ampliacion/Resumen_ampliacion.md) y las [mediciones editables](06_PILOTO_MECANIZADO/01_datos/Ampliacion/Mediciones_mecanizado.xlsx).
+4. El ZIP de evidencia extensa se entrega en [partes verificadas](06_PILOTO_MECANIZADO/02_geometria/Ampliacion/Paquete_evidencia/README.md). Su reconstrucción es opcional para usar el DUF, los datos y las vistas.
 
-Las capas principales son `01_TOPOGRAFIA`, `02_GEOLOGIA_VETA_001`, `03_REFERENCIAS`, `04_SUPERFICIES_AUX` y `90_GUIAS_VETA`. El sólido está en `02_GEOLOGIA_VETA_001\01_SOLIDO_POT_1_3M`; la superficie central está en `02_GEOLOGIA_VETA_001\02_SUPERFICIE_CENTRAL`. Las curvas y objetos de puntos pueden estar ocultos: consultar [Inventario_capas.csv](03_documentacion/Inventario_capas.csv).
+| Carpeta | Contenido |
+|---|---|
+| [06_PILOTO_MECANIZADO](06_PILOTO_MECANIZADO/) | Proyecto vigente, bloques, topografía TIN, mediciones, geometría, informes y captura |
+| [05_PILOTO_CYR](05_PILOTO_CYR/) | Antecedente del piloto de corte y relleno de 50 × 30 m |
+| [01_datos](01_datos/), [02_geometria](02_geometria/), [03_documentacion](03_documentacion/) | Base geológica original y documentación histórica |
+| [04_respaldo](04_respaldo/) | Respaldo histórico publicado en la primera entrega |
 
-Identificador del sólido: `VETA_ID=VETA_001`, GUID `1387534c-b5c9-4846-b6c5-8d2e859c9c84`, handle guardado `2676` decimal / `A74` hexadecimal. Un handle puede cambiar al editar; comprobar la identidad antes de volver a importar la ficha por HANDLE.
+## Verificación y límites
 
-Los CSV usan coma y punto decimal. Los 16 atributos de Deswik se guardaron como texto: convertir explícitamente los campos numéricos antes de calcular y conservar los datos ausentes como ausentes. Los metros proceden del diccionario y la procedencia; el DXF R12 auxiliar no declara INSUNITS. No se ha identificado en la documentación un sistema de referencia geodésico para reinterpretar las coordenadas.
+La ampliación se revisó con 407 sólidos cerrados de volumen positivo, 383 polilíneas y 40 textos. Se comprobaron cobertura, ejes, pilares e interferencias; las conexiones y fases mutuamente excluyentes están identificadas. La carga en la sesión licenciada de Deswik también se comprobó. El último guardado para esta publicación se compara con esa revisión en [Verificacion_ultimo_guardado.json](06_PILOTO_MECANIZADO/03_documentacion/Publicacion/Verificacion_ultimo_guardado.json). Las fuentes oficiales peruanas y fichas de equipos están en [Criterios_y_fuentes.md](06_PILOTO_MECANIZADO/03_documentacion/Ampliacion/Criterios_y_fuentes.md).
 
-## Evidencia y trazabilidad
+**Diseño conceptual con geometría, leyes y densidad sintéticas, no apto para ejecución sin validación geotécnica, sostenimiento, ventilación, vías de escape y maniobras de equipos.** No constituye una estimación de recursos o reservas. Falta una sección longitudinal nativa de CAD y definir EPSG/datum. Los mínimos del encargo no se presentan como mínimos normativos universales.
 
-- [Verificacion_proyecto_deswik.json](03_documentacion/Verificacion_proyecto_deswik.json): lectura nativa del proyecto guardado, capas, sólido y atributos.
-- [Procedencia_del_modelo.md](03_documentacion/Procedencia_del_modelo.md): construcción, copias y cambios de identificadores.
-- [Inventario_archivos_sha256.csv](03_documentacion/Inventario_archivos_sha256.csv): tamaños y hashes de los archivos de esta copia, sin incluir el propio inventario ni `.git`.
-- [Verificacion_copia_publicacion.json](03_documentacion/Verificacion_copia_publicacion.json): comprobación de integridad al preparar la copia independiente.
-- [README_paquete_escritorio_original.md](03_documentacion/README_paquete_escritorio_original.md): instrucciones originales del paquete local, preservadas como documento histórico.
-
-Los manifiestos y verificaciones anteriores conservan sus rutas locales y nombres de capa de la etapa en que se generaron. No son rutas que deban existir en el equipo de quien descargue el repositorio. Los archivos con sufijo `_original` son evidencia histórica; el DUF de la raíz y la ficha CSV de `01_datos` corresponden al estado organizado.
-
-## Próximos pasos
-
-Incorporar información trazable de geología, muestreo, geotecnia y topografía; revisar continuidad y potencia de la veta; y comparar métodos de explotación cuando existan los datos necesarios. El diseño de accesos, rampas, niveles y tajos se definirá después con parámetros de proyecto acordados y verificaciones específicas.
+Los archivos de respaldo automático, bloqueos, entornos, credenciales y componentes de software del PC no se incluyen en esta actualización. Los manifiestos históricos mantienen sus rutas y hashes de la etapa en que se generaron. El perfil de importación antiguo de `05_PILOTO_CYR` usa rutas absolutas que deben reajustarse en otro equipo; el DUF vigente enlaza el modelo de bloques por ruta relativa.

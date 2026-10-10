@@ -1,0 +1,66 @@
+{
+  "proyecto": "proyecto-deswik",
+  "revision": "2026-10-09",
+  "estado": "DUF_INTEGRADO_VERIFICADO_APERTURA_CAD_PENDIENTE",
+  "documento_fuente": "C:/Users/moise/OneDrive/Escritorio/proyecto-deswik/proyecto-deswik.duf",
+  "alcance_confirmado": {
+    "longitud_rumbo_m": 50,
+    "altura_vertical_m": 30,
+    "ubicacion": "Centrado en la zona marcada por el usuario",
+    "unidades": "m",
+    "crs": "NO_DOCUMENTADO",
+    "centro_marca_wcs": [
+      5085,
+      10675,
+      2192.86424255
+    ],
+    "centro_panel_wcs": [
+      5042.773218814491,
+      10689.387754073288,
+      2112.9608782041414
+    ]
+  },
+  "geologia_fuente": {
+    "veta_id": "VETA_001",
+    "buzamiento_grados": 75,
+    "azimut_buzamiento_grados": 108.81530145811885,
+    "potencia_verdadera_m": [
+      1,
+      3
+    ],
+    "estado_datos": "SINTETICO_NO_ENSAYADO"
+  },
+  "modelo_bloques": {
+    "salida_prevista": "CSV y Datamine .dm nativo creado y verificado",
+    "celdas_ejes_locales_m": [
+      0.5,
+      2,
+      1.5
+    ],
+    "leyes": "SINTETICAS_NO_ENSAYADAS",
+    "densidad": "SUPUESTA",
+    "perfil_importacion_nativo_verificado": true,
+    "archivo_datamine": "C:/Users/moise/OneDrive/Escritorio/proyecto-deswik/05_PILOTO_CYR/01_datos/Bloques_piloto.dm",
+    "archivo_datamine_creado_y_releido": true,
+    "creado_en_cad": false,
+    "referencia_visualizacion_en_duf": true,
+    "visualizado_en_cad": false
+  },
+  "laboreo": {
+    "metodo": "CORTE_Y_RELLENO_ASCENDENTE_CONCEPTUAL",
+    "cortes_previstos": 10,
+    "altura_corte_m": 3,
+    "rampa_raises_y_accesos": "SUPUESTOS_PENDIENTES_DE_VALIDACION",
+    "creado_en_cad": false,
+    "integrado_en_duf": true,
+    "abierto_en_cad": false
+  },
+  "normativa": {
+    "nota": "peru_referencias.md",
+    "evaluacion_geomecanica": "NO_DISPONIBLE",
+    "diseno_operativo_aprobado": false
+  },
+  "copia_duf_base": "C:/Users/moise/OneDrive/Escritorio/proyecto-deswik/05_PILOTO_CYR/proyecto-deswik-piloto-cyr.duf",
+  "condicion_siguiente": "Abrir copia integrada en Deswik y comprobar visualizacion del modelo Datamine",
+  "documento_fuente_sha256": "dad5de0a4311d47f7b77340aca039e0bb60c4033edd5409da4ba942ebe1e276d"
+}

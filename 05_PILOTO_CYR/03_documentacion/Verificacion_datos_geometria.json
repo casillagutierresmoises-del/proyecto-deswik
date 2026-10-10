@@ -1,0 +1,15 @@
+{
+  "csv_records": 14000,
+  "unique_ids_and_indices": true,
+  "fields_max8": true,
+  "missing_values": 0,
+  "all_synthetic": true,
+  "world_centroid_max_error_m": 5.002220859751105e-10,
+  "ore_tonnage_identity_max_error_t": 2.4999997627617176e-09,
+  "saved_dxf_closed_oriented_polyfaces": 38,
+  "saved_dxf_zero_area_faces": 0,
+  "saved_dxf_volume_max_error_m3": 1.0686562745831907e-10,
+  "insunits_code": 0,
+  "units_confirmed_by_project_and_manifest": "m",
+  "native_cad_or_block_model_check": false
+}

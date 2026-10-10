@@ -1,0 +1,2274 @@
+{
+  "verified": true,
+  "observed_utc": "2026-10-09T17:19:56.859838+00:00",
+  "document": {
+    "filename": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\06_PILOTO_MECANIZADO\\proyecto-deswik-mecanizado.duf",
+    "fileDirectory": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\06_PILOTO_MECANIZADO",
+    "isDirty": false,
+    "isReadOnly": false,
+    "activeLayerName": "03_PILOTO_MECANIZADO",
+    "activeLayoutName": "MODEL",
+    "layerCount": 49
+  },
+  "cad_saved": true,
+  "cad_duf_sha256": "6d77bd003b1ed498d76889ce7fdf8bb88600c45ffbfa758c99e7b9f5a1d8d5a6",
+  "sdk_pre_cad_duf_sha256": "af329349927a129a4947741034a964c3d52ca4a603b3c52bbac94dc163712e6f",
+  "all_167_exported_figures_coordinates_indices_text_positions_and_volumes_exact_after_cad_save": true,
+  "cad_geometry_cache_and_style_reference_normalizations": [
+    {
+      "guid": "3c0d7090-a7df-4d80-a2c2-a87e1946c74c",
+      "field": "cached_area",
+      "delta_m2": 2.2737367544323206e-13
+    },
+    {
+      "guid": "bd8fe8ec-0118-419d-830f-bf9b4e6adbfa",
+      "field": "styleHandle",
+      "before": 0,
+      "after": 100,
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "bd8fe8ec-0118-419d-830f-bf9b4e6adbfa",
+      "field": "style",
+      "before": null,
+      "after": "STANDARD",
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "cb21a4b7-f895-417b-98aa-c59a5ef0f9a1",
+      "field": "styleHandle",
+      "before": 0,
+      "after": 100,
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "cb21a4b7-f895-417b-98aa-c59a5ef0f9a1",
+      "field": "style",
+      "before": null,
+      "after": "STANDARD",
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "6a16cc9d-b840-423f-afd3-77ff0ac161cb",
+      "field": "styleHandle",
+      "before": 0,
+      "after": 100,
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "6a16cc9d-b840-423f-afd3-77ff0ac161cb",
+      "field": "style",
+      "before": null,
+      "after": "STANDARD",
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "5add5d72-5bf2-47a0-9bd4-6fd89b01b462",
+      "field": "styleHandle",
+      "before": 0,
+      "after": 100,
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "5add5d72-5bf2-47a0-9bd4-6fd89b01b462",
+      "field": "style",
+      "before": null,
+      "after": "STANDARD",
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "0d082912-f451-4079-a28a-be4b6377958d",
+      "field": "styleHandle",
+      "before": 0,
+      "after": 100,
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "0d082912-f451-4079-a28a-be4b6377958d",
+      "field": "style",
+      "before": null,
+      "after": "STANDARD",
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "cf51961c-a6ca-47da-98f8-bf4a6977d62e",
+      "field": "styleHandle",
+      "before": 0,
+      "after": 100,
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "cf51961c-a6ca-47da-98f8-bf4a6977d62e",
+      "field": "style",
+      "before": null,
+      "after": "STANDARD",
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "2f9aca31-e696-4808-bf1e-1b8fd9738316",
+      "field": "styleHandle",
+      "before": 0,
+      "after": 100,
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "2f9aca31-e696-4808-bf1e-1b8fd9738316",
+      "field": "style",
+      "before": null,
+      "after": "STANDARD",
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "f0e235f8-eba5-4222-93dd-1b63ed043207",
+      "field": "styleHandle",
+      "before": 0,
+      "after": 100,
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "f0e235f8-eba5-4222-93dd-1b63ed043207",
+      "field": "style",
+      "before": null,
+      "after": "STANDARD",
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "31b2619b-d851-4709-bf0f-2ab8e8475335",
+      "field": "styleHandle",
+      "before": 0,
+      "after": 100,
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "31b2619b-d851-4709-bf0f-2ab8e8475335",
+      "field": "style",
+      "before": null,
+      "after": "STANDARD",
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "d1fe4bd2-c8eb-4bee-8059-abc6a22a14f2",
+      "field": "styleHandle",
+      "before": 0,
+      "after": 100,
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "d1fe4bd2-c8eb-4bee-8059-abc6a22a14f2",
+      "field": "style",
+      "before": null,
+      "after": "STANDARD",
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "08e9b68f-c3c4-4566-9377-4ac17f044d19",
+      "field": "styleHandle",
+      "before": 0,
+      "after": 100,
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "08e9b68f-c3c4-4566-9377-4ac17f044d19",
+      "field": "style",
+      "before": null,
+      "after": "STANDARD",
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "ce605f7b-43a6-477f-8f65-5a445ddee702",
+      "field": "styleHandle",
+      "before": 0,
+      "after": 100,
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "ce605f7b-43a6-477f-8f65-5a445ddee702",
+      "field": "style",
+      "before": null,
+      "after": "STANDARD",
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "4c5f41e8-4b28-4db8-8972-dae8d1bb965a",
+      "field": "styleHandle",
+      "before": 0,
+      "after": 100,
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "4c5f41e8-4b28-4db8-8972-dae8d1bb965a",
+      "field": "style",
+      "before": null,
+      "after": "STANDARD",
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "54794896-06e0-4fb9-8475-0160402784fc",
+      "field": "styleHandle",
+      "before": 0,
+      "after": 100,
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "54794896-06e0-4fb9-8475-0160402784fc",
+      "field": "style",
+      "before": null,
+      "after": "STANDARD",
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "751fb428-d001-4d85-8075-a8fd49cbb97f",
+      "field": "styleHandle",
+      "before": 0,
+      "after": 100,
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "751fb428-d001-4d85-8075-a8fd49cbb97f",
+      "field": "style",
+      "before": null,
+      "after": "STANDARD",
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "c1f8f825-1fbd-454e-a85f-86f81eed052c",
+      "field": "styleHandle",
+      "before": 0,
+      "after": 100,
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "c1f8f825-1fbd-454e-a85f-86f81eed052c",
+      "field": "style",
+      "before": null,
+      "after": "STANDARD",
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "1b93cff1-798b-49ca-be0c-2f4788b96654",
+      "field": "styleHandle",
+      "before": 0,
+      "after": 100,
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "1b93cff1-798b-49ca-be0c-2f4788b96654",
+      "field": "style",
+      "before": null,
+      "after": "STANDARD",
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "b519fec8-60a4-4fbf-98a6-0f1e027703e9",
+      "field": "styleHandle",
+      "before": 0,
+      "after": 100,
+      "same_registered_style_guid": true
+    },
+    {
+      "guid": "b519fec8-60a4-4fbf-98a6-0f1e027703e9",
+      "field": "style",
+      "before": null,
+      "after": "STANDARD",
+      "same_registered_style_guid": true
+    }
+  ],
+  "all_preexisting_entity_field_values_and_types_preserved": true,
+  "cad_materialized_only_declared_layer_default_fields": [
+    {
+      "guid": "b6cca575-b154-433e-8e68-3ca0443f50ef",
+      "label": "MINERAL_TAJO_C01",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "bdf4d37f-6c2d-4699-bf4b-36041352f6a2",
+      "label": "MINERAL_TAJO_C02",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "c1e1eb89-bb59-4ee9-a1a1-d2896a83b425",
+      "label": "MINERAL_TAJO_C03",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "6696d026-080c-4d90-9636-ae9085efdbb7",
+      "label": "MINERAL_TAJO_C04",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "a5bcfdf2-cbb9-410d-9ceb-31d153794dda",
+      "label": "MINERAL_TAJO_C05",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "0f2ca99c-909e-4e16-a80b-e304bf6092e8",
+      "label": "MINERAL_TAJO_C06",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "f6835793-e581-4450-bbae-9dc5add11716",
+      "label": "MINERAL_TAJO_C07",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "988fa5ae-e5de-4de8-a92b-bee327d3906c",
+      "label": "MINERAL_TAJO_C08",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "0671b19b-2af8-4d14-b642-0efa40eefe97",
+      "label": "MINERAL_TAJO_C09",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "03149268-05a8-4b45-b92d-75add7c1c654",
+      "label": "MINERAL_TAJO_C10",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "3c0d7090-a7df-4d80-a2c2-a87e1946c74c",
+      "label": "EXC_C01",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "ac712599-33c0-4efb-ab8e-4380cd39d0ff",
+      "label": "EXC_C02",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "71c808ab-857c-43a4-b834-22ca2e9e511e",
+      "label": "EXC_C03",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "4e98eb28-2ae8-4e83-bedf-5f8b53bb3dd0",
+      "label": "EXC_C04",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "712d7718-c70a-4c0c-b480-7cf9df66931d",
+      "label": "EXC_C05",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "c0b9b97b-787e-424e-980d-a9163337259b",
+      "label": "EXC_C06",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "fd30e0bd-b777-487c-b04b-3ebe90ca13fe",
+      "label": "EXC_C07",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "fa83dfb1-997d-4c1a-8b24-f5b6c6c1d6db",
+      "label": "EXC_C08",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "0677e89b-95b8-4ce9-bff1-c4c1b1e7e15f",
+      "label": "EXC_C09",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "a93feec5-bbc3-4ed9-9b2e-ca4743932422",
+      "label": "EXC_C10",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "42daf8be-ffbc-46fa-acab-7eed03580dc0",
+      "label": "RMP_A01",
+      "added_default_fields": [
+        "TAPER_LEN_M",
+        "USEFUL_LEN_M"
+      ]
+    },
+    {
+      "guid": "0f8a40d2-485b-49ba-aa2a-c744ca594f9d",
+      "label": "RMP_A03",
+      "added_default_fields": [
+        "TAPER_LEN_M",
+        "USEFUL_LEN_M"
+      ]
+    },
+    {
+      "guid": "89beca25-4f8d-4ad8-88e5-45a62281a840",
+      "label": "RMP_A05",
+      "added_default_fields": [
+        "TAPER_LEN_M",
+        "USEFUL_LEN_M"
+      ]
+    },
+    {
+      "guid": "13b58cd9-ddd9-4666-8804-c56ffd1ea0b7",
+      "label": "RMP_A07",
+      "added_default_fields": [
+        "TAPER_LEN_M",
+        "USEFUL_LEN_M"
+      ]
+    },
+    {
+      "guid": "d8fbacac-105e-4964-b3a6-9cbb6833487f",
+      "label": "RMP_A09",
+      "added_default_fields": [
+        "TAPER_LEN_M",
+        "USEFUL_LEN_M"
+      ]
+    },
+    {
+      "guid": "a577dbd2-b180-4b44-b508-70e700d1f030",
+      "label": "RMP_A11",
+      "added_default_fields": [
+        "TAPER_LEN_M",
+        "USEFUL_LEN_M"
+      ]
+    },
+    {
+      "guid": "50f5918e-4036-4b3c-8542-805ec5a7abe4",
+      "label": "RMP_A13",
+      "added_default_fields": [
+        "TAPER_LEN_M",
+        "USEFUL_LEN_M"
+      ]
+    },
+    {
+      "guid": "b36a49b0-09df-4e18-931f-93e0a36dd6d5",
+      "label": "RMP_A15",
+      "added_default_fields": [
+        "TAPER_LEN_M",
+        "USEFUL_LEN_M"
+      ]
+    },
+    {
+      "guid": "98fcd206-cd9a-46c7-99ff-41da7b772edf",
+      "label": "RMP_A17",
+      "added_default_fields": [
+        "TAPER_LEN_M",
+        "USEFUL_LEN_M"
+      ]
+    },
+    {
+      "guid": "b8ee7cb9-cebd-4f12-9cac-35dda8e91d72",
+      "label": "RMP_A19",
+      "added_default_fields": [
+        "TAPER_LEN_M",
+        "USEFUL_LEN_M"
+      ]
+    },
+    {
+      "guid": "8fef2f9c-fbc6-4cd3-a501-eed89af14072",
+      "label": "CX_N01_ESP",
+      "added_default_fields": [
+        "RADIUS_M",
+        "SECTION_TRANSITION"
+      ]
+    },
+    {
+      "guid": "b89f66d8-c874-49e5-822d-d59e3db1fdf0",
+      "label": "CX_N01_ENT",
+      "added_default_fields": [
+        "BRANCH_CONNECTION",
+        "RADIUS_M",
+        "SECTION_TRANSITION",
+        "START_GRADE_SIGN"
+      ]
+    },
+    {
+      "guid": "2f11d234-6a78-4f86-94a9-f900c19ae18f",
+      "label": "EST_CARGA_01",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "16d323e5-1cc6-4e6e-a648-4128eb877798",
+      "label": "CX_N01_SAL",
+      "added_default_fields": [
+        "BRANCH_CONNECTION",
+        "RADIUS_M",
+        "SECTION_TRANSITION",
+        "START_GRADE_SIGN"
+      ]
+    },
+    {
+      "guid": "4a818885-d4f6-4083-83bc-61a709006f3e",
+      "label": "CX_N01_CURVA",
+      "added_default_fields": [
+        "BRANCH_CONNECTION",
+        "START_GRADE_SIGN"
+      ]
+    },
+    {
+      "guid": "e8aa450d-1319-4e81-b103-9f5b6c92e417",
+      "label": "GAL_N01",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "e26ddd39-7ad8-4f59-9a34-8479199f8177",
+      "label": "EST_N01",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "3caa4814-4547-4965-ba7e-80b092b4c826",
+      "label": "CX_N02_ESP",
+      "added_default_fields": [
+        "RADIUS_M",
+        "SECTION_TRANSITION"
+      ]
+    },
+    {
+      "guid": "ac569b3a-cbb4-4bdd-bec1-046b79906e36",
+      "label": "CX_N02_RECT",
+      "added_default_fields": [
+        "BRANCH_CONNECTION",
+        "RADIUS_M",
+        "SECTION_TRANSITION",
+        "START_GRADE_SIGN"
+      ]
+    },
+    {
+      "guid": "ca097283-961b-41db-bed6-e9d822903b2e",
+      "label": "CX_N02_CURVA",
+      "added_default_fields": [
+        "BRANCH_CONNECTION",
+        "START_GRADE_SIGN"
+      ]
+    },
+    {
+      "guid": "7d792834-fb40-4a72-84dc-40ebe4b529e7",
+      "label": "GAL_N02",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "c039876b-0deb-4dcf-a5f6-ffddf61c5fa1",
+      "label": "EST_N02",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "67fa600e-65c7-4d02-b97c-abb9ed3a6871",
+      "label": "CX_N03_ESP",
+      "added_default_fields": [
+        "RADIUS_M",
+        "SECTION_TRANSITION"
+      ]
+    },
+    {
+      "guid": "81a10017-e3bd-4a58-abcc-178b8cf352ba",
+      "label": "CX_N03_RECT",
+      "added_default_fields": [
+        "BRANCH_CONNECTION",
+        "RADIUS_M",
+        "SECTION_TRANSITION",
+        "START_GRADE_SIGN"
+      ]
+    },
+    {
+      "guid": "636d72ed-d288-4bbb-bc4a-bb36a3191e8f",
+      "label": "CX_N03_CURVA",
+      "added_default_fields": [
+        "BRANCH_CONNECTION",
+        "START_GRADE_SIGN"
+      ]
+    },
+    {
+      "guid": "98f2c8f5-98b9-4970-bde4-f8aff235784d",
+      "label": "GAL_N03",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "e9fff1f3-320e-4f3f-a915-700e454208a4",
+      "label": "EST_N03",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "17ce8f24-dba1-47d7-9033-2bfb24e219b9",
+      "label": "CX_N04_ESP",
+      "added_default_fields": [
+        "RADIUS_M",
+        "SECTION_TRANSITION"
+      ]
+    },
+    {
+      "guid": "1b524111-926a-452c-84f1-f726b4977e76",
+      "label": "CX_N04_RECT",
+      "added_default_fields": [
+        "BRANCH_CONNECTION",
+        "RADIUS_M",
+        "SECTION_TRANSITION",
+        "START_GRADE_SIGN"
+      ]
+    },
+    {
+      "guid": "70a9b7ac-5e05-4b1e-8083-fee288a2e162",
+      "label": "CX_N04_CURVA",
+      "added_default_fields": [
+        "BRANCH_CONNECTION",
+        "START_GRADE_SIGN"
+      ]
+    },
+    {
+      "guid": "4843ce16-ca21-414e-a7a2-b8614e42c41a",
+      "label": "GAL_N04",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "505e8d16-99ae-4344-825d-57d022e96315",
+      "label": "EST_N04",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "023f0c27-fc62-4d7d-bcad-cf05769c743d",
+      "label": "CH_TRANSITO_01",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "LENGTH_M",
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "6b123f6a-d1b2-4bf0-92f4-3f4ca0cd8cf7",
+      "label": "CX_CH_TR_N01",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "f2df162e-de9d-4757-898d-3a310fb21912",
+      "label": "CX_CH_TR_N02",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "8b0e5106-c17a-48bc-b58a-342ec5223aff",
+      "label": "CX_CH_TR_N03",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "74b3228d-277c-42a5-8c35-75ad095be53e",
+      "label": "CX_CH_TR_N04",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "3a79f962-08ef-4299-8da1-1e54a8c50f18",
+      "label": "CH_VENT_01",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "LENGTH_M",
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "f8cb1f4f-dfeb-4c14-904c-9d02fd497fce",
+      "label": "CX_CH_VT_N01",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "78302094-c2ff-443e-b0cc-fa36beb34e62",
+      "label": "CX_CH_VT_N02",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "6dc3719d-1939-470c-a025-d44b56953193",
+      "label": "CX_CH_VT_N03",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "2f222f06-f11d-4274-884c-95fd4a3da132",
+      "label": "CX_CH_VT_N04",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "25dbbeca-c26c-4f64-8295-96b4b1a2c6af",
+      "label": "ACC_SUP_01",
+      "added_default_fields": [
+        "RADIUS_M"
+      ]
+    },
+    {
+      "guid": "97d42702-df0b-4be2-85b1-26fc774cad07",
+      "label": "BAN_CUT_01",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "6d9cae72-bd4a-434f-83be-04b0690049db",
+      "label": "BAN_FILL_01",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "36679132-1959-435b-a3c9-158285086811",
+      "label": "EXC_C01_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "cf90af04-8faa-4b37-8460-d4f01598de5f",
+      "label": "EXC_C02_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "4fd600cb-43d7-41ab-be9c-27d056a993d1",
+      "label": "EXC_C03_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "6f579c83-c338-4255-9e76-280f3a688b84",
+      "label": "EXC_C04_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "62322fd9-f9c4-430f-b20a-2bdb4a555524",
+      "label": "EXC_C05_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "84c01892-6be7-4579-9887-acf26ed1fbd8",
+      "label": "EXC_C06_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "fd284239-3dd2-40a1-9b1d-27294d6f9572",
+      "label": "EXC_C07_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "8634c66c-90ea-455f-b6e3-d2cf65ba247f",
+      "label": "EXC_C08_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "b720efb5-74d5-4a8f-a4ca-0b24256fa881",
+      "label": "EXC_C09_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "90a85045-1643-4704-bf40-f89fc4bcb42e",
+      "label": "EXC_C10_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "45be5999-55d6-4740-96db-6b1d5409e79d",
+      "label": "RMP_A01_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "c41a7107-d41a-4ca5-a642-f62abcd35018",
+      "label": "REF_P01_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "9e899e3a-b047-4d5b-a595-9d387c43447b",
+      "label": "RMP_A03_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "28c0da62-39e9-4577-a828-7f2914879aaa",
+      "label": "BAY_P01_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "6ccdb61d-f493-43c5-a4a3-28fc2aa7fe94",
+      "label": "RMP_A05_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "4c89b454-8eec-4753-bb91-cec4ce36dfcd",
+      "label": "REF_P03_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "cade9181-43fb-4139-b89f-efd656ebe09c",
+      "label": "RMP_A07_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "fd1c82d0-d45e-4f54-9e8e-ce8ca43e49ed",
+      "label": "REF_P04_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "5528fcd2-bae0-48d2-80ee-b1e1657b60fd",
+      "label": "RMP_A09_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "b1d50345-7aee-40a2-8200-43e2c9b03af6",
+      "label": "BAY_P02_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "e5a7d7b1-0ec4-4367-b8e2-9e34bf0f637e",
+      "label": "RMP_A11_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "535e2fff-e6b4-4635-a124-c1db2f0cf5a4",
+      "label": "REF_P07_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "080c1f2b-5a6d-45b0-a796-8d3efb894f7f",
+      "label": "RMP_A13_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "dd8a5738-2136-4cfc-85bb-87f4655f036f",
+      "label": "BAY_P03_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "1d0b578e-279b-4b3f-94f0-2e4962abe872",
+      "label": "RMP_A15_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "e4cc820c-4561-4afe-8c34-ec85eef6b98f",
+      "label": "REF_P10_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "bf3a0868-c8f6-448e-9fcc-6dbd0eb83f45",
+      "label": "RMP_A17_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "59f45e5b-9c18-406a-b075-a79c0b217195",
+      "label": "REF_P11_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "48b88e4e-3422-4229-8006-e6bb3b94509d",
+      "label": "RMP_A19_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "ee239ab4-08bd-4c34-a587-15269d5fbceb",
+      "label": "CX_N01_ESP_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "b7c85c5b-d79d-4aff-b419-c0010c8862a5",
+      "label": "CX_N01_ENT_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "a18b83cc-30c6-4a53-89b9-c021d1672fce",
+      "label": "EST_CARGA_01_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "1db80ff8-5b0f-4b7c-af74-6c52df6d54d7",
+      "label": "CX_N01_SAL_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "7ab3bf14-da81-49ce-80a5-4f951ac439fa",
+      "label": "CX_N01_CURVA_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "7124dcf9-d0d3-4340-8930-582da029431e",
+      "label": "GAL_N01_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "844c624b-b58e-44a2-b6a4-5511f49e6b9d",
+      "label": "EST_N01_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "1a43bfda-6642-4de7-9be1-10ee07b74897",
+      "label": "CX_N02_ESP_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "52532490-d781-4451-a61b-6f277a07470e",
+      "label": "CX_N02_RECT_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "7617ff72-6abb-487e-a069-7a83ef4bee6b",
+      "label": "CX_N02_CURVA_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "a42df4e4-c9c3-454f-bbcf-e3d486570a32",
+      "label": "GAL_N02_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "b341a587-b4bb-4e49-b49b-6185257ac01a",
+      "label": "EST_N02_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "b421bdfe-6227-426c-8599-e07e0626d3a3",
+      "label": "CX_N03_ESP_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "c9472569-a0e3-45c0-a6f2-3c7b5aa7ae75",
+      "label": "CX_N03_RECT_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "4c642c42-d1b5-4a44-bbb8-b5d31ed98db9",
+      "label": "CX_N03_CURVA_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "e3ad8db8-4abf-4cf7-add7-f9a6b712a87d",
+      "label": "GAL_N03_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "2b934c4c-b617-475c-b29a-082647996a70",
+      "label": "EST_N03_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "a8a416ea-0bc2-4a13-b110-88e34093cb4d",
+      "label": "CX_N04_ESP_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "85beb195-a1c8-4943-9ae8-3496a8a4f6f2",
+      "label": "CX_N04_RECT_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "f771a2dd-9700-48fe-ba81-2ecd3c79cdb6",
+      "label": "CX_N04_CURVA_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "099c7401-bdd0-46f7-a455-1459bde3843b",
+      "label": "GAL_N04_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "0ab0fd52-8feb-4153-a02b-ec3285c2c005",
+      "label": "EST_N04_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "28849e36-ebef-4c85-b46b-19244b3cc1ca",
+      "label": "CH_TRANSITO_01_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "PARENT_ID",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "99f32a5d-35b4-4bbf-a3ab-73ab655848ab",
+      "label": "DESC_TRANS_00",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "f95f54f0-1a1f-4427-8b84-e17b29b33934",
+      "label": "DESC_TRANS_01",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "a79d2234-8116-448e-8ddb-02983bfad82a",
+      "label": "DESC_TRANS_02",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "d6f210df-b881-46f1-a57b-cb6832717b8a",
+      "label": "DESC_TRANS_03",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "6fcf95b9-17ac-4677-8e6c-6acab7cce9d2",
+      "label": "DESC_TRANS_04",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "ba9e26a1-d1e9-441e-89f7-5282c5d512a3",
+      "label": "DESC_TRANS_05",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "26c47162-4f45-48a2-88b7-339477698563",
+      "label": "DESC_TRANS_06",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "29fe6628-bb55-4eeb-82b2-271bb78de60b",
+      "label": "CX_CH_TR_N01_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "f57e4be3-fabd-46c8-9300-475b98bd3b09",
+      "label": "CX_CH_TR_N02_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "78a5a2aa-c60d-4dbf-b9bc-a067ec3adeae",
+      "label": "CX_CH_TR_N03_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "7d12997f-16db-4400-a478-f82f0b6f0e82",
+      "label": "CX_CH_TR_N04_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "8cf7a81e-c919-444a-929f-5b7f7c1e1c68",
+      "label": "CH_VENT_01_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "PARENT_ID",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "87b2801b-880a-4927-8ba4-2b5371d1ac4d",
+      "label": "CX_CH_VT_N01_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "1dfbbd53-4867-4d2d-a37f-8f38dfa1d377",
+      "label": "CX_CH_VT_N02_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "5da016b2-7659-4f08-a01d-a51b8cef6ce8",
+      "label": "CX_CH_VT_N03_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "ce536740-bdde-459e-af8b-0087fdfd8618",
+      "label": "CX_CH_VT_N04_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "37cdbc7f-0101-46c2-bcf3-3adfc7303c6d",
+      "label": "ACC_SUP_01_EJE",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "7ef3bd9f-7e26-408d-8ed7-c5d0b71ed701",
+      "label": "BOCAMINA_01",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "bd8fe8ec-0118-419d-830f-bf9b4e6adbfa",
+      "label": "TXT_PANEL",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "cb21a4b7-f895-417b-98aa-c59a5ef0f9a1",
+      "label": "TXT_REF_P01",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "6a16cc9d-b840-423f-afd3-77ff0ac161cb",
+      "label": "TXT_BAY_P01",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "5add5d72-5bf2-47a0-9bd4-6fd89b01b462",
+      "label": "TXT_REF_P03",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "0d082912-f451-4079-a28a-be4b6377958d",
+      "label": "TXT_REF_P04",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "cf51961c-a6ca-47da-98f8-bf4a6977d62e",
+      "label": "TXT_BAY_P02",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "2f9aca31-e696-4808-bf1e-1b8fd9738316",
+      "label": "TXT_REF_P07",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "f0e235f8-eba5-4222-93dd-1b63ed043207",
+      "label": "TXT_BAY_P03",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "31b2619b-d851-4709-bf0f-2ab8e8475335",
+      "label": "TXT_REF_P10",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "d1fe4bd2-c8eb-4bee-8059-abc6a22a14f2",
+      "label": "TXT_REF_P11",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "08e9b68f-c3c4-4566-9377-4ac17f044d19",
+      "label": "TXT_CARGA",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "ce605f7b-43a6-477f-8f65-5a445ddee702",
+      "label": "TXT_NIVEL_01",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "4c5f41e8-4b28-4db8-8972-dae8d1bb965a",
+      "label": "TXT_NIVEL_02",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "54794896-06e0-4fb9-8475-0160402784fc",
+      "label": "TXT_NIVEL_03",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "751fb428-d001-4d85-8075-a8fd49cbb97f",
+      "label": "TXT_NIVEL_04",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "c1f8f825-1fbd-454e-a85f-86f81eed052c",
+      "label": "TXT_CH_TRANSITO_01",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "1b93cff1-798b-49ca-be0c-2f4788b96654",
+      "label": "TXT_CH_VENT_01",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    },
+    {
+      "guid": "b519fec8-60a4-4fbf-98a6-0f1e027703e9",
+      "label": "TXT_BOCAMINA",
+      "added_default_fields": [
+        "GRADE_PCT",
+        "HEIGHT_M",
+        "LENGTH_M",
+        "RADIUS_M",
+        "WIDTH_M"
+      ]
+    }
+  ],
+  "original_topography_and_vein_included_in_exact_comparison": true,
+  "phase_visibility_confirmed_live": true,
+  "bounded_sample_checks": [
+    {
+      "layer": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C01",
+      "entity": {
+        "handle": 2714,
+        "guid": "3c0d7090-a7df-4d80-a2c2-a87e1946c74c",
+        "type": "Polyface",
+        "layer": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C01",
+        "label": "EXC_C01",
+        "visible": true
+      },
+      "attribute_values": {
+        "ARCH_RISE_M": "0.5",
+        "DATA_STATUS": "CONCEPTUAL_NO_ENSAYADO",
+        "DESIGN_STATE": "CONCEPTUAL_NO_DYNAMIC_VEHICLE_CHECK",
+        "ENTITY_ID": "EXC_C01",
+        "EQUIP_REF": "LH307+TH315+DD210_CFX_XS",
+        "EXTRA_VOL_FRAC": "0.5978321628419507",
+        "EXTRA_VOL_M3": "354.68282969816937",
+        "FILL_STATUS": "RELLENAR_ANTES_SIGUIENTE",
+        "FUNCTION": "MECHANIZED_CUT_STAGE",
+        "GRADE_PCT": "0.0",
+        "HEIGHT_M": "3.5",
+        "HEIGHT_MIN_M": "3.5",
+        "HORIZ_LEN_M": "50.0",
+        "LENGTH_M": "50.0",
+        "LIFT_M": "3",
+        "NATIVE_ID": "3c0d7090-a7df-4d80-a2c2-a87e1946c74c",
+        "ORE_VOL_M3": "238.598783007464",
+        "PHASE": 1,
+        "PILOT_ID": "CYR_MECANIZADO_50x30",
+        "PROFILE": "ELLIPTICAL_ARCH_VERTICAL",
+        "RADIUS_M": "NO_APLICA",
+        "ROLE": "MECHANIZED_CUT_STAGE",
+        "SYNTHETIC": 1,
+        "TEMPORAL_STAGE": "1",
+        "UNITS": "m",
+        "VOLUME_M3": 593.2816127056287,
+        "WALL_M": "3.0",
+        "WASTE_GRADE": "UNKNOWN_NOT_ASSIGNED",
+        "WIDTH_M": "3.5",
+        "WIDTH_MIN_M": "3.5"
+      },
+      "mesh": {
+        "handle": 2714,
+        "cog": {
+          "x": 5046.197235084206,
+          "y": 10688.221103368487,
+          "z": 2099.6578599452887
+        },
+        "boundingBox": {
+          "min": {
+            "x": 5036.477787134347,
+            "y": 10663.992616953914,
+            "z": 2097.9608782041414
+          },
+          "max": {
+            "x": 5055.916683034065,
+            "y": 10712.44958978306,
+            "z": 2101.4608782041414
+          },
+          "mid": {
+            "x": 5046.197235084206,
+            "y": 10688.221103368487,
+            "z": 2099.7108782041414
+          },
+          "dx": 19.438895899717863,
+          "dy": 48.45697282914625,
+          "dz": 3.5
+        },
+        "volume": 593.2816127056287,
+        "vertexCount": 38
+      },
+      "verified": true
+    },
+    {
+      "layer": "03_PILOTO_MECANIZADO\\03_RAMPA_Y_CRUCES",
+      "entity": {
+        "handle": 2724,
+        "guid": "42daf8be-ffbc-46fa-acab-7eed03580dc0",
+        "type": "Polyface",
+        "layer": "03_PILOTO_MECANIZADO\\03_RAMPA_Y_CRUCES",
+        "label": "RMP_A01",
+        "visible": true
+      },
+      "attribute_values": {
+        "ARCH_RISE_M": "1.5",
+        "DATA_STATUS": "CONCEPTUAL_NO_ENSAYADO",
+        "DESIGN_STATE": "CONCEPTUAL_NO_DYNAMIC_VEHICLE_CHECK",
+        "ENTITY_ID": "RMP_A01",
+        "EQUIP_REF": "LH307+TH315+DD210_CFX_XS",
+        "FILL_STATUS": "NO_APLICA",
+        "FUNCTION": "TRANSPORT_RAMP",
+        "GRADE_PCT": "9.999585902937989",
+        "HEIGHT_M": "4.5",
+        "HEIGHT_MIN_M": "4.5",
+        "HORIZ_LEN_M": "20.99876955287917",
+        "LENGTH_M": "21.103493568104433",
+        "NATIVE_ID": "42daf8be-ffbc-46fa-acab-7eed03580dc0",
+        "PHASE": 0,
+        "PILOT_ID": "CYR_MECANIZADO_50x30",
+        "PROFILE": "ELLIPTICAL_ARCH_VERTICAL",
+        "RADIUS_M": "20",
+        "ROLE": "TRANSPORT_RAMP",
+        "SYNTHETIC": 1,
+        "TAPER_LEN_M": "NO_APLICA",
+        "UNITS": "m",
+        "USEFUL_LEN_M": "NO_APLICA",
+        "VOLUME_M3": 394.16690469498144,
+        "WALL_M": "3.0",
+        "WIDTH_M": "4.5",
+        "WIDTH_MIN_M": "4.5"
+      },
+      "mesh": {
+        "handle": 2724,
+        "cog": {
+          "x": 4976.406919472455,
+          "y": 10707.726825917422,
+          "z": 2100.6092304614285
+        },
+        "boundingBox": {
+          "min": {
+            "x": 4973.195176707487,
+            "y": 10696.659496731707,
+            "z": 2097.4608782041414
+          },
+          "max": {
+            "x": 4981.215590849849,
+            "y": 10718.814281594423,
+            "z": 2104.0606682041416
+          },
+          "mid": {
+            "x": 4977.205383778668,
+            "y": 10707.736889163065,
+            "z": 2100.7607732041415
+          },
+          "dx": 8.020414142361915,
+          "dy": 22.154784862716042,
+          "dz": 6.599790000000212
+        },
+        "volume": 394.1669046949814,
+        "vertexCount": 551
+      },
+      "verified": true
+    },
+    {
+      "layer": "03_PILOTO_MECANIZADO\\04_ACCESOS_NIVELES",
+      "entity": {
+        "handle": 2743,
+        "guid": "8fef2f9c-fbc6-4cd3-a501-eed89af14072",
+        "type": "Polyface",
+        "layer": "03_PILOTO_MECANIZADO\\04_ACCESOS_NIVELES",
+        "label": "CX_N01_ESP",
+        "visible": true
+      },
+      "attribute_values": {
+        "ARCH_RISE_M": "1.5",
+        "BRANCH_CONNECTION": "TANGENT_3D_EASE_TO_LEVEL",
+        "DATA_STATUS": "CONCEPTUAL_NO_ENSAYADO",
+        "DESIGN_STATE": "CONCEPTUAL_NO_DYNAMIC_VEHICLE_CHECK",
+        "ENTITY_ID": "CX_N01_ESP",
+        "EQUIP_REF": "LH307+TH315+DD210_CFX_XS",
+        "FILL_STATUS": "NO_APLICA",
+        "FUNCTION": "LEVEL_CROSSCUT_SPIRAL",
+        "GRADE_PCT": "9.73251165660187",
+        "HEIGHT_M": "4.5",
+        "HEIGHT_MIN_M": "4.5",
+        "HORIZ_LEN_M": "45.76994812629801",
+        "LENGTH_M": "45.78657428553348",
+        "LEVEL_M": "0.0",
+        "NATIVE_ID": "8fef2f9c-fbc6-4cd3-a501-eed89af14072",
+        "PHASE": 0,
+        "PILOT_ID": "CYR_MECANIZADO_50x30",
+        "PROFILE": "ELLIPTICAL_ARCH_VERTICAL",
+        "RADIUS_M": "NO_APLICA",
+        "ROLE": "LEVEL_CROSSCUT_SPIRAL",
+        "SECTION_TRANSITION": "NO_APLICA",
+        "START_GRADE_SIGN": "-1",
+        "SYNTHETIC": 1,
+        "UNITS": "m",
+        "VOLUME_M3": 858.8683026541571,
+        "WALL_M": "3.0",
+        "WIDTH_M": "4.5",
+        "WIDTH_MIN_M": "4.5"
+      },
+      "mesh": {
+        "handle": 2743,
+        "cog": {
+          "x": 4985.551867198317,
+          "y": 10726.03643086409,
+          "z": 2100.0964730157298
+        },
+        "boundingBox": {
+          "min": {
+            "x": 4973.414867608558,
+            "y": 10708.00250035565,
+            "z": 2097.9608782041414
+          },
+          "max": {
+            "x": 5005.201245247863,
+            "y": 10735.76254446971,
+            "z": 2102.9608782041414
+          },
+          "mid": {
+            "x": 4989.30805642821,
+            "y": 10721.88252241268,
+            "z": 2100.4608782041414
+          },
+          "dx": 31.7863776393051,
+          "dy": 27.760044114060292,
+          "dz": 5
+        },
+        "volume": 858.8683026541573,
+        "vertexCount": 1273
+      },
+      "verified": true
+    },
+    {
+      "layer": "03_PILOTO_MECANIZADO\\06_ESTOCADAS",
+      "entity": {
+        "handle": 2749,
+        "guid": "e26ddd39-7ad8-4f59-9a34-8479199f8177",
+        "type": "Polyface",
+        "layer": "03_PILOTO_MECANIZADO\\06_ESTOCADAS",
+        "label": "EST_N01",
+        "visible": true
+      },
+      "attribute_values": {
+        "ARCH_RISE_M": "0.5",
+        "DATA_STATUS": "CONCEPTUAL_NO_ENSAYADO",
+        "DESIGN_STATE": "CONCEPTUAL_NO_DYNAMIC_VEHICLE_CHECK",
+        "ENTITY_ID": "EST_N01",
+        "EQUIP_REF": "LH307+TH315+DD210_CFX_XS",
+        "FACE_TYPE": "CONCEPTUAL_TEST_HEADING",
+        "FILL_STATUS": "NO_APLICA",
+        "FUNCTION": "SCOOP_JUMBO_HEADING",
+        "GRADE_PCT": "0.0",
+        "HEIGHT_M": "3.5",
+        "HEIGHT_MIN_M": "3.5",
+        "HORIZ_LEN_M": "18.564459565169763",
+        "LENGTH_M": "18.564459565169763",
+        "LEVEL_M": "0.0",
+        "NATIVE_ID": "e26ddd39-7ad8-4f59-9a34-8479199f8177",
+        "PHASE": 0,
+        "PILOT_ID": "CYR_MECANIZADO_50x30",
+        "PROFILE": "ELLIPTICAL_ARCH_VERTICAL",
+        "RADIUS_M": "NO_APLICA",
+        "ROLE": "SCOOP_JUMBO_HEADING",
+        "SYNTHETIC": 1,
+        "TRUCK_ALLOWED": "0",
+        "UNITS": "m",
+        "VOLUME_M3": 220.21164959414264,
+        "WALL_M": "3.0",
+        "WIDTH_M": "3.5",
+        "WIDTH_MIN_M": "3.5"
+      },
+      "mesh": {
+        "handle": 2749,
+        "cog": {
+          "x": 5028.877100569385,
+          "y": 10729.4832770829,
+          "z": 2099.6578599452887
+        },
+        "boundingBox": {
+          "min": {
+            "x": 5025.705996520745,
+            "y": 10720.685407004308,
+            "z": 2097.9608782041414
+          },
+          "max": {
+            "x": 5033.436880854017,
+            "y": 10738.73833214542,
+            "z": 2101.4608782041414
+          },
+          "mid": {
+            "x": 5029.571438687381,
+            "y": 10729.711869574865,
+            "z": 2099.7108782041414
+          },
+          "dx": 7.730884333271206,
+          "dy": 18.0529251411117,
+          "dz": 3.5
+        },
+        "volume": 220.2116495941427,
+        "vertexCount": 722
+      },
+      "verified": true
+    },
+    {
+      "layer": "03_PILOTO_MECANIZADO\\07_ESTACION_CARGA",
+      "entity": {
+        "handle": 2745,
+        "guid": "2f11d234-6a78-4f86-94a9-f900c19ae18f",
+        "type": "Polyface",
+        "layer": "03_PILOTO_MECANIZADO\\07_ESTACION_CARGA",
+        "label": "EST_CARGA_01",
+        "visible": true
+      },
+      "attribute_values": {
+        "ARCH_RISE_M": "1.7",
+        "BUCKET_H_REF": "4.709",
+        "DATA_STATUS": "CONCEPTUAL_NO_ENSAYADO",
+        "DESIGN_STATE": "STATIC_ENVELOPE_ONLY_DYNAMIC_PENDING",
+        "ENTITY_ID": "EST_CARGA_01",
+        "EQUIP_REF": "LH307+TH315+DD210_CFX_XS",
+        "FILL_STATUS": "NO_APLICA",
+        "FUNCTION": "LOADING_TRANSFER_CHAMBER",
+        "GRADE_PCT": "0.0",
+        "HEIGHT_M": "5.2",
+        "HEIGHT_MIN_M": "4.5",
+        "HORIZ_LEN_M": "34.0",
+        "LENGTH_M": "34.0",
+        "NATIVE_ID": "2f11d234-6a78-4f86-94a9-f900c19ae18f",
+        "PHASE": 0,
+        "PILOT_ID": "CYR_MECANIZADO_50x30",
+        "PROFILE": "ELLIPTICAL_ARCH_VERTICAL",
+        "RADIUS_M": "NO_APLICA",
+        "ROLE": "LOADING_TRANSFER_CHAMBER",
+        "SYNTHETIC": 1,
+        "TAPER_LEN_M": "8",
+        "TIP_H_REF": "4.096",
+        "UNITS": "m",
+        "USEFUL_LEN_M": "18",
+        "VOLUME_M3": 963.169620245996,
+        "WALL_M": "3.5",
+        "WIDTH_M": "6.5",
+        "WIDTH_MIN_M": "4.5"
+      },
+      "mesh": {
+        "handle": 2745,
+        "cog": {
+          "x": 5021.513715543054,
+          "y": 10726.212114497494,
+          "z": 2100.329874714822
+        },
+        "boundingBox": {
+          "min": {
+            "x": 5004.696475174677,
+            "y": 10718.599532940065,
+            "z": 2097.9608782041414
+          },
+          "max": {
+            "x": 5038.330955911431,
+            "y": 10733.824696054922,
+            "z": 2103.160878204141
+          },
+          "mid": {
+            "x": 5021.513715543055,
+            "y": 10726.212114497494,
+            "z": 2100.5608782041413
+          },
+          "dx": 33.634480736754085,
+          "dy": 15.225163114857423,
+          "dz": 5.199999999999818
+        },
+        "volume": 963.1696202459951,
+        "vertexCount": 893
+      },
+      "verified": true
+    },
+    {
+      "layer": "03_PILOTO_MECANIZADO\\08_ACCESO_SUPERFICIE",
+      "entity": {
+        "handle": 2775,
+        "guid": "25dbbeca-c26c-4f64-8295-96b4b1a2c6af",
+        "type": "Polyface",
+        "layer": "03_PILOTO_MECANIZADO\\08_ACCESO_SUPERFICIE",
+        "label": "ACC_SUP_01",
+        "visible": true
+      },
+      "attribute_values": {
+        "ARCH_RISE_M": "1.5",
+        "DATA_STATUS": "CONCEPTUAL_NO_ENSAYADO",
+        "DESIGN_STATE": "CONCEPTUAL_NO_DYNAMIC_VEHICLE_CHECK",
+        "ENTITY_ID": "ACC_SUP_01",
+        "EQUIP_REF": "LH307+TH315+DD210_CFX_XS",
+        "FILL_STATUS": "NO_APLICA",
+        "FUNCTION": "SURFACE_ADIT_TO_UPPER_RAMP",
+        "GRADE_PCT": "9.99900000000028",
+        "HEIGHT_M": "4.5",
+        "HEIGHT_MIN_M": "4.5",
+        "HORIZ_LEN_M": "39.31640128241588",
+        "LENGTH_M": "39.51245515649098",
+        "NATIVE_ID": "25dbbeca-c26c-4f64-8295-96b4b1a2c6af",
+        "PHASE": 0,
+        "PILOT_ID": "CYR_MECANIZADO_50x30",
+        "PORTAL_LOCATION": "EXACT_TIN_BENCH_CUT_FRONT",
+        "PROFILE": "ELLIPTICAL_ARCH_VERTICAL",
+        "RADIUS_M": "NO_APLICA",
+        "ROLE": "SURFACE_ADIT_TO_UPPER_RAMP",
+        "SYNTHETIC": 1,
+        "UNITS": "m",
+        "VOLUME_M3": 737.8681507535725,
+        "WALL_M": "3.0",
+        "WIDTH_M": "4.5",
+        "WIDTH_MIN_M": "4.5"
+      },
+      "mesh": {
+        "handle": 2775,
+        "cog": {
+          "x": 4988.513997153881,
+          "y": 10678.340066518133,
+          "z": 2129.0256102479193
+        },
+        "boundingBox": {
+          "min": {
+            "x": 4976.41012844381,
+            "y": 10660.357378509583,
+            "z": 2124.9608782041414
+          },
+          "max": {
+            "x": 5000.617865863953,
+            "y": 10696.32275452668,
+            "z": 2133.39212516837
+          },
+          "mid": {
+            "x": 4988.513997153881,
+            "y": 10678.340066518133,
+            "z": 2129.1765016862555
+          },
+          "dx": 24.20773742014262,
+          "dy": 35.96537601709679,
+          "dz": 8.431246964228649
+        },
+        "volume": 737.8681507535678,
+        "vertexCount": 1520
+      },
+      "verified": true
+    }
+  ],
+  "native_layers_before_cad": 47,
+  "native_layers_after_cad": 49,
+  "cad_added_internal_layers": [
+    "_DW_BOUNDARY_SLICEBOUNDARYBOXES_1",
+    "_DW_BOUNDARY_SLICEBOUNDARYBOXES_2"
+  ],
+  "model_dm_sha256": "89fb3d973346a6a8df2f3450a1a86214390f25d637915591a030161fa78503c8",
+  "block_model_reference_preserved": true,
+  "block_model_rendered_in_this_check": false,
+  "model_formula_and_no_filter_serialization_normalizations": [
+    {
+      "key": "_dw_ModelDisplaySettings_[0]_[0]Filter",
+      "kind": "Serialized default no-filter settings",
+      "all_spatial_filters_disabled": true
+    },
+    {
+      "key": "_dw_ModelDisplaySettings_[0]_[0]Scale",
+      "kind": "Numeric formula string",
+      "numeric_value": 0.99
+    },
+    {
+      "key": "_dw_ModelDisplaySettings_[0]_[0]X",
+      "kind": "Numeric formula string",
+      "numeric_value": 5042.773218814491
+    },
+    {
+      "key": "_dw_ModelDisplaySettings_[0]_[0]Y",
+      "kind": "Numeric formula string",
+      "numeric_value": 10689.387754073288
+    },
+    {
+      "key": "_dw_ModelDisplaySettings_[0]_[0]Z",
+      "kind": "Numeric formula string",
+      "numeric_value": 2112.9608782041414
+    },
+    {
+      "key": "_dw_ModelDisplaySettings_[0]_[0]Azimuth",
+      "kind": "Numeric formula string",
+      "numeric_value": 0
+    },
+    {
+      "key": "_dw_ModelDisplaySettings_[0]_[0]Dip",
+      "kind": "Numeric formula string",
+      "numeric_value": 0
+    },
+    {
+      "key": "_dw_ModelDisplaySettings_[0]_[0]Offsets_[0]",
+      "kind": "Numeric formula string",
+      "numeric_value": 0
+    }
+  ],
+  "window_arrangement": "1194x824 origin428,-10; 1186x816 origin438,0 unchanged in UI observations",
+  "scope": "Native CAD samples, all exported meshes/lines/texts and their fields; conceptual design"
+}

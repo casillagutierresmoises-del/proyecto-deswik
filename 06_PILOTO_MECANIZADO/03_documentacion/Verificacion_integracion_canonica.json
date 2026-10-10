@@ -1,0 +1,20 @@
+{
+  "verified": true,
+  "canonicalObjectsChecked": 187,
+  "differences": [],
+  "geometryCheck": {
+    "verified": true,
+    "figuresChecked": 162,
+    "identitiesLayersAttributesCoordinatesTopologyAndTextExact": true,
+    "cadOpeningTested": false
+  },
+  "cause": "Deswik.InternalSerializer emits GuidHandle for depth\u003E1 when a child\u0027s GUID is registered in GuidReferences or Behaviour=GuidHandleOnly. Native writer supplies populated references and reader\u0027s MissingGuidHandleLogic marks references GuidHandleOnly. Initial standalone comparison used null references before Save, expanding children into full objects. Canonical comparison supplies identical registered GUID sets on both sides; no data excluded.",
+  "original": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf",
+  "integrated": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-mecanizado\\native-output\\mecanizado-geometria.duf",
+  "originalSha256": "DAD5DE0A4311D47F7B77340ACA039E0BB60C4033EDD5409DA4BA942EBE1E276D",
+  "integratedSha256": "D79A863ED2DF5421871EBEA0BD9BF1034F795EAA1C1A3764C88FD1A9DE4DECCB",
+  "dxfSha256": "16B7C939FED2758A1D32F9569BCDE456DFFB6D0978DDBE9CDEB54079DCBBD7D5",
+  "manifestSha256": "AA0C6719FECC4BF17AC3558AEFD5CCFD7606B9003DFF35233493A2100F53D791",
+  "uiCreated": false,
+  "cadApplicationCreated": false
+}

@@ -1,0 +1,166 @@
+{
+  "original_unchanged_sha256": "dad5de0a4311d47f7b77340aca039e0bb60c4033edd5409da4ba942ebe1e276d",
+  "previous_pilot_unchanged_sha256": "9713c4a3edd1a6092de123e0891a6bf1a8b609be29bced6d83aa548f487b43f6",
+  "files": [
+    {
+      "path": "01_datos/Bloques_piloto.dm",
+      "bytes": 2052096,
+      "sha256": "89fb3d973346a6a8df2f3450a1a86214390f25d637915591a030161fa78503c8"
+    },
+    {
+      "path": "01_datos/Bloques_piloto_WCS.csv",
+      "bytes": 1709827,
+      "sha256": "fef09001dc775cb2787f7d3b3285c6923e3ebbb17c01be53a09b5090e717ff0d"
+    },
+    {
+      "path": "01_datos/Topografia_TIN_original.json",
+      "bytes": 901017,
+      "sha256": "6a9a135737b50022f167734a66ac63994045bec8410b3e1193ce841f91dbdc07"
+    },
+    {
+      "path": "02_geometria/03_PILOTO_MECANIZADO.dxf",
+      "bytes": 22909948,
+      "sha256": "d0436f77942c092e0f604fec42a96bb655b5c203257db7cac60dc5d744d99c22"
+    },
+    {
+      "path": "02_geometria/03_PILOTO_MECANIZADO_Deswik.dxf",
+      "bytes": 22909845,
+      "sha256": "16b7c939fed2758a1d32f9569bcde456dffb6d0978ddbe9cdeb54079dcbbd7d5"
+    },
+    {
+      "path": "03_documentacion/Atributos_relectura_verificacion.json",
+      "bytes": 172370,
+      "sha256": "053448a59a873aa4ad0472530a81803c54fe0a8460eaa367a0374bd502a8ff5c"
+    },
+    {
+      "path": "03_documentacion/Atributos_write_verificacion.json",
+      "bytes": 172366,
+      "sha256": "145a022d89f27164e76913b329dc07fab3124aec5ca0ac364bc4ab9f8820d23c"
+    },
+    {
+      "path": "03_documentacion/CAD_guardado_verificacion.json",
+      "bytes": 57943,
+      "sha256": "b8aa71fb854bedc65b6cd9015363fa39ee5b80f6730a1683ee15bc18237291df"
+    },
+    {
+      "path": "03_documentacion/Colisiones_mecanizado.json",
+      "bytes": 30776,
+      "sha256": "debff9ed46d196908d0be862d2066b98b121232a66aae18afefcf0546d68a97c"
+    },
+    {
+      "path": "03_documentacion/equipos_fuentes.md",
+      "bytes": 8975,
+      "sha256": "c83ad3af7a9f7b9f8ce97b49c8f512daed047c7a112f5d44449d225ee287b1c6"
+    },
+    {
+      "path": "03_documentacion/equipos_referencia.json",
+      "bytes": 5976,
+      "sha256": "10c3d1a71d6ea0bb5ef8b7cbcdf1b25de0c38863515083b8cfd47bbd64babac6"
+    },
+    {
+      "path": "03_documentacion/Estado_mecanizado.json",
+      "bytes": 898,
+      "sha256": "ed92e49c5515481b1c04084192ff5c70fdcf9c15078c3827d84b47e84364be69"
+    },
+    {
+      "path": "03_documentacion/Galibos_referencia_nota.md",
+      "bytes": 2869,
+      "sha256": "98a1c6fa1e6141f57992f7a41a247ca37b621f36898aec531cddc71f2d5034da"
+    },
+    {
+      "path": "03_documentacion/Geometria_final_verificacion.json",
+      "bytes": 2706,
+      "sha256": "e140890872d9057dab33c730bf21062e668ff759f5df6a07dff7bdccb02c5ad3"
+    },
+    {
+      "path": "03_documentacion/Integracion_DUF_verificacion.json",
+      "bytes": 85419,
+      "sha256": "701e2c894b2b935ccbd9105bd8562736c9e35155b872b7b93fc8c27d627d2023"
+    },
+    {
+      "path": "03_documentacion/Manifest_mecanizado.json",
+      "bytes": 355871,
+      "sha256": "7744bd87e2870936d33efbadad48abef5c51a8e3d1c8dc06fa7693c01744162e"
+    },
+    {
+      "path": "03_documentacion/Notas_control_Deswik.md",
+      "bytes": 1696,
+      "sha256": "f5844bb53e92a69c304c2572e2b84c7bb0274225b338944ba03ecb415b24cada"
+    },
+    {
+      "path": "03_documentacion/Presentacion_capas.json",
+      "bytes": 3665,
+      "sha256": "3ef6b580fb1c09aee02c7064c9dfb2da1a4b62f63c6112a270bdfd9d14b05db0"
+    },
+    {
+      "path": "03_documentacion/Prototipo_modelo_bloques.json",
+      "bytes": 2253,
+      "sha256": "409ed21790459ea0525dde61cb079d310a3b710d2ce88745a865f63c8ad06302"
+    },
+    {
+      "path": "03_documentacion/Referencia_DM_relectura_verificacion.json",
+      "bytes": 5263,
+      "sha256": "c8d68dec80bb8efa183cc4e35157dff828922f065999a1695a802a1a5c2f0713"
+    },
+    {
+      "path": "03_documentacion/Referencia_DM_write_verificacion.json",
+      "bytes": 5262,
+      "sha256": "1c244dd441e1dd99e3dc4eb1aa2ee5b7d003bdeafbfd329bb26d2dfcbcfeb5d1"
+    },
+    {
+      "path": "03_documentacion/Resumen_mecanizado.json",
+      "bytes": 1656,
+      "sha256": "ce63ec98adf2606b5137ce6df5f4e428a1d9848fc051e710032a5a15209d4b71"
+    },
+    {
+      "path": "03_documentacion/Revision_DUF_independiente.json",
+      "bytes": 35542,
+      "sha256": "dfa2548ba22bd16b138acac8a00c9953a0c8e3b6dc7699ff4a9a7fff090acac8"
+    },
+    {
+      "path": "03_documentacion/topografia_native_resumen.json",
+      "bytes": 2221,
+      "sha256": "8330e0198d87132ad07492a9b5983eb1cfc23371ce8f424893ee81df6071f5f6"
+    },
+    {
+      "path": "03_documentacion/Verificacion_galibos_referencia.json",
+      "bytes": 76310,
+      "sha256": "3c0deaa68ce2273ffa644619a4a3a3c879aff73046c0cbc38912106e6ba11f8a"
+    },
+    {
+      "path": "03_documentacion/Verificacion_integracion_canonica.json",
+      "bytes": 1382,
+      "sha256": "1e9e574b3903399bd976f0a973d4b60b6846406c55026fcd14ac43a598ecf169"
+    },
+    {
+      "path": "Backup/proyecto-deswik-mecanizado.duf.xml",
+      "bytes": 79,
+      "sha256": "12fa2c42d4b8add912925eb603ed5abe19cdff0ad4f947a0b678fa7b5d42a5a2"
+    },
+    {
+      "path": "Backup/proyecto-deswik-mecanizado.duf_00.deswikbak",
+      "bytes": 4208026,
+      "sha256": "af329349927a129a4947741034a964c3d52ca4a603b3c52bbac94dc163712e6f"
+    },
+    {
+      "path": "Backup/proyecto-deswik-mecanizado.duf_LastSave.deswikbak",
+      "bytes": 4208026,
+      "sha256": "af329349927a129a4947741034a964c3d52ca4a603b3c52bbac94dc163712e6f"
+    },
+    {
+      "path": "proyecto-deswik-mecanizado.duf",
+      "bytes": 4180285,
+      "sha256": "6d77bd003b1ed498d76889ce7fdf8bb88600c45ffbfa758c99e7b9f5a1d8d5a6"
+    },
+    {
+      "path": "proyecto-deswik-mecanizado.duf.lck",
+      "bytes": 32,
+      "sha256": "4476f8cae479724aae1ebf8b12ee0f8f9d5cd0109567f3ea25eb30b0926954a7"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2061,
+      "sha256": "dd8583eff665765881bc44527f7b0140495fd195593c37bbb99ccd9ae066d53f"
+    }
+  ]
+}

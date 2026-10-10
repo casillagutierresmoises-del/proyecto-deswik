@@ -1,0 +1,371 @@
+{
+  "recordCount": 14000,
+  "allRowsVerified": true,
+  "allNumericValuesVerified": true,
+  "maximumWcsCoordinateErrorM": 3.637978807091713E-12,
+  "maximumAttributeError": 0,
+  "strictlySortedIJK": true,
+  "header": {
+    "origin": [
+      5028.0843142650965,
+      10667.981304504554,
+      2097.9608782041414
+    ],
+    "rotationOrigin": [
+      5028.0843142650965,
+      10667.981304504554,
+      2097.9608782041414
+    ],
+    "sizes": [
+      0.5,
+      2,
+      1.5
+    ],
+    "counts": [
+      28,
+      25,
+      20
+    ],
+    "angle1ClockwiseDegrees": 18.81530145811885,
+    "rotationAxis1": 3,
+    "extendedPrecision": true,
+    "fields": [
+      {
+        "Name": "IJK",
+        "type": "Numeric",
+        "Implicit": false,
+        "Default": 0
+      },
+      {
+        "Name": "XC",
+        "type": "Numeric",
+        "Implicit": false,
+        "Default": 0
+      },
+      {
+        "Name": "YC",
+        "type": "Numeric",
+        "Implicit": false,
+        "Default": 0
+      },
+      {
+        "Name": "ZC",
+        "type": "Numeric",
+        "Implicit": false,
+        "Default": 0
+      },
+      {
+        "Name": "XINC",
+        "type": "Numeric",
+        "Implicit": false,
+        "Default": 0.5
+      },
+      {
+        "Name": "YINC",
+        "type": "Numeric",
+        "Implicit": false,
+        "Default": 2
+      },
+      {
+        "Name": "ZINC",
+        "type": "Numeric",
+        "Implicit": false,
+        "Default": 1.5
+      },
+      {
+        "Name": "XMORIG",
+        "type": "Numeric",
+        "Implicit": true,
+        "Default": 5028.0843142650965
+      },
+      {
+        "Name": "YMORIG",
+        "type": "Numeric",
+        "Implicit": true,
+        "Default": 10667.981304504554
+      },
+      {
+        "Name": "ZMORIG",
+        "type": "Numeric",
+        "Implicit": true,
+        "Default": 2097.9608782041414
+      },
+      {
+        "Name": "NX",
+        "type": "Numeric",
+        "Implicit": true,
+        "Default": 28
+      },
+      {
+        "Name": "NY",
+        "type": "Numeric",
+        "Implicit": true,
+        "Default": 25
+      },
+      {
+        "Name": "NZ",
+        "type": "Numeric",
+        "Implicit": true,
+        "Default": 20
+      },
+      {
+        "Name": "X0",
+        "type": "Numeric",
+        "Implicit": true,
+        "Default": 5028.0843142650965
+      },
+      {
+        "Name": "Y0",
+        "type": "Numeric",
+        "Implicit": true,
+        "Default": 10667.981304504554
+      },
+      {
+        "Name": "Z0",
+        "type": "Numeric",
+        "Implicit": true,
+        "Default": 2097.9608782041414
+      },
+      {
+        "Name": "ANGLE1",
+        "type": "Numeric",
+        "Implicit": true,
+        "Default": 18.81530145811885
+      },
+      {
+        "Name": "ANGLE2",
+        "type": "Numeric",
+        "Implicit": true,
+        "Default": 0
+      },
+      {
+        "Name": "ANGLE3",
+        "type": "Numeric",
+        "Implicit": true,
+        "Default": 0
+      },
+      {
+        "Name": "ROTAXIS1",
+        "type": "Numeric",
+        "Implicit": true,
+        "Default": 3
+      },
+      {
+        "Name": "ROTAXIS2",
+        "type": "Numeric",
+        "Implicit": true,
+        "Default": 0
+      },
+      {
+        "Name": "ROTAXIS3",
+        "type": "Numeric",
+        "Implicit": true,
+        "Default": 0
+      },
+      {
+        "Name": "BID",
+        "type": "Numeric",
+        "Implicit": false,
+        "Default": 0
+      },
+      {
+        "Name": "I",
+        "type": "Numeric",
+        "Implicit": false,
+        "Default": 0
+      },
+      {
+        "Name": "J",
+        "type": "Numeric",
+        "Implicit": false,
+        "Default": 0
+      },
+      {
+        "Name": "K",
+        "type": "Numeric",
+        "Implicit": false,
+        "Default": 0
+      },
+      {
+        "Name": "DOM",
+        "type": "Numeric",
+        "Implicit": false,
+        "Default": 0
+      },
+      {
+        "Name": "ORE_FRAC",
+        "type": "Numeric",
+        "Implicit": false,
+        "Default": 0
+      },
+      {
+        "Name": "AU_GPT",
+        "type": "Numeric",
+        "Implicit": false,
+        "Default": 0
+      },
+      {
+        "Name": "AG_GPT",
+        "type": "Numeric",
+        "Implicit": false,
+        "Default": 0
+      },
+      {
+        "Name": "DENS",
+        "type": "Numeric",
+        "Implicit": false,
+        "Default": 0
+      },
+      {
+        "Name": "T_EST",
+        "type": "Numeric",
+        "Implicit": false,
+        "Default": 0
+      },
+      {
+        "Name": "SYNTH",
+        "type": "Numeric",
+        "Implicit": false,
+        "Default": 0
+      }
+    ]
+  },
+  "sampleRows": [
+    {
+      "recordIndexZeroBased": 0,
+      "BID": 1,
+      "IJK": 0,
+      "centroidWcs": [
+        5028.643473552001,
+        10668.847238042,
+        2098.710878204
+      ],
+      "AU_GPT": 0,
+      "AG_GPT": 0,
+      "DENS": 2.7,
+      "ORE_FRAC": 0,
+      "SYNTH": 1
+    },
+    {
+      "recordIndexZeroBased": 1,
+      "BID": 701,
+      "IJK": 1,
+      "centroidWcs": [
+        5028.643473552001,
+        10668.847238042,
+        2100.210878204
+      ],
+      "AU_GPT": 0,
+      "AG_GPT": 0,
+      "DENS": 2.7,
+      "ORE_FRAC": 0,
+      "SYNTH": 1
+    },
+    {
+      "recordIndexZeroBased": 27,
+      "BID": 4929,
+      "IJK": 27,
+      "centroidWcs": [
+        5029.288510546,
+        10670.740364365998,
+        2109.210878204
+      ],
+      "AU_GPT": 0,
+      "AG_GPT": 0,
+      "DENS": 2.7,
+      "ORE_FRAC": 0,
+      "SYNTH": 1
+    },
+    {
+      "recordIndexZeroBased": 699,
+      "BID": 13554,
+      "IJK": 699,
+      "centroidWcs": [
+        5034.922088073,
+        10685.724115707,
+        2127.210878204
+      ],
+      "AU_GPT": 0,
+      "AG_GPT": 0,
+      "DENS": 2.7,
+      "ORE_FRAC": 0,
+      "SYNTH": 1
+    },
+    {
+      "recordIndexZeroBased": 700,
+      "BID": 282,
+      "IJK": 700,
+      "centroidWcs": [
+        5035.5671250660025,
+        10687.61724203,
+        2098.710878204
+      ],
+      "AU_GPT": 0,
+      "AG_GPT": 0,
+      "DENS": 2.7,
+      "ORE_FRAC": 0,
+      "SYNTH": 1
+    },
+    {
+      "recordIndexZeroBased": 7000,
+      "BID": 15,
+      "IJK": 7000,
+      "centroidWcs": [
+        5035.269415685,
+        10666.589608566,
+        2098.710878204
+      ],
+      "AU_GPT": 0,
+      "AG_GPT": 0,
+      "DENS": 2.7,
+      "ORE_FRAC": 0,
+      "SYNTH": 1
+    },
+    {
+      "recordIndexZeroBased": 13998,
+      "BID": 13300,
+      "IJK": 13998,
+      "centroidWcs": [
+        5056.902964077001,
+        10709.928270103997,
+        2125.710878204
+      ],
+      "AU_GPT": 0,
+      "AG_GPT": 0,
+      "DENS": 2.7,
+      "ORE_FRAC": 0,
+      "SYNTH": 1
+    },
+    {
+      "recordIndexZeroBased": 13999,
+      "BID": 14000,
+      "IJK": 13999,
+      "centroidWcs": [
+        5056.902964077001,
+        10709.928270103997,
+        2127.210878204
+      ],
+      "AU_GPT": 0,
+      "AG_GPT": 0,
+      "DENS": 2.7,
+      "ORE_FRAC": 0,
+      "SYNTH": 1
+    }
+  ],
+  "mode": "verify",
+  "sourceCsv": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-cyr\\piloto-real-validacion\\Bloques_piloto_WCS.csv",
+  "sourceCsvSha256": "fef09001dc775cb2787f7d3b3285c6923e3ebbb17c01be53a09b5090e717ff0d",
+  "sourcePrototype": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-cyr\\piloto-real-validacion\\Prototipo_modelo_bloques.json",
+  "sourcePrototypeSha256": "409ed21790459ea0525dde61cb079d310a3b710d2ce88745a865f63c8ad06302",
+  "outputDm": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\Bloques_piloto_native.dm",
+  "outputDmSha256": "89fb3d973346a6a8df2f3450a1a86214390f25d637915591a030161fa78503c8",
+  "outputBytes": 2052096,
+  "driverAssembly": "C:\\Program Files\\Deswik\\Deswik.Suite 2026.1\\Deswik.DataDrivers.dll",
+  "blockModelAssembly": "C:\\Program Files\\Deswik\\Deswik.Suite 2026.1\\Deswik.BlockModel.dll",
+  "graphicsApplicationUsed": false,
+  "windowsOpened": false,
+  "comDatamineSdkUsed": false,
+  "writer": "Installed Deswik.DataDrivers managed DatamineFileWrapper/Header/Fields/Record/Writer; UseDatamineSdk=false",
+  "status": "VERIFIED_NATIVE_DM",
+  "limitations": "Conceptual synthetic data only; file validity does not demonstrate geological resources or geotechnical design acceptance."
+}

@@ -1,0 +1,14 @@
+{
+  "fecha_local": "2026-10-06",
+  "timezone": "America/Lima",
+  "paths_relative_to": "05_PILOTO_CYR",
+  "fuente": "../proyecto-deswik.duf",
+  "copia": "proyecto-deswik-piloto-cyr.duf",
+  "sha256_fuente_y_copia": "89e967c11b500b4850d54499585090be6370475e1e9e4657fa5fbabc55eb80c4",
+  "documento_fuente_guardado": true,
+  "capas_fuente": 22,
+  "topografia_y_veta_en_copia": true,
+  "geometria_piloto_importada": false,
+  "modelo_datamine_convertido": true,
+  "nota": "Copia de archivo realizada cuando el documento nativo fuente reportaba isDirty=false; ambos hashes fueron verificados. La copia aún no se abrió en CAD."
+}

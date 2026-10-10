@@ -1,0 +1,158 @@
+{
+  "verified": true,
+  "nativeAssemblyVersion": "2026.1.2309.61246",
+  "writer": "ImportCsv.SaveSettingsToDataSource \u002B DeswikDataSource.WriteXMLFile",
+  "parser": "DeswikDataSource.ReadXML \u002B ImportCsv.LoadSettingsFromDataSoure",
+  "uiCreated": false,
+  "cadApplicationCreated": false,
+  "output": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-cyr\\Importar_bloques_piloto.dcsvml",
+  "csv": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\05_PILOTO_CYR\\01_datos\\Bloques_piloto_WCS.csv",
+  "outputModel": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\05_PILOTO_CYR\\01_datos\\Bloques_piloto.dm",
+  "csvRecords": 14000,
+  "fieldMappings": [
+    {
+      "Header": "BID",
+      "ColumnIndex": 0,
+      "ImportType": "Attribute",
+      "AttributeType": "Integer",
+      "AttributeT": "BID"
+    },
+    {
+      "Header": "XC",
+      "ColumnIndex": 1,
+      "ImportType": "X Centroid",
+      "AttributeType": "NA",
+      "AttributeT": ""
+    },
+    {
+      "Header": "YC",
+      "ColumnIndex": 2,
+      "ImportType": "Y Centroid",
+      "AttributeType": "NA",
+      "AttributeT": ""
+    },
+    {
+      "Header": "ZC",
+      "ColumnIndex": 3,
+      "ImportType": "Z Centroid",
+      "AttributeType": "NA",
+      "AttributeT": ""
+    },
+    {
+      "Header": "DX",
+      "ColumnIndex": 4,
+      "ImportType": "X Extents",
+      "AttributeType": "NA",
+      "AttributeT": ""
+    },
+    {
+      "Header": "DY",
+      "ColumnIndex": 5,
+      "ImportType": "Y Extents",
+      "AttributeType": "NA",
+      "AttributeT": ""
+    },
+    {
+      "Header": "DZ",
+      "ColumnIndex": 6,
+      "ImportType": "Z Extents",
+      "AttributeType": "NA",
+      "AttributeT": ""
+    },
+    {
+      "Header": "I",
+      "ColumnIndex": 7,
+      "ImportType": "Attribute",
+      "AttributeType": "Integer",
+      "AttributeT": "I"
+    },
+    {
+      "Header": "J",
+      "ColumnIndex": 8,
+      "ImportType": "Attribute",
+      "AttributeType": "Integer",
+      "AttributeT": "J"
+    },
+    {
+      "Header": "K",
+      "ColumnIndex": 9,
+      "ImportType": "Attribute",
+      "AttributeType": "Integer",
+      "AttributeT": "K"
+    },
+    {
+      "Header": "DOM",
+      "ColumnIndex": 10,
+      "ImportType": "Attribute",
+      "AttributeType": "Integer",
+      "AttributeT": "DOM"
+    },
+    {
+      "Header": "ORE_FRAC",
+      "ColumnIndex": 11,
+      "ImportType": "Attribute",
+      "AttributeType": "Double",
+      "AttributeT": "ORE_FRAC"
+    },
+    {
+      "Header": "AU_GPT",
+      "ColumnIndex": 12,
+      "ImportType": "Attribute",
+      "AttributeType": "Double",
+      "AttributeT": "AU_GPT"
+    },
+    {
+      "Header": "AG_GPT",
+      "ColumnIndex": 13,
+      "ImportType": "Attribute",
+      "AttributeType": "Double",
+      "AttributeT": "AG_GPT"
+    },
+    {
+      "Header": "DENS",
+      "ColumnIndex": 14,
+      "ImportType": "Attribute",
+      "AttributeType": "Double",
+      "AttributeT": "DENS"
+    },
+    {
+      "Header": "T_EST",
+      "ColumnIndex": 15,
+      "ImportType": "Attribute",
+      "AttributeType": "Double",
+      "AttributeT": "T_EST"
+    },
+    {
+      "Header": "SYNTH",
+      "ColumnIndex": 16,
+      "ImportType": "Attribute",
+      "AttributeType": "Integer",
+      "AttributeT": "SYNTH"
+    }
+  ],
+  "origin": [
+    5028.0843142650965,
+    10667.981304504554,
+    2097.9608782041414
+  ],
+  "rotationOrigin": [
+    5028.0843142650965,
+    10667.981304504554,
+    2097.9608782041414
+  ],
+  "counts": [
+    28,
+    25,
+    20
+  ],
+  "cellSize": [
+    0.5,
+    2,
+    1.5
+  ],
+  "angle1": 18.81530145811885,
+  "axisOrder": "ZYX",
+  "RotationClockwise": true,
+  "CentroidsAtRotatedCoords": true,
+  "CentroidsAtParentOrigin": false
+}

@@ -1,0 +1,156 @@
+{
+  "revision": "2026-10-09",
+  "original_unchanged_sha256": "dad5de0a4311d47f7b77340aca039e0bb60c4033edd5409da4ba942ebe1e276d",
+  "files": [
+    {
+      "path": "01_datos/Bloques_piloto.dm",
+      "bytes": 2052096,
+      "sha256": "89fb3d973346a6a8df2f3450a1a86214390f25d637915591a030161fa78503c8"
+    },
+    {
+      "path": "01_datos/Bloques_piloto_WCS.csv",
+      "bytes": 1709827,
+      "sha256": "fef09001dc775cb2787f7d3b3285c6923e3ebbb17c01be53a09b5090e717ff0d"
+    },
+    {
+      "path": "01_datos/Diccionario_bloques.csv",
+      "bytes": 823,
+      "sha256": "3febad3da2b977c9d142f3288b37c211658ba50d3da57a3de1e741f402f1b958"
+    },
+    {
+      "path": "01_datos/Importar_bloques_piloto.dcsvml",
+      "bytes": 20701,
+      "sha256": "33b6afaab771a47d50f6896598e574edb18a253643febecdd4480a75b939a440"
+    },
+    {
+      "path": "01_datos/Labores_piloto.csv",
+      "bytes": 2228,
+      "sha256": "7578ab05a53be915d7cca4c85e0391165cb174d80f22c999e3cc6d3733c6b63b"
+    },
+    {
+      "path": "01_datos/parametros.json",
+      "bytes": 708,
+      "sha256": "1c81c8ad87f8aaf4347be227c1b27211aeded0c0fc778424521df9e420338806"
+    },
+    {
+      "path": "02_geometria/03_PILOTO_CYR.dxf",
+      "bytes": 2216351,
+      "sha256": "98ba5e91afa78982658a5097ae58cc31f7d722e8e2cd7911d4317e7829da2274"
+    },
+    {
+      "path": "02_geometria/03_PILOTO_CYR_R2010.dxf",
+      "bytes": 4269812,
+      "sha256": "c0f95cd0b1138abfe44c33abfdbb550f618e4a2e867c3b2c830507401851703a"
+    },
+    {
+      "path": "02_geometria/03_PILOTO_CYR_R2010_Deswik.dxf",
+      "bytes": 4269709,
+      "sha256": "9bf8229198aaa68f953802f5f1b31090bec5bf80108ec29c24b691e4de0181b7"
+    },
+    {
+      "path": "03_documentacion/Cambios_original_20261009.json",
+      "bytes": 185785,
+      "sha256": "2f7c615a731e191ffb008b13742c1a3687f55d71f41e5332f3ef3712a54c2086"
+    },
+    {
+      "path": "03_documentacion/cobertura_real.json",
+      "bytes": 16976,
+      "sha256": "e21fe6f275b22c24eaed6c3ab0d7ef913614821c88aca88f8a76bf4a5ec917ad"
+    },
+    {
+      "path": "03_documentacion/Conversion_R2010_verificacion.json",
+      "bytes": 36472,
+      "sha256": "ded0f246a8481fefd8e47887989d6c1f67834619978e55b5b1197d5ff1feef3a"
+    },
+    {
+      "path": "03_documentacion/Copia_DUF_base.json",
+      "bytes": 623,
+      "sha256": "581655ee5e5820456aaf480501cd597555bf1adac235dfc810cd7fa90c0f8a4d"
+    },
+    {
+      "path": "03_documentacion/Estado_piloto.json",
+      "bytes": 2211,
+      "sha256": "7aeac9f7ab4badf8d9f234aa4652a4506013f581f067bd5b77ddd843471abc33"
+    },
+    {
+      "path": "03_documentacion/Integracion_DUF_verificacion.json",
+      "bytes": 80565,
+      "sha256": "396ca56ceb9b507edb7f51eb0095cbbf77d7dadf2996c8fbbecb7b7421353708"
+    },
+    {
+      "path": "03_documentacion/Manifest_piloto.json",
+      "bytes": 28318,
+      "sha256": "5f9c5ddbcc63c7439b23dd3b5ce68fd72e20cdd7a7a6a6af09dddfc6f123a3ad"
+    },
+    {
+      "path": "03_documentacion/Normalizacion_header_Deswik_verificacion.json",
+      "bytes": 10907,
+      "sha256": "51a40d5dcb90dbdca83e1de2ad7f0288eafc3047a26f740f47b9f68cd041a1ae"
+    },
+    {
+      "path": "03_documentacion/Perfil_importacion_verificacion.json",
+      "bytes": 3856,
+      "sha256": "bb60f7d16a36b4424900594aac86918d0e8cba2ba04145410abd71f5cce2258e"
+    },
+    {
+      "path": "03_documentacion/peru_referencias.md",
+      "bytes": 8314,
+      "sha256": "657c6d34f7e1bd7fb1a963bcdd3ef728ce01c83cc94414d4af442d4f73ed667d"
+    },
+    {
+      "path": "03_documentacion/Prototipo_modelo_bloques.json",
+      "bytes": 2253,
+      "sha256": "409ed21790459ea0525dde61cb079d310a3b710d2ce88745a865f63c8ad06302"
+    },
+    {
+      "path": "03_documentacion/Referencia_DM_verificacion.json",
+      "bytes": 5175,
+      "sha256": "091be420e3b9a23e7bb3970acb28c91458b1614b409edf7e86175af56e80ab03"
+    },
+    {
+      "path": "03_documentacion/Revision_descansos_verificacion.json",
+      "bytes": 566,
+      "sha256": "7976567798fb9285f32dac3f3d1abfd6ab95c99ab4f37bd4e71c4fc831c2f30f"
+    },
+    {
+      "path": "03_documentacion/Revision_DUF_independiente.json",
+      "bytes": 9596,
+      "sha256": "106e7a00136cbdf47bbc07fb7aae8e4b403e1cf91be6cc799df0fa709e894ed3"
+    },
+    {
+      "path": "03_documentacion/seleccion_origen.json",
+      "bytes": 800,
+      "sha256": "9a661f27eb0eda5679f118d9a50dc4d49167567e18876d00eb36a12c7805e4ca"
+    },
+    {
+      "path": "03_documentacion/Verificacion_datos_geometria.json",
+      "bytes": 516,
+      "sha256": "09c9651ba8b931b9e6eaa2c97061b8d4160c2a2434a5a3552be42df87c2dcc9e"
+    },
+    {
+      "path": "03_documentacion/Verificacion_DUF_canonica.json",
+      "bytes": 1373,
+      "sha256": "ccd175cf3b07bd60c4e6915ed18189d432bac6257ffe9f5b540c917c147d05d9"
+    },
+    {
+      "path": "03_documentacion/Verificacion_native_dm.json",
+      "bytes": 8571,
+      "sha256": "45d223997d20ada2fec3938ef65ca5d68a7cc516262109aab7869c8180b2f4c2"
+    },
+    {
+      "path": "03_documentacion/Verificacion_native_dm_relectura.json",
+      "bytes": 8572,
+      "sha256": "5131c754523bf297734e6aacc8a3abf8c44659d93453ac087836e2e6da803f14"
+    },
+    {
+      "path": "proyecto-deswik-piloto-cyr.duf",
+      "bytes": 2887358,
+      "sha256": "9713c4a3edd1a6092de123e0891a6bf1a8b609be29bced6d83aa548f487b43f6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4079,
+      "sha256": "671fe3f75fb7ed501d9db15370714f930c52660c79ec519677434bf06aec3e46"
+    }
+  ]
+}

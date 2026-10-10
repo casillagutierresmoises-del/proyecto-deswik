@@ -1,0 +1,600 @@
+{
+  "status": "READ_ONLY_SAMPLING_COMPLETE",
+  "readOnlyCad": true,
+  "timestampUtc": "2026-10-06T04:03:15.244028+00:00",
+  "file": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-cyr\\piloto-real-validacion\\03_PILOTO_CYR.dxf",
+  "sha256": "fd72a7613d91cc02cc32084bafb3a998f8810c98cbeac498e950692d8ecac002",
+  "units": "Model units assumed metres; DXF INSUNITS also reported",
+  "expectedDocument": "C:/Users/moise/OneDrive/Escritorio/proyecto-deswik/proyecto-deswik.duf",
+  "topoGuid": "0e27460a-44dc-4068-ad3f-f7bbd9ac92a9",
+  "nativeReadCount": 305,
+  "limitations": [
+    "Sampled original mesh vertices only; no guarantee between samples or across unselected entities.",
+    "Vertical geometric cover is not geotechnical approval or proof of excavation stability.",
+    "Open native slice loops are not closed artificially; missing terrain remains explicit.",
+    "Metadata consistency checks do not detect every possible concurrent geometry change.",
+    "Overlapping terrain intersections use the lowest elevation and are counted as ambiguous.",
+    "Per-call socket timeout 25s; total read budget checked between calls; no retry."
+  ],
+  "mesh": {
+    "dxfVersion": "AC1009",
+    "insunitsCode": 0,
+    "selectedEntityCount": 38,
+    "coordinateHandling": "Original POLYFACE WCS, no transform/scaling or vertex welding",
+    "entities": [
+      {
+        "entityId": "01_CORTES:B",
+        "layer": "01_CORTES",
+        "handleHex": "B",
+        "originalVertexCount": 580,
+        "originalFaceCount": 1156,
+        "roofCandidateCount": 580
+      },
+      {
+        "entityId": "01_CORTES:6D6",
+        "layer": "01_CORTES",
+        "handleHex": "6D6",
+        "originalVertexCount": 580,
+        "originalFaceCount": 1156,
+        "roofCandidateCount": 580
+      },
+      {
+        "entityId": "01_CORTES:DA1",
+        "layer": "01_CORTES",
+        "handleHex": "DA1",
+        "originalVertexCount": 580,
+        "originalFaceCount": 1156,
+        "roofCandidateCount": 580
+      },
+      {
+        "entityId": "01_CORTES:146C",
+        "layer": "01_CORTES",
+        "handleHex": "146C",
+        "originalVertexCount": 580,
+        "originalFaceCount": 1156,
+        "roofCandidateCount": 580
+      },
+      {
+        "entityId": "01_CORTES:1B37",
+        "layer": "01_CORTES",
+        "handleHex": "1B37",
+        "originalVertexCount": 580,
+        "originalFaceCount": 1156,
+        "roofCandidateCount": 580
+      },
+      {
+        "entityId": "01_CORTES:2202",
+        "layer": "01_CORTES",
+        "handleHex": "2202",
+        "originalVertexCount": 580,
+        "originalFaceCount": 1156,
+        "roofCandidateCount": 580
+      },
+      {
+        "entityId": "01_CORTES:28CD",
+        "layer": "01_CORTES",
+        "handleHex": "28CD",
+        "originalVertexCount": 580,
+        "originalFaceCount": 1156,
+        "roofCandidateCount": 580
+      },
+      {
+        "entityId": "01_CORTES:2F98",
+        "layer": "01_CORTES",
+        "handleHex": "2F98",
+        "originalVertexCount": 580,
+        "originalFaceCount": 1156,
+        "roofCandidateCount": 580
+      },
+      {
+        "entityId": "01_CORTES:3663",
+        "layer": "01_CORTES",
+        "handleHex": "3663",
+        "originalVertexCount": 580,
+        "originalFaceCount": 1156,
+        "roofCandidateCount": 580
+      },
+      {
+        "entityId": "01_CORTES:3D2E",
+        "layer": "01_CORTES",
+        "handleHex": "3D2E",
+        "originalVertexCount": 580,
+        "originalFaceCount": 1156,
+        "roofCandidateCount": 580
+      },
+      {
+        "entityId": "02_RAMPA:43F9",
+        "layer": "02_RAMPA",
+        "handleHex": "43F9",
+        "originalVertexCount": 2004,
+        "originalFaceCount": 4004,
+        "roofCandidateCount": 1002
+      },
+      {
+        "entityId": "05_RES_REF:5B74",
+        "layer": "05_RES_REF",
+        "handleHex": "5B74",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "05_RES_REF:5B8B",
+        "layer": "05_RES_REF",
+        "handleHex": "5B8B",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "05_RES_REF:5BA2",
+        "layer": "05_RES_REF",
+        "handleHex": "5BA2",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "05_RES_REF:5BB9",
+        "layer": "05_RES_REF",
+        "handleHex": "5BB9",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "05_RES_REF:5BD0",
+        "layer": "05_RES_REF",
+        "handleHex": "5BD0",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "05_RES_REF:5BE7",
+        "layer": "05_RES_REF",
+        "handleHex": "5BE7",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "05_RES_REF:5BFE",
+        "layer": "05_RES_REF",
+        "handleHex": "5BFE",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "05_RES_REF:5C15",
+        "layer": "05_RES_REF",
+        "handleHex": "5C15",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "05_RES_REF:5C2C",
+        "layer": "05_RES_REF",
+        "handleHex": "5C2C",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "03_ACCESOS:5C43",
+        "layer": "03_ACCESOS",
+        "handleHex": "5C43",
+        "originalVertexCount": 16,
+        "originalFaceCount": 28,
+        "roofCandidateCount": 8
+      },
+      {
+        "entityId": "04_GALERIAS:5C72",
+        "layer": "04_GALERIAS",
+        "handleHex": "5C72",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "03_ACCESOS:5C89",
+        "layer": "03_ACCESOS",
+        "handleHex": "5C89",
+        "originalVertexCount": 24,
+        "originalFaceCount": 44,
+        "roofCandidateCount": 12
+      },
+      {
+        "entityId": "04_GALERIAS:5CD0",
+        "layer": "04_GALERIAS",
+        "handleHex": "5CD0",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "03_ACCESOS:5CE7",
+        "layer": "03_ACCESOS",
+        "handleHex": "5CE7",
+        "originalVertexCount": 16,
+        "originalFaceCount": 28,
+        "roofCandidateCount": 8
+      },
+      {
+        "entityId": "04_GALERIAS:5D16",
+        "layer": "04_GALERIAS",
+        "handleHex": "5D16",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "03_ACCESOS:5D2D",
+        "layer": "03_ACCESOS",
+        "handleHex": "5D2D",
+        "originalVertexCount": 24,
+        "originalFaceCount": 44,
+        "roofCandidateCount": 12
+      },
+      {
+        "entityId": "04_GALERIAS:5D74",
+        "layer": "04_GALERIAS",
+        "handleHex": "5D74",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "06_CHIMENEAS:5D8B",
+        "layer": "06_CHIMENEAS",
+        "handleHex": "5D8B",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 8
+      },
+      {
+        "entityId": "06_CHIMENEAS:5DA2",
+        "layer": "06_CHIMENEAS",
+        "handleHex": "5DA2",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "03_ACCESOS:5DB9",
+        "layer": "03_ACCESOS",
+        "handleHex": "5DB9",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "03_ACCESOS:5DD0",
+        "layer": "03_ACCESOS",
+        "handleHex": "5DD0",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "03_ACCESOS:5DE7",
+        "layer": "03_ACCESOS",
+        "handleHex": "5DE7",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "03_ACCESOS:5DFE",
+        "layer": "03_ACCESOS",
+        "handleHex": "5DFE",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "03_ACCESOS:5E15",
+        "layer": "03_ACCESOS",
+        "handleHex": "5E15",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "03_ACCESOS:5E2C",
+        "layer": "03_ACCESOS",
+        "handleHex": "5E2C",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "03_ACCESOS:5E43",
+        "layer": "03_ACCESOS",
+        "handleHex": "5E43",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      },
+      {
+        "entityId": "03_ACCESOS:5E5A",
+        "layer": "03_ACCESOS",
+        "handleHex": "5E5A",
+        "originalVertexCount": 8,
+        "originalFaceCount": 12,
+        "roofCandidateCount": 4
+      }
+    ],
+    "ignoredNonPolyfaceEntities": 0
+  },
+  "sampling": {
+    "candidateVertexCount": 6938,
+    "candidateStationCount": 1132,
+    "sampledVertexCount": 2021,
+    "sampledStationCount": 300,
+    "unsampledVertexCount": 4917,
+    "stationSelection": "All if within limit; otherwise layer extrema/highest vertex plus uniform remaining stations",
+    "stationGroupingRoundDecimals": 7
+  },
+  "documentBefore": {
+    "filename": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf",
+    "fileDirectory": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik",
+    "isDirty": true,
+    "isReadOnly": false,
+    "activeLayerName": "01_TOPOGRAFIA\\POINTS",
+    "activeLayoutName": "MODEL",
+    "layerCount": 22
+  },
+  "topography": {
+    "handle": 2639,
+    "guid": "0e27460a-44dc-4068-ad3f-f7bbd9ac92a9",
+    "type": "Polyface",
+    "layer": "01_TOPOGRAFIA\\01_SUPERFICIE",
+    "label": "",
+    "visible": true
+  },
+  "terrainBefore": {
+    "handle": 2639,
+    "cog": {
+      "x": 5080.412969993733,
+      "y": 10571.225338868024,
+      "z": 2121.319453754301
+    },
+    "boundingBox": {
+      "min": {
+        "x": 4710.24169922,
+        "y": 10010.24169922,
+        "z": 2008.23739624
+      },
+      "max": {
+        "x": 5489.75830078,
+        "y": 11189.75830078,
+        "z": 2261
+      },
+      "mid": {
+        "x": 5100,
+        "y": 10600,
+        "z": 2134.61869812
+      },
+      "dx": 779.5166015600007,
+      "dy": 1179.5166015600007,
+      "dz": 252.76260376000005
+    },
+    "volume": -1,
+    "vertexCount": 8283
+  },
+  "completedStationCount": 300,
+  "sampledPointCountSoFar": 2021,
+  "minimumSampledCoverSoFar": 9.137910510160964,
+  "pointsWithoutTerrainSoFar": 0,
+  "minimumSampledCover": 9.137910510160964,
+  "maximumSampledCover": 68.83398639832603,
+  "pointsWithoutTerrain": 0,
+  "pointsWithMultipleTerrainHeights": 0,
+  "pointsAboveTerrain": 0,
+  "lowestCoverSamples": [
+    {
+      "entityId": "06_CHIMENEAS:5D8B",
+      "layer": "06_CHIMENEAS",
+      "vertexIndex": 5,
+      "xyz": [
+        5024.603773080217,
+        10670.329313597016,
+        2129.693815344734
+      ],
+      "terrainZ": 2138.831725854895,
+      "cover": 9.137910510160964
+    },
+    {
+      "entityId": "06_CHIMENEAS:5D8B",
+      "layer": "06_CHIMENEAS",
+      "vertexIndex": 4,
+      "xyz": [
+        5022.958015432636,
+        10670.890065698713,
+        2129.227941063549
+      ],
+      "terrainZ": 2138.9922950039727,
+      "cover": 9.764353940423462
+    },
+    {
+      "entityId": "04_GALERIAS:5D74",
+      "layer": "04_GALERIAS",
+      "vertexIndex": 3,
+      "xyz": [
+        5029.866395385371,
+        10667.374103477685,
+        2127.960878204141
+      ],
+      "terrainZ": 2138.201933772766,
+      "cover": 10.241055568625143
+    },
+    {
+      "entityId": "01_CORTES:3D2E",
+      "layer": "01_CORTES",
+      "vertexIndex": 232,
+      "xyz": [
+        5030.102495826341,
+        10667.293657964532,
+        2127.960878204141
+      ],
+      "terrainZ": 2138.228473269448,
+      "cover": 10.267595065306978
+    },
+    {
+      "entityId": "01_CORTES:3D2E",
+      "layer": "01_CORTES",
+      "vertexIndex": 522,
+      "xyz": [
+        5031.709129096125,
+        10666.746236548013,
+        2127.960878204141
+      ],
+      "terrainZ": 2138.30723153894,
+      "cover": 10.346353334799005
+    },
+    {
+      "entityId": "04_GALERIAS:5D74",
+      "layer": "04_GALERIAS",
+      "vertexIndex": 2,
+      "xyz": [
+        5032.70608487082,
+        10666.406547987684,
+        2127.960878204141
+      ],
+      "terrainZ": 2138.3561029976927,
+      "cover": 10.395224793551733
+    },
+    {
+      "entityId": "01_CORTES:3D2E",
+      "layer": "01_CORTES",
+      "vertexIndex": 233,
+      "xyz": [
+        5030.30462622359,
+        10667.882179979699,
+        2127.960878204141
+      ],
+      "terrainZ": 2138.503045340683,
+      "cover": 10.542167136542048
+    },
+    {
+      "entityId": "01_CORTES:3D2E",
+      "layer": "01_CORTES",
+      "vertexIndex": 523,
+      "xyz": [
+        5031.90838196503,
+        10667.335739011347,
+        2127.960878204141
+      ],
+      "terrainZ": 2138.581662551754,
+      "cover": 10.620784347613153
+    },
+    {
+      "entityId": "01_CORTES:3D2E",
+      "layer": "01_CORTES",
+      "vertexIndex": 174,
+      "xyz": [
+        5030.292653255627,
+        10667.228866421086,
+        2127.210878204141
+      ],
+      "terrainZ": 2138.237794917607,
+      "cover": 11.026916713466107
+    },
+    {
+      "entityId": "01_CORTES:3D2E",
+      "layer": "01_CORTES",
+      "vertexIndex": 464,
+      "xyz": [
+        5031.899417922071,
+        10666.681400234334,
+        2127.210878204141
+      ],
+      "terrainZ": 2138.316559628254,
+      "cover": 11.105681424112845
+    }
+  ],
+  "missingTerrainSampleExamples": [],
+  "byLayer": {
+    "01_CORTES": {
+      "sampledVertices": 1700,
+      "minimumSampledCover": 10.267595065306978,
+      "withoutTerrain": 0,
+      "aboveTerrain": 0
+    },
+    "02_RAMPA": {
+      "sampledVertices": 266,
+      "minimumSampledCover": 20.039953268071713,
+      "withoutTerrain": 0,
+      "aboveTerrain": 0
+    },
+    "03_ACCESOS": {
+      "sampledVertices": 23,
+      "minimumSampledCover": 11.41086992009923,
+      "withoutTerrain": 0,
+      "aboveTerrain": 0
+    },
+    "04_GALERIAS": {
+      "sampledVertices": 16,
+      "minimumSampledCover": 10.241055568625143,
+      "withoutTerrain": 0,
+      "aboveTerrain": 0
+    },
+    "05_RES_REF": {
+      "sampledVertices": 10,
+      "minimumSampledCover": 27.213181806286684,
+      "withoutTerrain": 0,
+      "aboveTerrain": 0
+    },
+    "06_CHIMENEAS": {
+      "sampledVertices": 6,
+      "minimumSampledCover": 9.137910510160964,
+      "withoutTerrain": 0,
+      "aboveTerrain": 0
+    }
+  },
+  "documentAfter": {
+    "filename": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf",
+    "fileDirectory": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik",
+    "isDirty": true,
+    "isReadOnly": false,
+    "activeLayerName": "01_TOPOGRAFIA\\POINTS",
+    "activeLayoutName": "MODEL",
+    "layerCount": 22
+  },
+  "terrainAfter": {
+    "handle": 2639,
+    "cog": {
+      "x": 5080.412969993733,
+      "y": 10571.225338868024,
+      "z": 2121.319453754301
+    },
+    "boundingBox": {
+      "min": {
+        "x": 4710.24169922,
+        "y": 10010.24169922,
+        "z": 2008.23739624
+      },
+      "max": {
+        "x": 5489.75830078,
+        "y": 11189.75830078,
+        "z": 2261
+      },
+      "mid": {
+        "x": 5100,
+        "y": 10600,
+        "z": 2134.61869812
+      },
+      "dx": 779.5166015600007,
+      "dy": 1179.5166015600007,
+      "dz": 252.76260376000005
+    },
+    "volume": -1,
+    "vertexCount": 8283
+  },
+  "documentMetadataUnchanged": true,
+  "terrainMetadataUnchanged": true,
+  "elapsedSeconds": 6.771
+}

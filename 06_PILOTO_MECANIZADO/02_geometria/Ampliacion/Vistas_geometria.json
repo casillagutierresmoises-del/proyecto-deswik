@@ -1,0 +1,43 @@
+{
+  "stage": "CONCEPTUAL",
+  "manifest_sha256": "20ab929fc2055bef932025ce0d1df162a42066178c41c67ab7003fa59dbea26d",
+  "audit_geometry_sha256": "a88b01bfb77f383662f28204b5329aa94de456d0604aa258c680dc57e4fbc565",
+  "source_topography_sha256": "6a9a135737b50022f167734a66ac63994045bec8410b3e1193ce841f91dbdc07",
+  "source_vein_sha256": "46d80f676d3ec3e0f1120ce2b0d785d4f25e6f7f45978cc0a26c73041dff26c4",
+  "original_WCS_preserved": true,
+  "EPSG": "UNKNOWN",
+  "isometric_meshes": 127,
+  "isometric_triangles": 145868,
+  "root_stopes": 6,
+  "levels": 6,
+  "surface_trace_stations": 87,
+  "collars": [
+    {
+      "name": "CH-VENT",
+      "strike_projection_m": 509.9999999999996,
+      "surface_z_m": 2255.6356586569573,
+      "collar_top_z_m": 2257.2572681428364
+    },
+    {
+      "name": "CH-ESC",
+      "strike_projection_m": 360.0000000000003,
+      "surface_z_m": 2238.5440638378477,
+      "collar_top_z_m": 2240.4544324020812
+    },
+    {
+      "name": "CH-ORE",
+      "strike_projection_m": 400.0,
+      "surface_z_m": 2246.2441988960654,
+      "collar_top_z_m": 2247.89329224446
+    },
+    {
+      "name": "CH-RLL",
+      "strike_projection_m": 310.0000000000001,
+      "surface_z_m": 2239.374180301133,
+      "collar_top_z_m": 2240.989371576296
+    }
+  ],
+  "crown_definition": "Reference vertical 20 m below original TIN at original vein upper-contact stations; no replacement for 3D coverage verification",
+  "projection_not_intersected_section": true,
+  "screenshots_used": false
+}

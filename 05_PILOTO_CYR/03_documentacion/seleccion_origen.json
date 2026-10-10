@@ -1,0 +1,38 @@
+{
+  "id": "923c5ad0-4b4c-4e6e-b270-d3a27ee393d6",
+  "success": true,
+  "data": {
+    "count": 1,
+    "figures": [
+      {
+        "handle": 2678,
+        "guid": "92eaf13e-85a4-440b-a105-b31e739fa65d",
+        "type": "Figure",
+        "layer": "01_TOPOGRAFIA\\POINTS",
+        "boundingBox": {
+          "min": {
+            "x": 4930,
+            "y": 10560,
+            "z": 2192.86424255
+          },
+          "max": {
+            "x": 5240,
+            "y": 10790,
+            "z": 2192.86424255
+          },
+          "mid": {
+            "x": 5085,
+            "y": 10675,
+            "z": 2192.86424255
+          },
+          "dx": 310,
+          "dy": 230,
+          "dz": 0
+        }
+      }
+    ]
+  },
+  "error": null,
+  "errorCode": null,
+  "timestamp": "2026-10-06T03:59:42.8883849Z"
+}

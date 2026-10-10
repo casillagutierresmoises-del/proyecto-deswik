@@ -1,0 +1,1088 @@
+{
+  "schema_version": 1,
+  "project": "proyecto-deswik",
+  "design_status": "CONCEPTUAL_SYNTHETIC_NOT_OPERATIONAL",
+  "anchor_status": "CONFIRMED_WCS",
+  "requested_surface_anchor_wcs": [
+    5085,
+    10675,
+    2192.86424255
+  ],
+  "anchor_entity": {
+    "handle": 2678,
+    "guid": "92eaf13e-85a4-440b-a105-b31e739fa65d",
+    "type": "Rectangle",
+    "layer": "01_TOPOGRAFIA\\POINTS"
+  },
+  "surface_anchor_projected_to_trace_wcs": [
+    5032.560676468174,
+    10692.86743080016,
+    2153.2262597955514
+  ],
+  "panel_center_wcs": [
+    5042.773218814491,
+    10689.387754073288,
+    2112.9608782041414
+  ],
+  "panel_strike_length_m": 50.0,
+  "panel_vertical_height_m": 30.0,
+  "panel_top_z_m": 2127.9608782041414,
+  "panel_bottom_z_m": 2097.9608782041414,
+  "bbox_all_labors_wcs": [
+    [
+      5005.51328051977,
+      10664.07324657808,
+      2097.9608782041414
+    ],
+    [
+      5055.680042243611,
+      10717.313481665395,
+      2130.9608782041414
+    ]
+  ],
+  "bbox_all_labors_size_wcs_m": [
+    50.166761723840864,
+    53.24023508731443,
+    33.0
+  ],
+  "bbox_all_labors_local_m": [
+    [
+      -39.43196187615784,
+      -25.00000000000092,
+      -15.0
+    ],
+    [
+      5.117314097820204,
+      25.000000000000917,
+      18.0
+    ]
+  ],
+  "ramp": {
+    "radius_centerline_m": 8.0,
+    "width_m": 3.0,
+    "height_m": 3.0,
+    "grade_percent_nominal": 12.0,
+    "horizontal_arc_length_m": 250.0,
+    "length_3d_analytic_m": 251.79356624028344,
+    "turns": 4.97359197162173,
+    "vertical_pitch_m": 6.031857894892402,
+    "clearance_between_turns_m": 3.0318578948924024,
+    "grade_percent_polyline_max": 12.00195334754746,
+    "all_dimensions_status": "CONCEPTUAL_ASSUMED_NO_EQUIPMENT_CHECK"
+  },
+  "raises": {
+    "escape_section_m": [
+      1.8,
+      1.8
+    ],
+    "escape_axis_angle_deg": 75.0,
+    "escape_vertical_interval_m": 30.0,
+    "escape_axis_length_m": 31.058285412302492,
+    "rest_vertical_spacing_m": 4.285714285714286,
+    "rest_axis_spacing_m": 4.436897916043213,
+    "rest_max_axis_spacing_m": 5.0,
+    "rest_marker_count": 8,
+    "vent_section_m": [
+      1.5,
+      1.5
+    ],
+    "vent_axis_angle_deg": 90,
+    "surface_connections_modeled": false,
+    "status": "LOCAL_CONCEPTUAL_NO_COMPARTMENT_ENGINEERING_OR_VENT_CALC"
+  },
+  "access_levels": [
+    {
+      "id": "GAL_N01",
+      "floor_above_base_m": 0.0,
+      "floor_elevation_m": 2097.9608782041414,
+      "crosscut": "CX_N01",
+      "connection_wcs": [
+        5046.197235084206,
+        10688.221103368487,
+        2099.4608782041414
+      ]
+    },
+    {
+      "id": "GAL_N02",
+      "floor_above_base_m": 9.0,
+      "floor_elevation_m": 2106.9608782041414,
+      "crosscut": "CX_N02",
+      "connection_wcs": [
+        5044.042939042089,
+        10689.375658727678,
+        2108.4608782041414
+      ]
+    },
+    {
+      "id": "GAL_N03",
+      "floor_above_base_m": 18.0,
+      "floor_elevation_m": 2115.9608782041414,
+      "crosscut": "CX_N03",
+      "connection_wcs": [
+        5041.375435159622,
+        10689.023994626432,
+        2117.4608782041414
+      ]
+    },
+    {
+      "id": "GAL_N04",
+      "floor_above_base_m": 27.0,
+      "floor_elevation_m": 2124.9608782041414,
+      "crosscut": "CX_N04",
+      "connection_wcs": [
+        5039.733075570737,
+        10691.681038037716,
+        2126.4608782041414
+      ]
+    }
+  ],
+  "intermediate_cut_access": "TO_BE_RECONFIGURED_WITH_FILL; NO_COMPLETE_PERMANENT_ACCESS_DESIGN_CLAIM",
+  "blocks": {
+    "records": 14000,
+    "counts_xyz": [
+      28,
+      25,
+      20
+    ],
+    "block_size_m": [
+      0.5,
+      2.0,
+      1.5
+    ],
+    "prototype_volume_m3": 21000.0,
+    "ore_volume_m3": 2381.049928435308,
+    "synthetic_ore_tonnes": 6428.834806775332,
+    "fully_mineral_cells": 720,
+    "contact_cells": 1740,
+    "wholly_waste_cells": 11540,
+    "csv_sha256": "fef09001dc775cb2787f7d3b3285c6923e3ebbb17c01be53a09b5090e717ff0d"
+  },
+  "dxf": {
+    "mesh_entities": 38,
+    "polyline_entities": 39,
+    "text_entities": 26,
+    "layers": [
+      "01_CORTES",
+      "02_RAMPA",
+      "05_RES_REF",
+      "03_ACCESOS",
+      "04_GALERIAS",
+      "06_CHIMENEAS",
+      "07_EJES",
+      "08_DESCANSOS",
+      "09_MARCO_MB",
+      "10_NOMBRES"
+    ],
+    "sha256": "98ba5e91afa78982658a5097ae58cc31f7d722e8e2cd7911d4317e7829da2274"
+  },
+  "cut_volume_m3": 2381.046681395488,
+  "block_cut_volume_relative_difference": 1.3637027133588165e-06,
+  "mesh_validation": {
+    "closed_oriented_positive_volume": true,
+    "connected_components_each_mesh": 1,
+    "entities": [
+      {
+        "name": "TAJO_C01",
+        "layer": "01_CORTES",
+        "role": "CUT_STAGE",
+        "volume_m3": 238.598783007464,
+        "bbox_wcs": [
+          [
+            5036.948163280624,
+            10664.152784000862,
+            2097.9608782041414
+          ],
+          [
+            5055.343438135545,
+            10712.254106490753,
+            2100.9608782041414
+          ]
+        ],
+        "attrs": {
+          "PHASE": 1,
+          "HEIGHT": 3.0,
+          "FILL": "RELLENAR_ANTES_SIGUIENTE"
+        },
+        "vertices": 580,
+        "triangles": 1156
+      },
+      {
+        "name": "TAJO_C02",
+        "layer": "01_CORTES",
+        "role": "CUT_STAGE",
+        "volume_m3": 238.4904762698267,
+        "bbox_wcs": [
+          [
+            5036.187533563481,
+            10664.412129255577,
+            2100.9608782041414
+          ],
+          [
+            5054.582117375529,
+            10712.513216296185,
+            2103.9608782041414
+          ]
+        ],
+        "attrs": {
+          "PHASE": 2,
+          "HEIGHT": 3.0,
+          "FILL": "RELLENAR_ANTES_SIGUIENTE"
+        },
+        "vertices": 580,
+        "triangles": 1156
+      },
+      {
+        "name": "TAJO_C03",
+        "layer": "01_CORTES",
+        "role": "CUT_STAGE",
+        "volume_m3": 238.38161172922142,
+        "bbox_wcs": [
+          [
+            5035.426903846339,
+            10664.671474510293,
+            2103.9608782041414
+          ],
+          [
+            5053.820796615513,
+            10712.77232610162,
+            2106.9608782041414
+          ]
+        ],
+        "attrs": {
+          "PHASE": 3,
+          "HEIGHT": 3.0,
+          "FILL": "RELLENAR_ANTES_SIGUIENTE"
+        },
+        "vertices": 580,
+        "triangles": 1156
+      },
+      {
+        "name": "TAJO_C04",
+        "layer": "01_CORTES",
+        "role": "CUT_STAGE",
+        "volume_m3": 238.27209133741053,
+        "bbox_wcs": [
+          [
+            5034.666274129197,
+            10664.930819765008,
+            2106.9608782041414
+          ],
+          [
+            5053.059475855498,
+            10713.031435907054,
+            2109.9608782041414
+          ]
+        ],
+        "attrs": {
+          "PHASE": 4,
+          "HEIGHT": 3.0,
+          "FILL": "RELLENAR_ANTES_SIGUIENTE"
+        },
+        "vertices": 580,
+        "triangles": 1156
+      },
+      {
+        "name": "TAJO_C05",
+        "layer": "01_CORTES",
+        "role": "CUT_STAGE",
+        "volume_m3": 238.16211423342975,
+        "bbox_wcs": [
+          [
+            5033.905644412053,
+            10665.190165019721,
+            2109.9608782041414
+          ],
+          [
+            5052.298155095482,
+            10713.290545712487,
+            2112.9608782041414
+          ]
+        ],
+        "attrs": {
+          "PHASE": 5,
+          "HEIGHT": 3.0,
+          "FILL": "RELLENAR_ANTES_SIGUIENTE"
+        },
+        "vertices": 580,
+        "triangles": 1156
+      },
+      {
+        "name": "TAJO_C06",
+        "layer": "01_CORTES",
+        "role": "CUT_STAGE",
+        "volume_m3": 238.0515546027891,
+        "bbox_wcs": [
+          [
+            5033.145014694911,
+            10665.449510274437,
+            2112.9608782041414
+          ],
+          [
+            5051.536834335467,
+            10713.549655517922,
+            2115.9608782041414
+          ]
+        ],
+        "attrs": {
+          "PHASE": 6,
+          "HEIGHT": 3.0,
+          "FILL": "RELLENAR_ANTES_SIGUIENTE"
+        },
+        "vertices": 580,
+        "triangles": 1156
+      },
+      {
+        "name": "TAJO_C07",
+        "layer": "01_CORTES",
+        "role": "CUT_STAGE",
+        "volume_m3": 237.9405189535937,
+        "bbox_wcs": [
+          [
+            5032.384384977769,
+            10665.708855529152,
+            2115.9608782041414
+          ],
+          [
+            5050.7755135754505,
+            10713.808765323356,
+            2118.9608782041414
+          ]
+        ],
+        "attrs": {
+          "PHASE": 7,
+          "HEIGHT": 3.0,
+          "FILL": "RELLENAR_ANTES_SIGUIENTE"
+        },
+        "vertices": 580,
+        "triangles": 1156
+      },
+      {
+        "name": "TAJO_C08",
+        "layer": "01_CORTES",
+        "role": "CUT_STAGE",
+        "volume_m3": 237.82888437100215,
+        "bbox_wcs": [
+          [
+            5031.623755260626,
+            10665.968200783867,
+            2118.9608782041414
+          ],
+          [
+            5050.014192815435,
+            10714.067875128789,
+            2121.9608782041414
+          ]
+        ],
+        "attrs": {
+          "PHASE": 8,
+          "HEIGHT": 3.0,
+          "FILL": "RELLENAR_ANTES_SIGUIENTE"
+        },
+        "vertices": 580,
+        "triangles": 1156
+      },
+      {
+        "name": "TAJO_C09",
+        "layer": "01_CORTES",
+        "role": "CUT_STAGE",
+        "volume_m3": 237.7167122040822,
+        "bbox_wcs": [
+          [
+            5030.863125543483,
+            10666.227546038583,
+            2121.9608782041414
+          ],
+          [
+            5049.252872055419,
+            10714.326984934223,
+            2124.9608782041414
+          ]
+        ],
+        "attrs": {
+          "PHASE": 9,
+          "HEIGHT": 3.0,
+          "FILL": "RELLENAR_ANTES_SIGUIENTE"
+        },
+        "vertices": 580,
+        "triangles": 1156
+      },
+      {
+        "name": "TAJO_C10",
+        "layer": "01_CORTES",
+        "role": "CUT_STAGE",
+        "volume_m3": 237.60393468666857,
+        "bbox_wcs": [
+          [
+            5030.102495826341,
+            10666.486891293298,
+            2124.9608782041414
+          ],
+          [
+            5048.491551295403,
+            10714.586094739658,
+            2127.9608782041414
+          ]
+        ],
+        "attrs": {
+          "PHASE": 10,
+          "HEIGHT": 3.0,
+          "FILL": "RELLENAR_ANTES_SIGUIENTE"
+        },
+        "vertices": 580,
+        "triangles": 1156
+      },
+      {
+        "name": "RMP_01",
+        "layer": "02_RAMPA",
+        "role": "RAMP",
+        "volume_m3": 2251.346111628518,
+        "bbox_wcs": [
+          [
+            5008.662624246825,
+            10688.273859158535,
+            2097.9608782041414
+          ],
+          [
+            5027.662142934215,
+            10707.273227459997,
+            2130.9608782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 2004,
+        "triangles": 4004
+      },
+      {
+        "name": "RES_REF_01",
+        "layer": "05_RES_REF",
+        "role": "BAY_RESERVATION",
+        "volume_m3": 17.99999999999515,
+        "bbox_wcs": [
+          [
+            5006.832868333769,
+            10699.574316537333,
+            2100.9608782041414
+          ],
+          [
+            5009.729569798111,
+            10703.073920297898,
+            2103.9608782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "RES_REF_02",
+        "layer": "05_RES_REF",
+        "role": "BAY_RESERVATION",
+        "volume_m3": 17.999999999997573,
+        "bbox_wcs": [
+          [
+            5026.517696243605,
+            10692.302131149314,
+            2103.9608782041414
+          ],
+          [
+            5029.44961986825,
+            10695.815648716325,
+            2106.9608782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "RES_REF_03",
+        "layer": "05_RES_REF",
+        "role": "BAY_RESERVATION",
+        "volume_m3": 17.99999999999515,
+        "bbox_wcs": [
+          [
+            5006.921305792845,
+            10699.886787033805,
+            2106.9608782041414
+          ],
+          [
+            5009.887644390376,
+            10703.413251101312,
+            2109.9608782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "RES_REF_04",
+        "layer": "05_RES_REF",
+        "role": "BAY_RESERVATION",
+        "volume_m3": 18.0,
+        "bbox_wcs": [
+          [
+            5026.355043234481,
+            10691.96585934652,
+            2109.9608782041414
+          ],
+          [
+            5029.354980142706,
+            10695.504299044276,
+            2112.9608782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "RES_REF_05",
+        "layer": "05_RES_REF",
+        "role": "BAY_RESERVATION",
+        "volume_m3": 18.000000000002427,
+        "bbox_wcs": [
+          [
+            5007.022121729608,
+            10700.196930163802,
+            2112.9608782041414
+          ],
+          [
+            5010.0548310363865,
+            10703.746371324554,
+            2115.9608782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "RES_REF_06",
+        "layer": "05_RES_REF",
+        "role": "BAY_RESERVATION",
+        "volume_m3": 18.00000000000485,
+        "bbox_wcs": [
+          [
+            5026.183368979714,
+            10691.635982414105,
+            2115.9608782041414
+          ],
+          [
+            5029.248015750341,
+            10695.195447841787,
+            2118.9608782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "RES_REF_07",
+        "layer": "05_RES_REF",
+        "role": "BAY_RESERVATION",
+        "volume_m3": 17.999999999997573,
+        "bbox_wcs": [
+          [
+            5007.135205129226,
+            10700.50440440901,
+            2118.9608782041414
+          ],
+          [
+            5010.2309456363,
+            10704.072914147775,
+            2121.9608782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "RES_REF_08",
+        "layer": "05_RES_REF",
+        "role": "BAY_RESERVATION",
+        "volume_m3": 17.999999999990298,
+        "bbox_wcs": [
+          [
+            5026.002862520736,
+            10691.31286360053,
+            2121.9608782041414
+          ],
+          [
+            5029.128844476444,
+            10694.889435204544,
+            2124.9608782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "RES_REF_09",
+        "layer": "05_RES_REF",
+        "role": "BAY_RESERVATION",
+        "volume_m3": 18.000000000002427,
+        "bbox_wcs": [
+          [
+            5007.260431468378,
+            10700.808871189998,
+            2124.9608782041414
+          ],
+          [
+            5010.415794259139,
+            10704.39251999392,
+            2127.9608782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "CX_N01",
+        "layer": "03_ACCESOS",
+        "role": "CROSSCUT",
+        "volume_m3": 194.55582688038217,
+        "bbox_wcs": [
+          [
+            5025.251304156798,
+            10686.801258625763,
+            2097.9608782041414
+          ],
+          [
+            5046.681012829207,
+            10696.612931756023,
+            2100.9608782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 16,
+        "triangles": 28
+      },
+      {
+        "name": "GAL_N01",
+        "layer": "04_GALERIAS",
+        "role": "ORE_GALLERY",
+        "volume_m3": 449.99999999994907,
+        "bbox_wcs": [
+          [
+            5036.714427924801,
+            10664.07324657808,
+            2097.9608782041414
+          ],
+          [
+            5055.680042243611,
+            10712.368960158892,
+            2100.9608782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "CX_N02",
+        "layer": "03_ACCESOS",
+        "role": "CROSSCUT",
+        "volume_m3": 501.969219512197,
+        "bbox_wcs": [
+          [
+            5005.51328051977,
+            10687.955813984954,
+            2106.9608782041414
+          ],
+          [
+            5044.52671678709,
+            10717.313481665395,
+            2109.9608782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 24,
+        "triangles": 44
+      },
+      {
+        "name": "GAL_N02",
+        "layer": "04_GALERIAS",
+        "role": "ORE_GALLERY",
+        "volume_m3": 450.00000000008123,
+        "bbox_wcs": [
+          [
+            5034.431750411658,
+            10664.851013714615,
+            2106.9608782041414
+          ],
+          [
+            5053.397364730467,
+            10713.146727295427,
+            2109.9608782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "CX_N03",
+        "layer": "03_ACCESOS",
+        "role": "CROSSCUT",
+        "volume_m3": 151.62136282309075,
+        "bbox_wcs": [
+          [
+            5024.818638157177,
+            10687.604149883708,
+            2115.9608782041414
+          ],
+          [
+            5041.859212904622,
+            10695.817950678744,
+            2118.9608782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 16,
+        "triangles": 28
+      },
+      {
+        "name": "GAL_N03",
+        "layer": "04_GALERIAS",
+        "role": "ORE_GALLERY",
+        "volume_m3": 449.9999999999018,
+        "bbox_wcs": [
+          [
+            5032.1490728985145,
+            10665.62878085115,
+            2115.9608782041414
+          ],
+          [
+            5051.114687217324,
+            10713.924494431962,
+            2118.9608782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "CX_N04",
+        "layer": "03_ACCESOS",
+        "role": "CROSSCUT",
+        "volume_m3": 455.720256848382,
+        "bbox_wcs": [
+          [
+            5006.00787881085,
+            10690.261193294991,
+            2124.9608782041414
+          ],
+          [
+            5040.216853315738,
+            10717.283321434265,
+            2127.9608782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 24,
+        "triangles": 44
+      },
+      {
+        "name": "GAL_N04",
+        "layer": "04_GALERIAS",
+        "role": "ORE_GALLERY",
+        "volume_m3": 449.99999999995515,
+        "bbox_wcs": [
+          [
+            5029.866395385371,
+            10666.406547987684,
+            2124.9608782041414
+          ],
+          [
+            5048.832009704181,
+            10714.702261568496,
+            2127.9608782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "CH_ESC_LOCAL",
+        "layer": "06_CHIMENEAS",
+        "role": "LOCAL_ESCAPE",
+        "volume_m3": 100.6288447358723,
+        "bbox_wcs": [
+          [
+            5022.958015432636,
+            10667.736756475235,
+            2099.227941063549
+          ],
+          [
+            5032.79323141803,
+            10672.593879389982,
+            2129.6938153447336
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "CH_VENT_LOCAL",
+        "layer": "06_CHIMENEAS",
+        "role": "LOCAL_VENT",
+        "volume_m3": 67.50000000005821,
+        "bbox_wcs": [
+          [
+            5042.140109280353,
+            10712.625784276202,
+            2099.4608782041414
+          ],
+          [
+            5044.043731768078,
+            10714.529406763928,
+            2129.4608782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "CX_ESC_01",
+        "layer": "03_ACCESOS",
+        "role": "RAISE_LINK",
+        "volume_m3": 24.300000000010186,
+        "bbox_wcs": [
+          [
+            5031.389819300238,
+            10665.598243801078,
+            2098.5608782041413
+          ],
+          [
+            5039.06957630786,
+            10669.720946217352,
+            2100.3608782041415
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "CX_VENT_01",
+        "layer": "03_ACCESOS",
+        "role": "RAISE_LINK",
+        "volume_m3": 25.013956720093727,
+        "bbox_wcs": [
+          [
+            5042.850031651715,
+            10709.282133718898,
+            2098.7108782041414
+          ],
+          [
+            5053.857049380053,
+            10714.287517891427,
+            2100.2108782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "CX_ESC_02",
+        "layer": "03_ACCESOS",
+        "role": "RAISE_LINK",
+        "volume_m3": 24.300000000010186,
+        "bbox_wcs": [
+          [
+            5029.107141787094,
+            10666.376010937613,
+            2107.5608782041413
+          ],
+          [
+            5036.786898794717,
+            10670.498713353887,
+            2109.3608782041415
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "CX_VENT_02",
+        "layer": "03_ACCESOS",
+        "role": "RAISE_LINK",
+        "volume_m3": 19.587985573377107,
+        "bbox_wcs": [
+          [
+            5042.850031651715,
+            10710.05990085543,
+            2107.7108782041414
+          ],
+          [
+            5051.574371866909,
+            10714.287517891427,
+            2109.2108782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "CX_ESC_03",
+        "layer": "03_ACCESOS",
+        "role": "RAISE_LINK",
+        "volume_m3": 24.300000000010186,
+        "bbox_wcs": [
+          [
+            5026.824464273951,
+            10667.153778074147,
+            2116.5608782041413
+          ],
+          [
+            5034.504221281573,
+            10671.276480490422,
+            2118.3608782041415
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "CX_VENT_03",
+        "layer": "03_ACCESOS",
+        "role": "RAISE_LINK",
+        "volume_m3": 14.162014426643509,
+        "bbox_wcs": [
+          [
+            5042.850031651715,
+            10710.837667991966,
+            2116.7108782041414
+          ],
+          [
+            5049.291694353766,
+            10714.287517891427,
+            2118.2108782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "CX_ESC_04",
+        "layer": "03_ACCESOS",
+        "role": "RAISE_LINK",
+        "volume_m3": 24.3000000000211,
+        "bbox_wcs": [
+          [
+            5024.541786760808,
+            10667.931545210682,
+            2125.5608782041413
+          ],
+          [
+            5032.221543768431,
+            10672.054247626957,
+            2127.3608782041415
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      },
+      {
+        "name": "CX_VENT_04",
+        "layer": "03_ACCESOS",
+        "role": "RAISE_LINK",
+        "volume_m3": 8.736043279905061,
+        "bbox_wcs": [
+          [
+            5042.850031651715,
+            10711.6154351285,
+            2125.7108782041414
+          ],
+          [
+            5047.009016840622,
+            10714.287517891427,
+            2127.2108782041414
+          ]
+        ],
+        "attrs": {},
+        "vertices": 8,
+        "triangles": 12
+      }
+    ]
+  },
+  "collision_check": {
+    "method": "AABB broad phase + convex-cell separating-axis theorem; positive overlap only",
+    "convex_pairs_tested": 1184,
+    "unexpected_clashes": [],
+    "unexpected_clash_count": 0,
+    "intentional_connection_cell_overlaps": 1098,
+    "stage_solids": "Ten successive extraction/fill stages; no concurrent open stopes assumed",
+    "ramp_vs_cut_aabb_separated": true,
+    "limits": "Mitered corners and cells checked geometrically; no vehicle envelope, stability, compartment or ventilation validation"
+  },
+  "terrain_cover_check": {
+    "status": "NATIVE_SAMPLED_ORIGINAL_TOPOGRAPHY",
+    "report_relative": "03_documentacion/cobertura_real.json",
+    "geometry_revision_proof_relative": "03_documentacion/Revision_descansos_verificacion.json",
+    "native_reads": 305,
+    "sections": 300,
+    "minimum_sampled_vertical_cover_m": 9.137910510160964,
+    "scope": "38 solids identical to those sampled; coverage between samples and geotechnical stability not established"
+  },
+  "source_files": [
+    {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\outputs\\Veta_75_verificacion.json",
+      "sha256": "46ee5e41df398bafe1ef594f74e34002569121282686a6ee4b0a81681060ce00"
+    },
+    {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\vein-inclined-section.json",
+      "sha256": "799ada75d2f7d887f42df007181f957d21c6f8219143e5dd5bff76e715d2fb59"
+    },
+    {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-cyr\\parametros.json",
+      "sha256": "1c81c8ad87f8aaf4347be227c1b27211aeded0c0fc778424521df9e420338806"
+    }
+  ],
+  "assumptions": [
+    "Dip and true width inherited from conceptual existing vein; no measured contacts.",
+    "Grades synthetic; density assumed; NO resources/reserves classification.",
+    "Ten cut solids are ascending extraction/fill sequence, not simultaneously open stopes.",
+    "Ramp/bays/raises/access sections assumed; no specified equipment or geotechnical approval.",
+    "Escape and ventilation are local connections; no independent surface exits modeled.",
+    "Raise compartment design, ladders/guards, support, ventilation/fill specification pending.",
+    "Full terrain cover requires original terrain triangles; trace cover alone does not validate it.",
+    "Peru legal references documented separately; geometry is not a legal-compliance certification."
+  ],
+  "cad_saved": false,
+  "native_block_model_converted": true,
+  "native_block_model": {
+    "path_relative": "01_datos/Bloques_piloto.dm",
+    "records": 14000,
+    "sha256": "89fb3d973346a6a8df2f3450a1a86214390f25d637915591a030161fa78503c8",
+    "all_rows_and_attributes_verified": true,
+    "visualized_in_cad": false
+  },
+  "native_duf": {
+    "path_relative": "proyecto-deswik-piloto-cyr.duf",
+    "sha256": "9713c4a3edd1a6092de123e0891a6bf1a8b609be29bced6d83aa548f487b43f6",
+    "source_sha256": "dad5de0a4311d47f7b77340aca039e0bb60c4033edd5409da4ba942ebe1e276d",
+    "original_entities_preserved": 1407,
+    "added_layers": 11,
+    "added_figures": 103,
+    "total_entities": 1521,
+    "native_reader_verified": true,
+    "opened_in_cad": false,
+    "model_display_reference_written": true
+  }
+}

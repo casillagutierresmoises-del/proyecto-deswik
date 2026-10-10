@@ -1,0 +1,46 @@
+{
+  "verified": true,
+  "manifest_sha256": "20ab929fc2055bef932025ce0d1df162a42066178c41c67ab7003fa59dbea26d",
+  "closed_solids": 407,
+  "stopes": 6,
+  "stage": "CONCEPTUAL_PENDIENTE_VALIDACION",
+  "source_warnings": [],
+  "totals": {
+    "mineral_volume_m3": 12656.154500571536,
+    "initial_tonnes_t": 34171.61715154315,
+    "fill_geometry_m3": 22268.599997882346,
+    "stopes_with_fill_n": 6
+  },
+  "density_checks": [
+    {
+      "row": 9,
+      "id": "TJ-A1",
+      "change_recalculated": true,
+      "blank_exposed": true,
+      "zero_exposed": true,
+      "restored": true
+    },
+    {
+      "row": 11,
+      "id": "TJ-A3",
+      "change_recalculated": true,
+      "blank_exposed": true,
+      "zero_exposed": true,
+      "restored": true
+    },
+    {
+      "row": 14,
+      "id": "TJ-C1",
+      "change_recalculated": true,
+      "blank_exposed": true,
+      "zero_exposed": true,
+      "restored": true
+    }
+  ],
+  "fill_factor_zero_permitted": true,
+  "fill_factor_blank_exposed": true,
+  "engine": "bundled @oai/artifact-tool, no native Excel session test",
+  "formula_error_inspection": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+  "sample_inspection": "{\"kind\":\"table\",\"sheet\":\"Tajeos\",\"address\":\"A8:L14\",\"rows\":7,\"cols\":12,\"values\":[[\"Tajeo\",\"Método\",\"Mineral (m³)\",\"Densidad (t/m³)\",\"Toneladas (t)\",\"Relleno geom. (m³)\",\"Factor relleno\",\"Relleno colocado (m³)\",\"Cota inf. (m)\",\"Cota sup. (m)\",\"Cortes relleno\",\"Estado datos\"],[\"TJ-A1\",\"Corte y relleno ascendente\",1597.9517693569553,2.7,4314.469777263779,3570.000000000233,1,3570.000000000233,2170,2210,12,\"SINTÉTICO / CONCEPTUAL\"],[\"TJ-A2\",\"Corte y relleno ascendente\",1788.2152188013424,2.7,4828.1810907636245,3570.0000000003106,1,3570.0000000003106,2170,2210,12,\"SINTÉTICO / CONCEPTUAL\"],[\"TJ-A3\",\"Corte y relleno ascendente\",2004.1401744213265,2.7,5411.178470937582,3570.000000000194,1,3570.000000000194,2170,2210,12,\"SINTÉTICO / CONCEPTUAL\"],[\"TJ-A4\",\"Corte y relleno ascendente\",2237.898124088475,2.7,6042.324935038883,3569.9999999998836,1,3569.9999999998836,2170,2210,12,\"SINTÉTICO / CONCEPTUAL\"],[\"TJ-B1\",\"Subniveles / taladros largos\",3255.3580295572465,2.7,8789.466679804566,3228.599997881607,1,3228.599997881607,2130,2190,1,\"SINTÉTICO / CONCEPTUAL\"],[\"TJ-C1\",\"Corte y relleno ascendente\",1772.5911843461897,2.7,4785.996197734713,4760.000000000116,1,4760.000000000116,2130,2170,12,\"SINTÉTICO / CONCEPTUAL\"]]}",
+  "excavation_total": "Not summed: gross entities contain related intersections and sequential references"
+}

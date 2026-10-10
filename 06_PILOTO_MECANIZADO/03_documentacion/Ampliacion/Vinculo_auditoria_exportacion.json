@@ -1,0 +1,2047 @@
+{
+  "verified": true,
+  "audited_input_sha256": "f2540111e936a6795f7199f6c96dc86307b00c69fed3d035f66d5d7d66ca8cac",
+  "exported_input_sha256": "a88b01bfb77f383662f28204b5329aa94de456d0604aa258c680dc57e4fbc565",
+  "audit_input": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\Geometria_revision_encurso.json",
+  "exported_input": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\salida\\Geometria_auditoria.json",
+  "meshes": 407,
+  "checks": [
+    {
+      "name": "ACC-N01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "ACC-N02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "ACC-N03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "ACC-N04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "ACC-N05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "ACC-N06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "BOC-V2",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CARG-N01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CARG-N02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CARG-N03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CARG-N04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CARG-N05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CARG-N06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-ESC",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-ESC-COLLAR",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-ESC-N01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-ESC-N02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-ESC-N03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-ESC-N04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-ESC-N05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-ESC-N06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-ORE",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-ORE-COLLAR",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-ORE-N01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-ORE-N02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-ORE-N03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-ORE-N04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-ORE-N05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-ORE-N06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-RLL",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-RLL-COLLAR",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-RLL-N01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-RLL-N02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-RLL-N03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-RLL-N04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-RLL-N05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-RLL-N06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-VENT",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-VENT-COLLAR",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-VENT-N01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-VENT-N02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-VENT-N03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-VENT-N04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-VENT-N05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CH-VENT-N06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A1-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A1-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A1-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A1-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A1-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A1-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A1-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A1-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A1-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A1-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A1-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A1-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A2-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A2-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A2-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A2-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A2-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A2-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A2-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A2-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A2-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A2-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A2-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A2-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A3-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A3-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A3-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A3-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A3-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A3-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A3-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A3-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A3-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A3-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A3-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A3-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A4-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A4-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A4-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A4-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A4-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A4-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A4-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A4-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A4-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A4-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A4-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-A4-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-C1-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-C1-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-C1-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-C1-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-C1-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-C1-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-C1-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-C1-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-C1-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-C1-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-C1-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-RIN-TJ-C1-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-TJ-A1-RL2170",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-TJ-A1-RL2190",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-TJ-A1-RL2210",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-TJ-A2-RL2170",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-TJ-A2-RL2190",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-TJ-A2-RL2210",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-TJ-A3-RL2170",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-TJ-A3-RL2190",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-TJ-A3-RL2210",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-TJ-A4-RL2170",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-TJ-A4-RL2190",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-TJ-A4-RL2210",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-TJ-B1-RL2130",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-TJ-B1-RL2150",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-TJ-B1-RL2170",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-TJ-B1-RL2190",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-TJ-C1-RL2130",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-TJ-C1-RL2150",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "CX-TJ-C1-RL2170",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-A-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-A-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-A-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-A-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-A-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-A-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-A-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-A-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-A-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-A-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-A-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-A-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-C-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-C-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-C-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-C-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-C-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-C-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-C-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-C-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-C-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-C-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-C-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DIST-C-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DP-2130-158",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DP-2130-175",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DP-2130-192",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DP-2150-158",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DP-2150-175",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DP-2150-192",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DP-2170-158",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DP-2170-175",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DP-2170-192",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DP-2190-158",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DP-2190-175",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "DP-2190-192",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EST-OP-N01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EST-OP-N02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EST-OP-N03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EST-OP-N04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EST-OP-N05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EST-OP-N06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A1-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A1-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A1-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A1-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A1-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A1-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A1-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A1-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A1-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A1-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A1-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A1-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A2-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A2-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A2-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A2-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A2-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A2-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A2-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A2-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A2-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A2-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A2-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A2-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A3-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A3-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A3-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A3-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A3-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A3-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A3-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A3-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A3-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A3-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A3-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A3-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A4-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A4-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A4-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A4-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A4-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A4-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A4-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A4-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A4-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A4-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A4-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-A4-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-C1-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-C1-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-C1-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-C1-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-C1-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-C1-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-C1-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-C1-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-C1-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-C1-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-C1-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "EXC-TJ-C1-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "GAL-N01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "GAL-N02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "GAL-N03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "GAL-N04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "GAL-N05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "GAL-N06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "PERF-TJ-B1-RL2130",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "PERF-TJ-B1-RL2150",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "PERF-TJ-B1-RL2170",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "PERF-TJ-B1-RL2190",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "REF-N01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "REF-N02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "REF-N03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "REF-N04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "REF-N05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "REF-N06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-A-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-A-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-A-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-A-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-A-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-A-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-A-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-A-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-A-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-A-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-A-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-A-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-C-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-C-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-C-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-C-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-C-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-C-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-C-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-C-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-C-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-C-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-C-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RIN-C-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A1-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A1-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A1-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A1-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A1-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A1-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A1-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A1-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A1-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A1-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A1-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A1-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A2-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A2-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A2-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A2-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A2-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A2-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A2-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A2-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A2-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A2-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A2-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A2-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A3-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A3-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A3-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A3-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A3-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A3-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A3-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A3-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A3-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A3-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A3-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A3-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A4-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A4-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A4-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A4-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A4-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A4-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A4-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A4-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A4-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A4-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A4-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-A4-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-B1",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-C1-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-C1-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-C1-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-C1-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-C1-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-C1-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-C1-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-C1-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-C1-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-C1-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-C1-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RLL-TJ-C1-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RMP-V2-01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RMP-V2-02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RMP-V2-03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RMP-V2-04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "RMP-V2-05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "SUM-N01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "SUM-N02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "SUM-N03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "SUM-N04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "SUM-N05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "SUM-N06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A1",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A1-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A1-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A1-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A1-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A1-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A1-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A1-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A1-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A1-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A1-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A1-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A1-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A2",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A2-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A2-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A2-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A2-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A2-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A2-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A2-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A2-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A2-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A2-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A2-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A2-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A3",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A3-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A3-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A3-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A3-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A3-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A3-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A3-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A3-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A3-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A3-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A3-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A3-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A4",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A4-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A4-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A4-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A4-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A4-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A4-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A4-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A4-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A4-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A4-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A4-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-A4-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-B1",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-C1",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-C1-C01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-C1-C02",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-C1-C03",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-C1-C04",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-C1-C05",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-C1-C06",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-C1-C07",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-C1-C08",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-C1-C09",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-C1-C10",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-C1-C11",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TJ-C1-C12",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "TRIN-V2",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "V2-BAN_CUT_01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    },
+    {
+      "name": "V2-BAN_FILL_01",
+      "exact_ordered_oriented_triangle_coordinates": true,
+      "axes_cells_attributes_and_contract_exact": true
+    }
+  ],
+  "method": "Exact ordered oriented WCS triangle coordinates, axes, convex cells, attributes and all audit relationships; only native vertex reindexing allowed",
+  "differences": []
+}

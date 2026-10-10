@@ -1,0 +1,82 @@
+{
+  "verified": true,
+  "native_dxf_sha256": "16b7c939fed2758a1d32f9569bcde456dffb6d0978ddbe9cdeb54079dcbbd7d5",
+  "actual_polygonal_ore_containment": [
+    {
+      "ore": "MINERAL_TAJO_C01",
+      "excavation": "EXC_C01",
+      "vertices": 580,
+      "max_signed_outside_distance_m": 9.308109838457312e-13,
+      "inside_actual_polygonal_mesh": true
+    },
+    {
+      "ore": "MINERAL_TAJO_C02",
+      "excavation": "EXC_C02",
+      "vertices": 580,
+      "max_signed_outside_distance_m": 9.237055564881302e-13,
+      "inside_actual_polygonal_mesh": true
+    },
+    {
+      "ore": "MINERAL_TAJO_C03",
+      "excavation": "EXC_C03",
+      "vertices": 580,
+      "max_signed_outside_distance_m": 7.709388682997087e-13,
+      "inside_actual_polygonal_mesh": true
+    },
+    {
+      "ore": "MINERAL_TAJO_C04",
+      "excavation": "EXC_C04",
+      "vertices": 580,
+      "max_signed_outside_distance_m": 9.130474154517287e-13,
+      "inside_actual_polygonal_mesh": true
+    },
+    {
+      "ore": "MINERAL_TAJO_C05",
+      "excavation": "EXC_C05",
+      "vertices": 580,
+      "max_signed_outside_distance_m": 8.064660050877137e-13,
+      "inside_actual_polygonal_mesh": true
+    },
+    {
+      "ore": "MINERAL_TAJO_C06",
+      "excavation": "EXC_C06",
+      "vertices": 580,
+      "max_signed_outside_distance_m": 8.277822871605167e-13,
+      "inside_actual_polygonal_mesh": true
+    },
+    {
+      "ore": "MINERAL_TAJO_C07",
+      "excavation": "EXC_C07",
+      "vertices": 580,
+      "max_signed_outside_distance_m": 1.3464784842653899e-12,
+      "inside_actual_polygonal_mesh": true
+    },
+    {
+      "ore": "MINERAL_TAJO_C08",
+      "excavation": "EXC_C08",
+      "vertices": 580,
+      "max_signed_outside_distance_m": 6.963318810448982e-13,
+      "inside_actual_polygonal_mesh": true
+    },
+    {
+      "ore": "MINERAL_TAJO_C09",
+      "excavation": "EXC_C09",
+      "vertices": 580,
+      "max_signed_outside_distance_m": 5.755396159656812e-13,
+      "inside_actual_polygonal_mesh": true
+    },
+    {
+      "ore": "MINERAL_TAJO_C10",
+      "excavation": "EXC_C10",
+      "vertices": 580,
+      "max_signed_outside_distance_m": 5.861977570020827e-13,
+      "inside_actual_polygonal_mesh": true
+    }
+  ],
+  "terrain_vertices_checked_no_exposure": true,
+  "collision_report_sha256": "debff9ed46d196908d0be862d2066b98b121232a66aae18afefcf0546d68a97c",
+  "collision_convex_pairs": 5724,
+  "unexpected_clashes": 0,
+  "reference_profile_audit_sha256": "3c0deaa68ce2273ffa644619a4a3a3c879aff73046c0cbc38912106e6ba11f8a",
+  "limits": "Static geometric checks; no dynamic fleet manoeuvre, geotechnical or operational approval"
+}

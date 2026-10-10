@@ -1,0 +1,66 @@
+{
+  "verified": true,
+  "duf_written": false,
+  "ui_created": false,
+  "changed_descriptor_count_per_contract": 1,
+  "changes": [
+    {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\Geometria_revision_encurso.json",
+      "before_path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\Geometria_revision_encurso_antes_descriptor.json",
+      "before_sha256": "d883c7c8bd55aec61640a4975dcd6737e0447f08a0862750ebd465515ac921f1",
+      "after_sha256": "f2540111e936a6795f7199f6c96dc86307b00c69fed3d035f66d5d7d66ca8cac",
+      "semantic_sha256_after_reverting_only_role": "2ba7566df3f9ccdb84635b8b3e35d584edbb935d44719f6b2ccc7176e964eb7a",
+      "semantic_sha256_before": "2ba7566df3f9ccdb84635b8b3e35d584edbb935d44719f6b2ccc7176e964eb7a",
+      "changed_mesh": "RLL-TJ-B1",
+      "changed_field": "role",
+      "old_value": "ORE_STOPE",
+      "new_value": "LONGHOLE_BACKFILL_AFTER_EXTRACTION",
+      "all_other_fields_exact": true
+    },
+    {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\salida\\Geometria_auditoria.json",
+      "before_path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\salida\\Geometria_auditoria_antes_descriptor.json",
+      "before_sha256": "eb0ea2aa425c3277b12de11fe7bf828ccc2c73b605a7d7f9b9d7489876eda03e",
+      "after_sha256": "a88b01bfb77f383662f28204b5329aa94de456d0604aa258c680dc57e4fbc565",
+      "semantic_sha256_after_reverting_only_role": "992003a2f993aa34ecbbc3bfb22fcf8e1c32d5f1e66ecbaa26056b75ba7e4e3b",
+      "semantic_sha256_before": "992003a2f993aa34ecbbc3bfb22fcf8e1c32d5f1e66ecbaa26056b75ba7e4e3b",
+      "changed_mesh": "RLL-TJ-B1",
+      "changed_field": "role",
+      "old_value": "ORE_STOPE",
+      "new_value": "LONGHOLE_BACKFILL_AFTER_EXTRACTION",
+      "all_other_fields_exact": true
+    }
+  ],
+  "coordinates_faces_cells_axes_attributes_relations_pillars_sources_and_audit_classes_exact": true,
+  "generator": {
+    "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\generar_ampliacion.py",
+    "before_path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\generar_ampliacion_antes_descriptor.py",
+    "before_sha256": "0e5d39501a5ab58540f2d0b5537397830c1340a96e6c5007dd5011a6106f419d",
+    "after_sha256": "7cedc06b4e6c88b64d5b84e8c8d20236e9f82b27d10df82deabab03b66ed3834",
+    "change": "Synchronize self.audit fill role after the existing manifest-record role assignment"
+  },
+  "audit_implementation": {
+    "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\verificar_ampliacion.py",
+    "sha256": "0c38df43751364cf751865c05fc7ae19a253dc95c9f6974affc93ebe069d0a7b",
+    "role_field_read": false,
+    "collision_control": "audit_class",
+    "coverage_control": "audit_class and coverage",
+    "containment_control": "ore_containment_required explicit flag"
+  },
+  "approved_report_before": {
+    "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\Verificacion_revision_03_antes_descriptor.json",
+    "sha256": "06de5cd450d443b0ab26d8b05e9b890f5e6213427e70acbff8fbdd7d7000dc2d"
+  },
+  "manifest_before": {
+    "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\salida\\Manifest_ampliacion_antes_descriptor.json",
+    "sha256": "f56c637e2f1978078c5d55a3ed0d3118b7ad6b5311d652a7402f927c9b71ee94"
+  },
+  "all_approved_check_results_preserved": true,
+  "containment": {
+    "count": 67,
+    "mineral_envelopes": 66,
+    "additional_backfill_check": "RLL-TJ-B1",
+    "additional_check_retained": true,
+    "note": "The additional conservative fill containment check is selected by its explicit flag; role did not add or remove it"
+  }
+}

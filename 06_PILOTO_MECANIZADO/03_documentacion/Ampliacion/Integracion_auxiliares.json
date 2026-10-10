@@ -1,0 +1,144 @@
+{
+  "verified": true,
+  "timestamp_utc": "2026-10-09T23:39:50.759976+00:00",
+  "scope": "Auxiliary design data, reports and views only; no DUF write",
+  "canonical_path": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\06_PILOTO_MECANIZADO\\proyecto-deswik-mecanizado.duf",
+  "canonical_sha256_before": "2f25c0a47ba4c4b931fbf9f5ab7eb556b8b662e7c35c3647353865a323b9b6b7",
+  "canonical_sha256_after": "2f25c0a47ba4c4b931fbf9f5ab7eb556b8b662e7c35c3647353865a323b9b6b7",
+  "canonical_replaced": true,
+  "duf_written_by_auxiliary_copy": false,
+  "live_cad_loading_validated": false,
+  "archive_crc_checked": true,
+  "files": [
+    {
+      "path": "01_datos/Ampliacion/Mediciones_datos.json",
+      "sha256": "91b25eef0a7f9535043b8f93dff9fe604fb373e7be5a4751b7d1557367879751",
+      "bytes": 446247
+    },
+    {
+      "path": "01_datos/Ampliacion/Mediciones_labores.csv",
+      "sha256": "ad822147057f3ac6da8a042ff5039ed3ebbc1bfcdebdd83d666e0474ac395349",
+      "bytes": 139390
+    },
+    {
+      "path": "01_datos/Ampliacion/Mediciones_mecanizado.xlsx",
+      "sha256": "efc70d6ce7cb630181d57d9acf9b1fc18af19684d8fe0c36705ec988ae56f233",
+      "bytes": 49866
+    },
+    {
+      "path": "01_datos/Ampliacion/Mediciones_tajeos.csv",
+      "sha256": "f8990c7eaffa022fe331bb65badefd2a79a2351e1fe9992b6b507f22234c7be9",
+      "bytes": 1300
+    },
+    {
+      "path": "02_geometria/Ampliacion/Geometria_y_evidencia.zip",
+      "sha256": "b16994ea0a2f5ac80e86102d0c7b61ae342d918efe39b4715bc0087918a1d136",
+      "bytes": 66062713
+    },
+    {
+      "path": "02_geometria/Ampliacion/Isometrica_ampliacion.png",
+      "sha256": "4adad4fa3d5f5e95561a85c2ea112bc870022538439803fbf5e66b988f16be78",
+      "bytes": 686867
+    },
+    {
+      "path": "02_geometria/Ampliacion/Isometrica_ampliacion.svg",
+      "sha256": "db79eb9f2a4cbf4a494e3e660420fc4c540fe9fe9d4cfe506706133f9d5a733a",
+      "bytes": 792354
+    },
+    {
+      "path": "02_geometria/Ampliacion/Seccion_longitudinal.png",
+      "sha256": "dfc30c25edb8495491c9420949a4c018eec9ffec7c42066c2c7ebf5840533b50",
+      "bytes": 647522
+    },
+    {
+      "path": "02_geometria/Ampliacion/Seccion_longitudinal.svg",
+      "sha256": "c68c689b9026f30749040e531e54adb0624c16e026841af1f88ff8f5de6c2b61",
+      "bytes": 574380
+    },
+    {
+      "path": "02_geometria/Ampliacion/Vistas_geometria.json",
+      "sha256": "95f9b4eed2acab967b3cfe32899895886a9282d30d754751f90b3ae405c2c1f9",
+      "bytes": 1533
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Atributos_ampliacion_preservados.json",
+      "sha256": "c2c71527f18e8414d3fcacc4103f3f35b24c7be018235788cbd3dd2c1530b7ca",
+      "bytes": 939581
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Compatibilidad_base_guardada.json",
+      "sha256": "592177986a0d5690be85848c02b0b923aac87be5548f797a6432542f19824695",
+      "bytes": 7320
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Correccion_descriptor_RLL_TJ_B1.json",
+      "sha256": "56a1a149e11fe1273000e6e4a0e5c1a0593b20a9f0bbb611f0a49bde7cb53ea1",
+      "bytes": 3921
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Criterios_y_fuentes.md",
+      "sha256": "0b1427b19142fe3f3013b0744dae018c8949e0cbbf1e19d92b6ad822dd5cc2c2",
+      "bytes": 8858
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Diagnostico_preservacion_color.json",
+      "sha256": "7989d6b1e998d728a998c4381392f10a476f2ff7b438b0c47283a2b893eb0e4f",
+      "bytes": 3062
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Geometria_interferencias_verificacion.json",
+      "sha256": "6c8dd51ec5e7ac14a254aee6d4fb5eff9d816be75c8539d31fdb85c597f2db2b",
+      "bytes": 1692527
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Integracion_nativa_ampliacion.json",
+      "sha256": "5e5f878e658e6ce747c74644f1bc546307f8a4a0a941b11c9710ca1f309f26c5",
+      "bytes": 435541
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Integracion_principal.json",
+      "sha256": "04b105cb8e91bda8cba0eb366ea7c83e145ca79bc677ea5c34acb56ee778c44b",
+      "bytes": 1556
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Manifest_ampliacion.json",
+      "sha256": "20ab929fc2055bef932025ce0d1df162a42066178c41c67ab7003fa59dbea26d",
+      "bytes": 1692832
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Mediciones_XLSX_verificacion.json",
+      "sha256": "f2cadcc3c96a4e0809ed36f3e198aa5c5cfeb4b859139faaf955d9db21658e9b",
+      "bytes": 2613
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Paleta_DXF_SDK_2026.json",
+      "sha256": "a3213633b9d6cb00c6a825a3a90848c09cc57f7914f9389f468379c1178067ef",
+      "bytes": 14189
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Paquete_ampliacion_SHA256.json",
+      "sha256": "ee0a57f1ae9fb7378fb3c961a6a0f62e0b57e793a0be6a8bd6771a2293bcbbe9",
+      "bytes": 5640
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Presentacion_ampliacion_preservada.json",
+      "sha256": "fdb8147ab8b97f061791e9410628292f5528c11bce6d513fada0c60877532be4",
+      "bytes": 11109
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Resumen_ampliacion.md",
+      "sha256": "005d5bda10dec001e9ad08174b2d20be61408f3893addf58f97aa2177decb55f",
+      "bytes": 9172
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Revision_DUF_ampliacion_independiente.json",
+      "sha256": "8e8165cd9bc99d729b896fcab4a38aaeb61daf5d3a57a20ee76d676543c05bc8",
+      "bytes": 114023
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Vinculo_auditoria_exportacion.json",
+      "sha256": "6cfb74b55bff98183bc36e6f27ea0820cbb38760bba20fc90986264856b6a0d5",
+      "bytes": 66487
+    }
+  ]
+}

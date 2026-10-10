@@ -1,0 +1,2049 @@
+{
+  "document_initial": {
+    "id": "7fbcb0a3-6c37-4eb2-907b-fde0b068eba6",
+    "success": true,
+    "data": {
+      "filename": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\06_PILOTO_MECANIZADO\\proyecto-deswik-mecanizado.duf",
+      "fileDirectory": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\06_PILOTO_MECANIZADO",
+      "isDirty": false,
+      "isReadOnly": false,
+      "activeLayerName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C06",
+      "activeLayoutName": "MODEL",
+      "layerCount": 165
+    },
+    "error": null,
+    "errorCode": null,
+    "timestamp": "2026-10-09T23:40:44.6626225Z"
+  },
+  "document_final": {
+    "id": "7ce070e7-cc2d-45cf-9d09-b6ecae7d7cbd",
+    "success": true,
+    "data": {
+      "filename": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\06_PILOTO_MECANIZADO\\proyecto-deswik-mecanizado.duf",
+      "fileDirectory": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\06_PILOTO_MECANIZADO",
+      "isDirty": false,
+      "isReadOnly": false,
+      "activeLayerName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C06",
+      "activeLayoutName": "MODEL",
+      "layerCount": 165
+    },
+    "error": null,
+    "errorCode": null,
+    "timestamp": "2026-10-09T23:47:51.2988748Z"
+  },
+  "layers": {
+    "id": "8ed16dd2-19d2-48c3-b9d4-273b1fd81c24",
+    "success": true,
+    "data": [
+      {
+        "name": "03_PILOTO_MECANIZADO",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPA",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 5,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TAJEOS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CORTE_RELLENO",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RELLENO_CYR",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 60,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TALADROS_LARGOS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RELLENO_TL",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\BOCAMINA",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TRINCHERA",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\10_MOV_TIERRA",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 2,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CHIMENEAS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\COLLARES_SUPERFICIE",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 4,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_A_C01",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 6,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_A_C02",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 6,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_A_C03",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 6,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_A_C04",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 6,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_A_C05",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 6,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_A_C06",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 6,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_A_C07",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 6,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_A_C08",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 6,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_A_C09",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 6,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_A_C10",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 6,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_A_C11",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 6,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_A_C12",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 6,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_C_C01",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 3,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_C_C02",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 3,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_C_C03",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 3,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_C_C04",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 3,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_C_C05",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 3,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_C_C06",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 3,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_C_C07",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 3,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_C_C08",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 3,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_C_C09",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 3,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_C_C10",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 3,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_C_C11",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 3,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_C_C12",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 3,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\20_EJES",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 274,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\LIMITE_DISENO",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\21_ROTULOS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 40,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CHIMENEAS\\CH_VENT",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CHIMENEAS\\CH_ESC",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CHIMENEAS\\CH_ORE",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CHIMENEAS\\CH_RLL",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TALADROS_LARGOS\\RL2130",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TALADROS_LARGOS\\DRAWPOINTS_RL2130",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 3,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TALADROS_LARGOS\\RL2150",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TALADROS_LARGOS\\DRAWPOINTS_RL2150",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 3,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TALADROS_LARGOS\\RL2170",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TALADROS_LARGOS\\DRAWPOINTS_RL2170",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 3,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TALADROS_LARGOS\\RL2190",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TALADROS_LARGOS\\DRAWPOINTS_RL2190",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 3,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TALADROS_LARGOS\\ANILLOS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 108,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CORTE_RELLENO\\CORTES_MINERAL",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 60,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CORTE_RELLENO\\C01",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 5,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CORTE_RELLENO\\C02",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 5,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CORTE_RELLENO\\C03",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 5,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CORTE_RELLENO\\C04",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 5,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CORTE_RELLENO\\C05",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 5,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CORTE_RELLENO\\C06",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 5,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CORTE_RELLENO\\C07",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 5,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CORTE_RELLENO\\C08",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 5,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CORTE_RELLENO\\C09",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 5,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CORTE_RELLENO\\C10",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 5,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CORTE_RELLENO\\C11",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 5,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CORTE_RELLENO\\C12",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 5,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TAJEOS\\TJ_A1",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TAJEOS\\TJ_A2",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TAJEOS\\TJ_A3",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TAJEOS\\TJ_A4",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TAJEOS\\TJ_B1",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TAJEOS\\TJ_C1",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TAJEOS\\TJ_C1\\MINERAL",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TAJEOS\\TJ_B1\\MINERAL",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TAJEOS\\TJ_A4\\MINERAL",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TAJEOS\\TJ_A3\\MINERAL",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TAJEOS\\TJ_A2\\MINERAL",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TAJEOS\\TJ_A1\\MINERAL",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N01",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N02",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N03",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N04",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N05",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N06",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N06\\ACCESOS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N06\\GALERIAS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N06\\ESTACIONES",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 4,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N06\\VENT_SERVICIO",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 4,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N05\\ACCESOS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N05\\GALERIAS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N05\\ESTACIONES",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 4,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N05\\CRUCEROS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 2,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N05\\VENT_SERVICIO",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 4,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N04\\ACCESOS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N04\\GALERIAS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N04\\ESTACIONES",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 4,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N04\\CRUCEROS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 2,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N04\\VENT_SERVICIO",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 4,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N03\\ACCESOS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N03\\GALERIAS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N03\\ESTACIONES",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 4,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N03\\CRUCEROS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 6,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N03\\VENT_SERVICIO",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 4,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N02\\ACCESOS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N02\\GALERIAS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N02\\ESTACIONES",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 4,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N02\\CRUCEROS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 5,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N02\\VENT_SERVICIO",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 4,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N01\\ACCESOS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N01\\GALERIAS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N01\\ESTACIONES",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 4,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N01\\CRUCEROS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 4,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\NIVELES\\N01\\VENT_SERVICIO",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 4,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\01_MINERAL_FASES",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C01",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C02",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C03",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C04",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C05",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C06",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C07",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C08",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C09",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C10",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\03_RAMPA_Y_CRUCES",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 19,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\04_ACCESOS_NIVELES",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 13,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\07_ESTACION_CARGA",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\05_GALERIAS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 4,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\06_ESTOCADAS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 4,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\11_CHIMENEAS_INTERNAS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 2,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\13_CONEXIONES_CH",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 8,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\08_ACCESO_SUPERFICIE",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\10_MOV_TIERRA",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 2,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\20_EJES",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\12_DESCANSOS_GUIA",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\09_BOCAMINA",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\21_ROTULOS",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "0",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1182,
+        "description": ""
+      },
+      {
+        "name": "_DW_HIDDEN_GRAPHICS",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 1,
+        "description": ""
+      },
+      {
+        "name": "01_TOPOGRAFIA",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "02_GEOLOGIA_VETA_001",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_REFERENCIAS",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "_DW_SETTINGS",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_REFERENCIAS\\SOLIDOS",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "03_REFERENCIAS\\LAYPOL",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "01_TOPOGRAFIA\\01_SUPERFICIE",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "01_TOPOGRAFIA\\POINTS",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "01_TOPOGRAFIA\\BOUNDARYY",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "01_TOPOGRAFIA\\POINTS\\CONTOUR",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "01_TOPOGRAFIA\\POINTS\\CONTOUR\\ANNOTATION",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "01_TOPOGRAFIA\\SLICES7",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "04_SUPERFICIES_AUX",
+        "visible": true,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "01_TOPOGRAFIA\\POINTS2",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "_DW_XREF_LAYER",
+        "visible": true,
+        "locked": true,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "_DW_HIDDEN_ANNOTATIONS",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "90_GUIAS_VETA",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "90_GUIAS_VETA\\MODELO_GUIA_1000M",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "02_GEOLOGIA_VETA_001\\01_SOLIDO_POT_1_3M",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "02_GEOLOGIA_VETA_001\\02_SUPERFICIE_CENTRAL",
+        "visible": false,
+        "locked": false,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "_DW_BOUNDARY_SLICEBOUNDARYBOXES_1",
+        "visible": false,
+        "locked": true,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "_DW_BOUNDARY_SLICEBOUNDARYBOXES_2",
+        "visible": false,
+        "locked": true,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "_DW_BOUNDARY_SLICEBOUNDARYBOXES_3",
+        "visible": false,
+        "locked": true,
+        "isLoaded": true,
+        "entityCount": 0,
+        "description": ""
+      },
+      {
+        "name": "_DW_BOUNDARY_SLICEBOUNDARYBOXES_4",
+        "visible": true,
+        "locked": true,
+        "isLoaded": true,
+        "entityCount": 4,
+        "description": ""
+      }
+    ],
+    "error": null,
+    "errorCode": null,
+    "timestamp": "2026-10-09T23:41:09.9580424Z"
+  },
+  "inspections": {
+    "ramp": {
+      "document": {
+        "filename": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\06_PILOTO_MECANIZADO\\proyecto-deswik-mecanizado.duf",
+        "fileDirectory": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\06_PILOTO_MECANIZADO",
+        "isDirty": false,
+        "isReadOnly": false,
+        "activeLayerName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C06",
+        "activeLayoutName": "MODEL",
+        "layerCount": 165
+      },
+      "layer": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPA",
+      "requestedLimit": 2,
+      "elements": [
+        {
+          "handle": 2985,
+          "guid": "b6f54688-f44b-49fd-8eaa-afc9698bceee",
+          "type": "Polyface",
+          "layer": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPA",
+          "label": "RMP-V2-01",
+          "visible": true
+        },
+        {
+          "handle": 2986,
+          "guid": "4a27b1e0-9cbb-4d55-9ea3-085df9a15952",
+          "type": "Polyface",
+          "layer": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPA",
+          "label": "RMP-V2-02",
+          "visible": true
+        }
+      ],
+      "attributes": {
+        "layer": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPA",
+        "attributeNames": [
+          "ADDITIVE_SCOPE",
+          "ARCH_RISE_M",
+          "DATA_STATUS",
+          "DESIGN_STATE",
+          "ENTITY_ID",
+          "EQUIP_REF",
+          "FILL_STATUS",
+          "FUNCTION",
+          "GRADE_NOMINAL_PCT",
+          "GRADE_PCT",
+          "HEIGHT_M",
+          "HEIGHT_MIN_M",
+          "HORIZ_LEN_M",
+          "LENGTH_M",
+          "MAIN_CROSSING_SPACING_M",
+          "MEASURE_CATEGORY",
+          "NATIVE_ID",
+          "PHASE",
+          "PILOT_ID",
+          "PROFILE",
+          "RADIUS_M",
+          "REFUGE_CROSSING_MAX_SPACING_M",
+          "REVISION",
+          "ROCK_COMPETENCE",
+          "ROLE",
+          "SECTION_M2",
+          "SYNTHETIC",
+          "UNITS",
+          "VOLUME_M3",
+          "WALL_M",
+          "WIDTH_M",
+          "WIDTH_MIN_M"
+        ],
+        "count": 2,
+        "entities": [
+          {
+            "handle": 2985,
+            "attrs": {
+              "ADDITIVE_SCOPE": "GROSS_LABOUR",
+              "ARCH_RISE_M": "1.5",
+              "DATA_STATUS": "CONCEPTUAL_NO_ENSAYADO",
+              "DESIGN_STATE": "CONCEPTUAL_NO_DYNAMIC_VEHICLE_CHECK",
+              "ENTITY_ID": "RMP-V2-01",
+              "EQUIP_REF": "LH307+TH315+DD210_CFX_XS",
+              "FILL_STATUS": "NO_APLICA",
+              "FUNCTION": "MAIN_RAMP",
+              "GRADE_NOMINAL_PCT": "10.61032953945969",
+              "GRADE_PCT": "11.082583011137405",
+              "HEIGHT_M": "4.5",
+              "HEIGHT_MIN_M": "4.5",
+              "HORIZ_LEN_M": "188.4619170534305",
+              "LENGTH_M": "189.56593744277887",
+              "MAIN_CROSSING_SPACING_M": "188.495559",
+              "MEASURE_CATEGORY": "EXCAVATION",
+              "NATIVE_ID": "b6f54688-f44b-49fd-8eaa-afc9698bceee",
+              "PHASE": 0,
+              "PILOT_ID": "AMPLIACION_MECANIZADO_320x100",
+              "PROFILE": "ELLIPTICAL_ARCH_VERTICAL",
+              "RADIUS_M": "30",
+              "REFUGE_CROSSING_MAX_SPACING_M": "25",
+              "REVISION": "AMPLIACION_V2",
+              "ROCK_COMPETENCE": "UNKNOWN_NO_GEOTECHNICAL_DATA",
+              "ROLE": "MAIN_RAMP",
+              "SECTION_M2": "27.157632093125123",
+              "SYNTHETIC": 1,
+              "UNITS": "m",
+              "VOLUME_M3": 4212.267231439938,
+              "WALL_M": "3.0",
+              "WIDTH_M": "6.5",
+              "WIDTH_MIN_M": "4.5"
+            }
+          },
+          {
+            "handle": 2986,
+            "attrs": {
+              "ADDITIVE_SCOPE": "GROSS_LABOUR",
+              "ARCH_RISE_M": "1.5",
+              "DATA_STATUS": "CONCEPTUAL_NO_ENSAYADO",
+              "DESIGN_STATE": "CONCEPTUAL_NO_DYNAMIC_VEHICLE_CHECK",
+              "ENTITY_ID": "RMP-V2-02",
+              "EQUIP_REF": "LH307+TH315+DD210_CFX_XS",
+              "FILL_STATUS": "NO_APLICA",
+              "FUNCTION": "MAIN_RAMP",
+              "GRADE_NOMINAL_PCT": "10.61032953945969",
+              "GRADE_PCT": "11.082583011137501",
+              "HEIGHT_M": "4.5",
+              "HEIGHT_MIN_M": "4.5",
+              "HORIZ_LEN_M": "188.46191705343057",
+              "LENGTH_M": "189.56593744277893",
+              "MAIN_CROSSING_SPACING_M": "188.495559",
+              "MEASURE_CATEGORY": "EXCAVATION",
+              "NATIVE_ID": "4a27b1e0-9cbb-4d55-9ea3-085df9a15952",
+              "PHASE": 0,
+              "PILOT_ID": "AMPLIACION_MECANIZADO_320x100",
+              "PROFILE": "ELLIPTICAL_ARCH_VERTICAL",
+              "RADIUS_M": "30",
+              "REFUGE_CROSSING_MAX_SPACING_M": "25",
+              "REVISION": "AMPLIACION_V2",
+              "ROCK_COMPETENCE": "UNKNOWN_NO_GEOTECHNICAL_DATA",
+              "ROLE": "MAIN_RAMP",
+              "SECTION_M2": "27.157632093125123",
+              "SYNTHETIC": 1,
+              "UNITS": "m",
+              "VOLUME_M3": 4197.461535469273,
+              "WALL_M": "3.0",
+              "WIDTH_M": "6.5",
+              "WIDTH_MIN_M": "4.5"
+            }
+          }
+        ]
+      },
+      "atomicSnapshot": false,
+      "observedAtUtc": "2026-10-09T23:40:44.972394+00:00"
+    },
+    "stope": {
+      "document": {
+        "filename": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\06_PILOTO_MECANIZADO\\proyecto-deswik-mecanizado.duf",
+        "fileDirectory": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\06_PILOTO_MECANIZADO",
+        "isDirty": false,
+        "isReadOnly": false,
+        "activeLayerName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C06",
+        "activeLayoutName": "MODEL",
+        "layerCount": 165
+      },
+      "layer": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TAJEOS\\TJ_A1\\MINERAL",
+      "requestedLimit": 1,
+      "elements": [
+        {
+          "handle": 3020,
+          "guid": "a64f3887-688b-4980-82bf-e88538f0b07a",
+          "type": "Polyface",
+          "layer": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TAJEOS\\TJ_A1\\MINERAL",
+          "label": "TJ-A1",
+          "visible": true
+        }
+      ],
+      "attributes": {
+        "layer": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\TAJEOS\\TJ_A1\\MINERAL",
+        "attributeNames": [
+          "ADDITIVE_SCOPE",
+          "BOTTOM_Z_M",
+          "CONTACT_INSET_H_M",
+          "DATA_STATUS",
+          "DENSITY_T_M3",
+          "DESIGN_STATE",
+          "ENTITY_ID",
+          "FILL_STATUS",
+          "GEOMETRY_SOURCE",
+          "GRADE_PCT",
+          "HEIGHT_M",
+          "LENGTH_M",
+          "MEASURE_CATEGORY",
+          "METHOD",
+          "NATIVE_ID",
+          "PHASE",
+          "PILOT_ID",
+          "RADIUS_M",
+          "REVISION",
+          "RHO_STATUS",
+          "ROCK_COMPETENCE",
+          "ROLE",
+          "STOPE_ID",
+          "SYNTHETIC",
+          "TOP_Z_M",
+          "TRUE_THICKNESS_MAX_M",
+          "TRUE_THICKNESS_MIN_M",
+          "UNITS",
+          "VOLUME_M3",
+          "WIDTH_M"
+        ],
+        "count": 1,
+        "entities": [
+          {
+            "handle": 3020,
+            "attrs": {
+              "ADDITIVE_SCOPE": "STOPE_TOTAL",
+              "BOTTOM_Z_M": "2170.0",
+              "CONTACT_INSET_H_M": "0.0001",
+              "DATA_STATUS": "CONCEPTUAL_NO_ENSAYADO",
+              "DENSITY_T_M3": "2.7",
+              "DESIGN_STATE": "CONCEPTUAL_NOT_FOR_EXECUTION",
+              "ENTITY_ID": "TJ-A1",
+              "FILL_STATUS": "NO_APLICA",
+              "GEOMETRY_SOURCE": "ORIGINAL_CONTACT_INTERPOLATION_WITH_CONSERVATIVE_0.1MM_INSET",
+              "GRADE_PCT": "NO_APLICA",
+              "HEIGHT_M": "40.0",
+              "LENGTH_M": "30",
+              "MEASURE_CATEGORY": "ORE_STOPE_TOTAL",
+              "METHOD": "CYR_OVERHAND",
+              "NATIVE_ID": "a64f3887-688b-4980-82bf-e88538f0b07a",
+              "PHASE": 0,
+              "PILOT_ID": "AMPLIACION_MECANIZADO_320x100",
+              "RADIUS_M": "NO_APLICA",
+              "REVISION": "AMPLIACION_V2",
+              "RHO_STATUS": "ASSUMED_EDITABLE_NO_SAMPLING",
+              "ROCK_COMPETENCE": "UNKNOWN_NO_GEOTECHNICAL_DATA",
+              "ROLE": "ORE_STOPE",
+              "STOPE_ID": "TJ-A1",
+              "SYNTHETIC": 1,
+              "TOP_Z_M": "2210.0",
+              "TRUE_THICKNESS_MAX_M": "3.0",
+              "TRUE_THICKNESS_MIN_M": "1.0",
+              "UNITS": "m",
+              "VOLUME_M3": 1597.9517693570176,
+              "WIDTH_M": "1.3944435610115207"
+            }
+          }
+        ]
+      },
+      "atomicSnapshot": false,
+      "observedAtUtc": "2026-10-09T23:40:44.837362+00:00"
+    },
+    "vent_raise": {
+      "document": {
+        "filename": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\06_PILOTO_MECANIZADO\\proyecto-deswik-mecanizado.duf",
+        "fileDirectory": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\06_PILOTO_MECANIZADO",
+        "isDirty": false,
+        "isReadOnly": false,
+        "activeLayerName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C06",
+        "activeLayoutName": "MODEL",
+        "layerCount": 165
+      },
+      "layer": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CHIMENEAS\\CH_VENT",
+      "requestedLimit": 1,
+      "elements": [
+        {
+          "handle": 3246,
+          "guid": "09d24261-e107-435f-8da2-49902059ce60",
+          "type": "Polyface",
+          "layer": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CHIMENEAS\\CH_VENT",
+          "label": "CH-VENT",
+          "visible": true
+        }
+      ],
+      "attributes": {
+        "layer": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\CHIMENEAS\\CH_VENT",
+        "attributeNames": [
+          "ADDITIVE_SCOPE",
+          "BOTTOM_Z_M",
+          "DATA_STATUS",
+          "DESIGN_STATE",
+          "ENTITY_ID",
+          "FILL_STATUS",
+          "GRADE_PCT",
+          "HEIGHT_M",
+          "LADDER_SYSTEM",
+          "LENGTH_M",
+          "MEASURE_CATEGORY",
+          "METHOD",
+          "NATIVE_ID",
+          "PHASE",
+          "PILOT_ID",
+          "RADIUS_M",
+          "REVISION",
+          "ROCK_COMPETENCE",
+          "ROLE",
+          "SECTION_M2",
+          "STATUS",
+          "SURFACE_EXIT",
+          "SYNTHETIC",
+          "TOP_Z_M",
+          "UNITS",
+          "VOLUME_M3",
+          "WIDTH_M"
+        ],
+        "count": 1,
+        "entities": [
+          {
+            "handle": 3246,
+            "attrs": {
+              "ADDITIVE_SCOPE": "GROSS_LABOUR",
+              "BOTTOM_Z_M": "2110",
+              "DATA_STATUS": "CONCEPTUAL_NO_ENSAYADO",
+              "DESIGN_STATE": "CONCEPTUAL_NOT_FOR_EXECUTION",
+              "ENTITY_ID": "CH-VENT",
+              "FILL_STATUS": "NO_APLICA",
+              "GRADE_PCT": "NO_APLICA",
+              "HEIGHT_M": "3.0",
+              "LADDER_SYSTEM": "NO_APLICA",
+              "LENGTH_M": "147.25726814283644",
+              "MEASURE_CATEGORY": "EXCAVATION",
+              "METHOD": "SERVICE",
+              "NATIVE_ID": "09d24261-e107-435f-8da2-49902059ce60",
+              "PHASE": 0,
+              "PILOT_ID": "AMPLIACION_MECANIZADO_320x100",
+              "RADIUS_M": "NO_APLICA",
+              "REVISION": "AMPLIACION_V2",
+              "ROCK_COMPETENCE": "UNKNOWN_NO_GEOTECHNICAL_DATA",
+              "ROLE": "VENT_RETURN",
+              "SECTION_M2": "9.0",
+              "STATUS": "CONCEPTUAL_RAISE_ENGINEERING_PENDING",
+              "SURFACE_EXIT": "1",
+              "SYNTHETIC": 1,
+              "TOP_Z_M": "2257.2572681428364",
+              "UNITS": "m",
+              "VOLUME_M3": 1325.3154132856691,
+              "WIDTH_M": "3.0"
+            }
+          }
+        ]
+      },
+      "atomicSnapshot": false,
+      "observedAtUtc": "2026-10-09T23:43:38.293773+00:00"
+    },
+    "future_rampin": {
+      "document": {
+        "filename": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\06_PILOTO_MECANIZADO\\proyecto-deswik-mecanizado.duf",
+        "fileDirectory": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\06_PILOTO_MECANIZADO",
+        "isDirty": false,
+        "isReadOnly": false,
+        "activeLayerName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C06",
+        "activeLayoutName": "MODEL",
+        "layerCount": 165
+      },
+      "layer": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_A_C12",
+      "requestedLimit": 1,
+      "elements": [
+        {
+          "handle": 3350,
+          "guid": "5c3771d8-616c-4ce0-bbf7-804409febb49",
+          "type": "Polyface",
+          "layer": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_A_C12",
+          "label": "RIN-A-C12",
+          "visible": false
+        }
+      ],
+      "attributes": {
+        "layer": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RAMPIN_A_C12",
+        "attributeNames": [
+          "ADDITIVE_SCOPE",
+          "ARCH_RISE_M",
+          "CONFIGURATION",
+          "DATA_STATUS",
+          "DESIGN_STATE",
+          "ENTITY_ID",
+          "EQUIP_REF",
+          "FILL_STATUS",
+          "FUNCTION",
+          "GRADE_NOMINAL_PCT",
+          "GRADE_PCT",
+          "HEIGHT_M",
+          "HEIGHT_MIN_M",
+          "HORIZ_LEN_M",
+          "LENGTH_M",
+          "MEASURE_CATEGORY",
+          "METHOD",
+          "MINIMUM_ROOF_TIN_COVER_M",
+          "NATIVE_ID",
+          "PERMANENT_DRIFT_INTERFACE",
+          "PHASE",
+          "PILOT_ID",
+          "PROFILE",
+          "RADIUS_M",
+          "REVISION",
+          "ROCK_COMPETENCE",
+          "ROLE",
+          "SCENARIO",
+          "SECTION_M2",
+          "SOURCE_FLOOR_Z_M",
+          "STAGE",
+          "STAGE_INTERFACE_NOTES",
+          "STAGE_INTERFACE_STATE",
+          "STOPE_ID",
+          "SYNTHETIC",
+          "TARGET_FLOOR_Z_M",
+          "TRUCK_ALLOWED",
+          "UNITS",
+          "VOLUME_M3",
+          "WALL_M",
+          "WIDTH_M",
+          "WIDTH_MIN_M"
+        ],
+        "count": 1,
+        "entities": [
+          {
+            "handle": 3350,
+            "attrs": {
+              "ADDITIVE_SCOPE": "PHASE_ALTERNATIVE",
+              "ARCH_RISE_M": "1.5",
+              "CONFIGURATION": "RECONFIGURABLE_AFTER_FILL_NOT_SIMULTANEOUS",
+              "DATA_STATUS": "CONCEPTUAL_NO_ENSAYADO",
+              "DESIGN_STATE": "CONCEPTUAL_NO_DYNAMIC_VEHICLE_CHECK",
+              "ENTITY_ID": "RIN-A-C12",
+              "EQUIP_REF": "LH307+TH315+DD210_CFX_XS",
+              "FILL_STATUS": "NO_APLICA",
+              "FUNCTION": "CYR_RAMP_IN_SCENARIO",
+              "GRADE_NOMINAL_PCT": "10.342496333045903",
+              "GRADE_PCT": "10.342496333046405",
+              "HEIGHT_M": "4.5",
+              "HEIGHT_MIN_M": "4.5",
+              "HORIZ_LEN_M": "161.14742640433812",
+              "LENGTH_M": "162.00700853518453",
+              "MEASURE_CATEGORY": "EXCAVATION",
+              "METHOD": "CYR_OVERHAND",
+              "MINIMUM_ROOF_TIN_COVER_M": "27.944621207224372",
+              "NATIVE_ID": "5c3771d8-616c-4ce0-bbf7-804409febb49",
+              "PERMANENT_DRIFT_INTERFACE": "TEMPORARY_REGRADING_AND_FILL_SEQUENCE_REQUIRES_REVIEW",
+              "PHASE": 12,
+              "PILOT_ID": "AMPLIACION_MECANIZADO_320x100",
+              "PROFILE": "ELLIPTICAL_ARCH_VERTICAL",
+              "RADIUS_M": "20",
+              "REVISION": "AMPLIACION_V2",
+              "ROCK_COMPETENCE": "UNKNOWN_NO_GEOTECHNICAL_DATA",
+              "ROLE": "CYR_RAMP_IN_SCENARIO",
+              "SCENARIO": "CYR_ZONE_A_C12_AFTER_PREVIOUS_FILL",
+              "SECTION_M2": "18.801437602932776",
+              "SOURCE_FLOOR_Z_M": "2190.0",
+              "STAGE": "12",
+              "STAGE_INTERFACE_NOTES": "CARG-N01 stage C12 return/loading transfer node; CH-ORE-N01 stage C12 ore-transfer node",
+              "STAGE_INTERFACE_STATE": "CONCEPTUAL_TRANSFER_NODE_RECONSTRUCTED_AFTER_FILL",
+              "STOPE_ID": "TJ-A_SHARED",
+              "SYNTHETIC": 1,
+              "TARGET_FLOOR_Z_M": "2206.6666666666665",
+              "TRUCK_ALLOWED": "0",
+              "UNITS": "m",
+              "VOLUME_M3": 3020.397284051275,
+              "WALL_M": "3.0",
+              "WIDTH_M": "4.5",
+              "WIDTH_MIN_M": "4.5"
+            }
+          }
+        ]
+      },
+      "atomicSnapshot": false,
+      "observedAtUtc": "2026-10-09T23:43:38.607326+00:00"
+    },
+    "hidden_fill": {
+      "document": {
+        "filename": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\06_PILOTO_MECANIZADO\\proyecto-deswik-mecanizado.duf",
+        "fileDirectory": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\06_PILOTO_MECANIZADO",
+        "isDirty": false,
+        "isReadOnly": false,
+        "activeLayerName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C06",
+        "activeLayoutName": "MODEL",
+        "layerCount": 165
+      },
+      "layer": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RELLENO_CYR",
+      "requestedLimit": 1,
+      "elements": [
+        {
+          "handle": 3023,
+          "guid": "07644d31-e393-4001-98f0-df049f8a25ba",
+          "type": "Polyface",
+          "layer": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RELLENO_CYR",
+          "label": "RLL-TJ-A1-C01",
+          "visible": false
+        }
+      ],
+      "attributes": {
+        "layer": "03_PILOTO_MECANIZADO\\AMPLIACION_V2\\RELLENO_CYR",
+        "attributeNames": [
+          "ADDITIVE_SCOPE",
+          "DATA_STATUS",
+          "DESIGN_STATE",
+          "ENTITY_ID",
+          "FILL_M3",
+          "FILL_STATUS",
+          "FILL_TYPE",
+          "GRADE_PCT",
+          "HEIGHT_M",
+          "LENGTH_M",
+          "MEASURE_CATEGORY",
+          "METHOD",
+          "NATIVE_ID",
+          "PHASE",
+          "PILOT_ID",
+          "RADIUS_M",
+          "REVISION",
+          "ROCK_COMPETENCE",
+          "ROLE",
+          "STAGE",
+          "STOPE_ID",
+          "SYNTHETIC",
+          "UNITS",
+          "VOLUME_M3",
+          "WIDTH_M"
+        ],
+        "count": 1,
+        "entities": [
+          {
+            "handle": 3023,
+            "attrs": {
+              "ADDITIVE_SCOPE": "FILL_STAGE",
+              "DATA_STATUS": "CONCEPTUAL_NO_ENSAYADO",
+              "DESIGN_STATE": "CONCEPTUAL_NOT_FOR_EXECUTION",
+              "ENTITY_ID": "RLL-TJ-A1-C01",
+              "FILL_M3": "297.5000000000776",
+              "FILL_STATUS": "NO_APLICA",
+              "FILL_TYPE": "CEMENTED_OR_DETRITAL_PENDING",
+              "GRADE_PCT": "NO_APLICA",
+              "HEIGHT_M": "2.8333333333333335",
+              "LENGTH_M": "30",
+              "MEASURE_CATEGORY": "FILL_CUT",
+              "METHOD": "CYR_OVERHAND",
+              "NATIVE_ID": "07644d31-e393-4001-98f0-df049f8a25ba",
+              "PHASE": 1,
+              "PILOT_ID": "AMPLIACION_MECANIZADO_320x100",
+              "RADIUS_M": "NO_APLICA",
+              "REVISION": "AMPLIACION_V2",
+              "ROCK_COMPETENCE": "UNKNOWN_NO_GEOTECHNICAL_DATA",
+              "ROLE": "BACKFILL_STAGE",
+              "STAGE": "1",
+              "STOPE_ID": "TJ-A1",
+              "SYNTHETIC": 1,
+              "UNITS": "m",
+              "VOLUME_M3": 297.4999999999832,
+              "WIDTH_M": "3.5"
+            }
+          }
+        ]
+      },
+      "atomicSnapshot": false,
+      "observedAtUtc": "2026-10-09T23:43:38.479802+00:00"
+    }
+  },
+  "meshes": [
+    {
+      "id": "df7d9535-798f-4a2f-9da4-9dfc3884814e",
+      "success": true,
+      "data": {
+        "handle": 2985,
+        "cog": {
+          "x": 5110.658768307355,
+          "y": 11152.255104887185,
+          "z": 2202.088728463305
+        },
+        "boundingBox": {
+          "min": {
+            "x": 5078.423879472988,
+            "y": 11119.970901671417,
+            "z": 2190
+          },
+          "max": {
+            "x": 5142.923837581078,
+            "y": 11184.470859779507,
+            "z": 2214.5
+          },
+          "mid": {
+            "x": 5110.673858527033,
+            "y": 11152.220880725461,
+            "z": 2202.25
+          },
+          "dx": 64.49995810809014,
+          "dy": 64.49995810809014,
+          "dz": 24.5
+        },
+        "volume": 4212.267231439943,
+        "vertexCount": 1843
+      },
+      "error": null,
+      "errorCode": null,
+      "timestamp": "2026-10-09T23:41:09.7399767Z"
+    },
+    {
+      "id": "321c1cc0-b1a8-4220-ad48-fe94de9ad76b",
+      "success": true,
+      "data": {
+        "handle": 3020,
+        "cog": {
+          "x": 5137.803367971987,
+          "y": 11032.266152703989,
+          "z": 2189.962857048875
+        },
+        "boundingBox": {
+          "min": {
+            "x": 5127.216138974857,
+            "y": 11015.94101364415,
+            "z": 2170
+          },
+          "max": {
+            "x": 5148.298175231218,
+            "y": 11048.224753111315,
+            "z": 2210
+          },
+          "mid": {
+            "x": 5137.757157103038,
+            "y": 11032.082883377732,
+            "z": 2190
+          },
+          "dx": 21.08203625636088,
+          "dy": 32.283739467166015,
+          "dz": 40
+        },
+        "volume": 1597.9517693570176,
+        "vertexCount": 1470
+      },
+      "error": null,
+      "errorCode": null,
+      "timestamp": "2026-10-09T23:41:09.8305825Z"
+    },
+    {
+      "id": "2d133c25-783a-4aec-9dd4-340c69d525fe",
+      "success": true,
+      "data": {
+        "handle": 3246,
+        "cog": {
+          "x": 5183.593573069367,
+          "y": 11180.19792901624,
+          "z": 2183.628634071418
+        },
+        "boundingBox": {
+          "min": {
+            "x": 5181.689950581642,
+            "y": 11178.294306528514,
+            "z": 2110
+          },
+          "max": {
+            "x": 5185.497195557093,
+            "y": 11182.101551503965,
+            "z": 2257.2572681428364
+          },
+          "mid": {
+            "x": 5183.593573069367,
+            "y": 11180.19792901624,
+            "z": 2183.628634071418
+          },
+          "dx": 3.8072449754508852,
+          "dy": 3.8072449754508852,
+          "dz": 147.25726814283644
+        },
+        "volume": 1325.315413285669,
+        "vertexCount": 8
+      },
+      "error": null,
+      "errorCode": null,
+      "timestamp": "2026-10-09T23:46:36.3773443Z"
+    }
+  ],
+  "window_observation": {
+    "method": "Read-only Windows screenshot already reviewed visually; no UI input, move or resize performed.",
+    "observed_rendering": "Expanded ramp, multiple level galleries, stopes and four surface raises visible in licensed Deswik CAD.",
+    "app": "C:\\Program Files\\Deswik\\Deswik.Suite 2026.1\\Deswik.CAD.exe",
+    "window_id": 462242,
+    "screenshot_regions": [
+      {
+        "id": "screenshot-0",
+        "originX": 428,
+        "originY": -10,
+        "width": 1194,
+        "height": 824
+      },
+      {
+        "id": "screenshot-1",
+        "originX": 438,
+        "originY": 0,
+        "width": 1186,
+        "height": 816
+      }
+    ],
+    "arrangement_preserved": true,
+    "native_layouts_or_saved_camera_views_created": false
+  }
+}

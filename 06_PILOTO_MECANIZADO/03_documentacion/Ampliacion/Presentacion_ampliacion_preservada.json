@@ -1,0 +1,248 @@
+{
+  "verified": true,
+  "mode": "write",
+  "timestampUtc": "2026-10-09T23:33:48.4587061+00:00",
+  "source": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\rebase\\ampliacion-atributos.duf",
+  "output": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\rebase\\ampliacion-final.duf",
+  "sourceSha256": "7C06325D8211DCEFC3E6F308B69BAEEFC93193F4D755B033C7092F1E14C4BFFD",
+  "outputSha256": "2F25C0A47BA4C4B931FBF9F5AB7EB556B8B662E7C35C3647353865A323B9B6B7",
+  "sourceUnchanged": true,
+  "sourceEntityCount": 2539,
+  "destinationEntityCount": 2540,
+  "newHistoricLayer": {
+    "Guid": "f5abc108-28ea-49b0-b235-c9b5033ab2ea",
+    "HandleId": 3815,
+    "Name": "03_PILOTO_MECANIZADO\\HISTORICO_50x30"
+  },
+  "relocatedLayerCount": 24,
+  "hiddenFigureCount": 162,
+  "relocatedLayerPlans": [
+    {
+      "Guid": "3d4b8081-523e-450b-af5e-d3c158fbbe8c",
+      "OldName": "03_PILOTO_MECANIZADO\\01_MINERAL_FASES",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\01_MINERAL_FASES",
+      "OldLabel": "03_PILOTO_MECANIZADO\\01_MINERAL_FASES",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\01_MINERAL_FASES",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "7c7e4c93-96a8-45bc-a10c-01c112d9c192",
+      "OldName": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C01",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C01",
+      "OldLabel": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C01",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C01",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "6cf94e0f-f447-4378-8f9f-c2fb81bcbba1",
+      "OldName": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C02",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C02",
+      "OldLabel": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C02",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C02",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "b9591b38-faf3-4f37-9112-96a023cd4d10",
+      "OldName": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C03",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C03",
+      "OldLabel": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C03",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C03",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "59d94635-5ff3-4204-a58e-3328a2d0bb89",
+      "OldName": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C04",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C04",
+      "OldLabel": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C04",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C04",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "c854f86b-f6d9-46de-858f-db9ba37d7caf",
+      "OldName": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C05",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C05",
+      "OldLabel": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C05",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C05",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "15417a3c-67c2-4904-89bd-8a244e0a2b91",
+      "OldName": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C06",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C06",
+      "OldLabel": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C06",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C06",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "6ddbf95a-23e6-4bc9-8d01-f1780eb045d1",
+      "OldName": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C07",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C07",
+      "OldLabel": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C07",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C07",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "d74f9318-b019-4a3d-ba4c-dc8563e73954",
+      "OldName": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C08",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C08",
+      "OldLabel": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C08",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C08",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "ea24bbc4-02f0-4ab1-af6f-606835306900",
+      "OldName": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C09",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C09",
+      "OldLabel": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C09",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C09",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "c3cea3cf-0dd2-4dce-8185-d922f780b930",
+      "OldName": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C10",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C10",
+      "OldLabel": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C10",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\02_EXCAVACION_C10",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "e44e3f53-0e23-44cc-9654-995ddc4d385c",
+      "OldName": "03_PILOTO_MECANIZADO\\03_RAMPA_Y_CRUCES",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\03_RAMPA_Y_CRUCES",
+      "OldLabel": "03_PILOTO_MECANIZADO\\03_RAMPA_Y_CRUCES",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\03_RAMPA_Y_CRUCES",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "364a1e7b-2dff-457b-9143-76e624276049",
+      "OldName": "03_PILOTO_MECANIZADO\\04_ACCESOS_NIVELES",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\04_ACCESOS_NIVELES",
+      "OldLabel": "03_PILOTO_MECANIZADO\\04_ACCESOS_NIVELES",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\04_ACCESOS_NIVELES",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "c423191c-bb8a-4f06-9ae0-0de6b98a2d50",
+      "OldName": "03_PILOTO_MECANIZADO\\07_ESTACION_CARGA",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\07_ESTACION_CARGA",
+      "OldLabel": "03_PILOTO_MECANIZADO\\07_ESTACION_CARGA",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\07_ESTACION_CARGA",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "1ad47f61-3030-449e-9bdb-2e767c570175",
+      "OldName": "03_PILOTO_MECANIZADO\\05_GALERIAS",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\05_GALERIAS",
+      "OldLabel": "03_PILOTO_MECANIZADO\\05_GALERIAS",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\05_GALERIAS",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "a2d59617-a8ef-4fec-b339-93bd6b17195e",
+      "OldName": "03_PILOTO_MECANIZADO\\06_ESTOCADAS",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\06_ESTOCADAS",
+      "OldLabel": "03_PILOTO_MECANIZADO\\06_ESTOCADAS",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\06_ESTOCADAS",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "b5ee877d-4d85-40a5-b588-04d1a34288f8",
+      "OldName": "03_PILOTO_MECANIZADO\\11_CHIMENEAS_INTERNAS",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\11_CHIMENEAS_INTERNAS",
+      "OldLabel": "03_PILOTO_MECANIZADO\\11_CHIMENEAS_INTERNAS",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\11_CHIMENEAS_INTERNAS",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "3955f085-176f-45d8-ae21-7e7a1a7723f2",
+      "OldName": "03_PILOTO_MECANIZADO\\13_CONEXIONES_CH",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\13_CONEXIONES_CH",
+      "OldLabel": "03_PILOTO_MECANIZADO\\13_CONEXIONES_CH",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\13_CONEXIONES_CH",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "80e0d742-3360-4b09-9a20-18a30e3eb95a",
+      "OldName": "03_PILOTO_MECANIZADO\\08_ACCESO_SUPERFICIE",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\08_ACCESO_SUPERFICIE",
+      "OldLabel": "03_PILOTO_MECANIZADO\\08_ACCESO_SUPERFICIE",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\08_ACCESO_SUPERFICIE",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "81f8f9d3-8f08-4c6c-8f13-a155a36e46a0",
+      "OldName": "03_PILOTO_MECANIZADO\\10_MOV_TIERRA",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\10_MOV_TIERRA",
+      "OldLabel": "03_PILOTO_MECANIZADO\\10_MOV_TIERRA",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\10_MOV_TIERRA",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "6ce1b99b-988d-4cc1-946a-499076b187f0",
+      "OldName": "03_PILOTO_MECANIZADO\\20_EJES",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\20_EJES",
+      "OldLabel": "03_PILOTO_MECANIZADO\\20_EJES",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\20_EJES",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "6deb7935-b5e0-4bb9-9142-5bbd55eced64",
+      "OldName": "03_PILOTO_MECANIZADO\\12_DESCANSOS_GUIA",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\12_DESCANSOS_GUIA",
+      "OldLabel": "03_PILOTO_MECANIZADO\\12_DESCANSOS_GUIA",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\12_DESCANSOS_GUIA",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "1b0a487b-fb06-48ba-9ed3-c745b33d6f8d",
+      "OldName": "03_PILOTO_MECANIZADO\\09_BOCAMINA",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\09_BOCAMINA",
+      "OldLabel": "03_PILOTO_MECANIZADO\\09_BOCAMINA",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\09_BOCAMINA",
+      "OldOn": true,
+      "OldVisibility": 0
+    },
+    {
+      "Guid": "3c2777a8-0ae9-46fa-86f2-ba2f483d2e70",
+      "OldName": "03_PILOTO_MECANIZADO\\21_ROTULOS",
+      "NewName": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\21_ROTULOS",
+      "OldLabel": "03_PILOTO_MECANIZADO\\21_ROTULOS",
+      "NewLabel": "03_PILOTO_MECANIZADO\\HISTORICO_50x30\\21_ROTULOS",
+      "OldOn": true,
+      "OldVisibility": 0
+    }
+  ],
+  "explicitlyRetainedModelFigureCount": 1926,
+  "scope": "Only original03 child layers renamed beneath HISTORICO_50x30 and set On=false/visibility Invisible; their existing figures only visibility Invisible. No geometry/attributes/identity edits or deletes.",
+  "figureGeometryCoordinatesTopologyVolumesAndAttributesPreserved": true,
+  "allOutsideScopeNativePayloadsAndMetadataExact": true,
+  "originalTopographyAndVeinNativePayloadsExact": true,
+  "newExpansionAndBlockModelUntouched": true,
+  "uiCreated": false,
+  "cadApplicationCreated": false,
+  "forbiddenAssembliesLoaded": [],
+  "note": "Native SDK presentation save/read only. Live CAD rendering/visibility must still be checked after opening. Original block-model settings and file reference are carried unchanged.",
+  "differences": []
+}

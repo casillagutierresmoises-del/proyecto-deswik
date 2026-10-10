@@ -1,0 +1,6419 @@
+{
+  "verified": true,
+  "mode": "write",
+  "timestampUtc": "2026-10-09T16:57:08.5147612+00:00",
+  "source": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-mecanizado\\native-output\\mecanizado-geometria.duf",
+  "output": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-mecanizado\\native-output\\mecanizado-atributos.duf",
+  "reportPath": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-mecanizado\\native-output\\Atributos_write_verificacion.json",
+  "layerPrefix": "03_PILOTO_MECANIZADO",
+  "sourceSha256": "D79A863ED2DF5421871EBEA0BD9BF1034F795EAA1C1A3764C88FD1A9DE4DECCB",
+  "outputSha256": "07FDE6DD697EF961EBF9AED3A9130590059EBC9222042A91BD8AB9DC9A4E54E1",
+  "sourceUnchanged": true,
+  "sourceEntityCount": 1594,
+  "destinationEntityCount": 1594,
+  "changedLayerCount": 25,
+  "changedLayerGuids": [
+    "b0f21a92-061b-468b-baec-d31f9455fed3",
+    "3d4b8081-523e-450b-af5e-d3c158fbbe8c",
+    "7c7e4c93-96a8-45bc-a10c-01c112d9c192",
+    "6cf94e0f-f447-4378-8f9f-c2fb81bcbba1",
+    "b9591b38-faf3-4f37-9112-96a023cd4d10",
+    "59d94635-5ff3-4204-a58e-3328a2d0bb89",
+    "c854f86b-f6d9-46de-858f-db9ba37d7caf",
+    "15417a3c-67c2-4904-89bd-8a244e0a2b91",
+    "6ddbf95a-23e6-4bc9-8d01-f1780eb045d1",
+    "d74f9318-b019-4a3d-ba4c-dc8563e73954",
+    "ea24bbc4-02f0-4ab1-af6f-606835306900",
+    "c3cea3cf-0dd2-4dce-8185-d922f780b930",
+    "e44e3f53-0e23-44cc-9654-995ddc4d385c",
+    "364a1e7b-2dff-457b-9143-76e624276049",
+    "c423191c-bb8a-4f06-9ae0-0de6b98a2d50",
+    "1ad47f61-3030-449e-9bdb-2e767c570175",
+    "a2d59617-a8ef-4fec-b339-93bd6b17195e",
+    "b5ee877d-4d85-40a5-b588-04d1a34288f8",
+    "3955f085-176f-45d8-ae21-7e7a1a7723f2",
+    "80e0d742-3360-4b09-9a20-18a30e3eb95a",
+    "81f8f9d3-8f08-4c6c-8f13-a155a36e46a0",
+    "6ce1b99b-988d-4cc1-946a-499076b187f0",
+    "6deb7935-b5e0-4bb9-9142-5bbd55eced64",
+    "1b0a487b-fb06-48ba-9ed3-c745b33d6f8d",
+    "3c2777a8-0ae9-46fa-86f2-ba2f483d2e70"
+  ],
+  "changedEntityScope": "Only XProperties field definitions of exact pilot layers; no Figure save sets",
+  "allNativeGeometryPayloadsAndFigureAttributesExact": true,
+  "allEntitiesOutsideChangedLayersExact": true,
+  "allLayerPropertiesOtherThanDefinitionsExact": true,
+  "topologyAndVeinPreserved": true,
+  "layerSchemas": [
+    {
+      "Guid": "b0f21a92-061b-468b-baec-d31f9455fed3",
+      "Name": "03_PILOTO_MECANIZADO",
+      "FigureCount": 0,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 15,
+      "addedNativeKeys": 226,
+      "fields": [
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": []
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "3d4b8081-523e-450b-af5e-d3c158fbbe8c",
+      "Name": "03_PILOTO_MECANIZADO\\01_MINERAL_FASES",
+      "FigureCount": 10,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 18,
+      "addedNativeKeys": 271,
+      "fields": [
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 10,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 10,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 10,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 10,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GEO_DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 10,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 10,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "HEIGHT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 10,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 10,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 10,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 10,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 10,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 10,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 10,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 10,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 10,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 10,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "Double",
+          "DefaultValue": 0,
+          "PresentEntityCount": 10,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Double"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 10,
+          "StoredValueTypes": []
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "7c7e4c93-96a8-45bc-a10c-01c112d9c192",
+      "Name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C01",
+      "FigureCount": 1,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 30,
+      "addedNativeKeys": 451,
+      "fields": [
+        {
+          "Name": "ARCH_RISE_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DESIGN_STATE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EQUIP_REF",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EXTRA_VOL_FRAC",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EXTRA_VOL_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HORIZ_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LIFT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ORE_VOL_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PROFILE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 1,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "TEMPORAL_STAGE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "Double",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Double"
+          ]
+        },
+        {
+          "Name": "WALL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WASTE_GRADE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "6cf94e0f-f447-4378-8f9f-c2fb81bcbba1",
+      "Name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C02",
+      "FigureCount": 1,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 30,
+      "addedNativeKeys": 451,
+      "fields": [
+        {
+          "Name": "ARCH_RISE_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DESIGN_STATE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EQUIP_REF",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EXTRA_VOL_FRAC",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EXTRA_VOL_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HORIZ_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LIFT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ORE_VOL_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PROFILE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 1,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "TEMPORAL_STAGE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "Double",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Double"
+          ]
+        },
+        {
+          "Name": "WALL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WASTE_GRADE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "b9591b38-faf3-4f37-9112-96a023cd4d10",
+      "Name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C03",
+      "FigureCount": 1,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 30,
+      "addedNativeKeys": 451,
+      "fields": [
+        {
+          "Name": "ARCH_RISE_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DESIGN_STATE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EQUIP_REF",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EXTRA_VOL_FRAC",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EXTRA_VOL_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HORIZ_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LIFT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ORE_VOL_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PROFILE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 1,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "TEMPORAL_STAGE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "Double",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Double"
+          ]
+        },
+        {
+          "Name": "WALL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WASTE_GRADE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "59d94635-5ff3-4204-a58e-3328a2d0bb89",
+      "Name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C04",
+      "FigureCount": 1,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 30,
+      "addedNativeKeys": 451,
+      "fields": [
+        {
+          "Name": "ARCH_RISE_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DESIGN_STATE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EQUIP_REF",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EXTRA_VOL_FRAC",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EXTRA_VOL_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HORIZ_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LIFT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ORE_VOL_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PROFILE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 1,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "TEMPORAL_STAGE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "Double",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Double"
+          ]
+        },
+        {
+          "Name": "WALL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WASTE_GRADE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "c854f86b-f6d9-46de-858f-db9ba37d7caf",
+      "Name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C05",
+      "FigureCount": 1,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 30,
+      "addedNativeKeys": 451,
+      "fields": [
+        {
+          "Name": "ARCH_RISE_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DESIGN_STATE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EQUIP_REF",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EXTRA_VOL_FRAC",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EXTRA_VOL_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HORIZ_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LIFT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ORE_VOL_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PROFILE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 1,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "TEMPORAL_STAGE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "Double",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Double"
+          ]
+        },
+        {
+          "Name": "WALL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WASTE_GRADE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "15417a3c-67c2-4904-89bd-8a244e0a2b91",
+      "Name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C06",
+      "FigureCount": 1,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 30,
+      "addedNativeKeys": 451,
+      "fields": [
+        {
+          "Name": "ARCH_RISE_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DESIGN_STATE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EQUIP_REF",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EXTRA_VOL_FRAC",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EXTRA_VOL_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HORIZ_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LIFT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ORE_VOL_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PROFILE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 1,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "TEMPORAL_STAGE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "Double",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Double"
+          ]
+        },
+        {
+          "Name": "WALL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WASTE_GRADE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "6ddbf95a-23e6-4bc9-8d01-f1780eb045d1",
+      "Name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C07",
+      "FigureCount": 1,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 30,
+      "addedNativeKeys": 451,
+      "fields": [
+        {
+          "Name": "ARCH_RISE_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DESIGN_STATE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EQUIP_REF",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EXTRA_VOL_FRAC",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EXTRA_VOL_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HORIZ_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LIFT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ORE_VOL_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PROFILE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 1,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "TEMPORAL_STAGE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "Double",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Double"
+          ]
+        },
+        {
+          "Name": "WALL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WASTE_GRADE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "d74f9318-b019-4a3d-ba4c-dc8563e73954",
+      "Name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C08",
+      "FigureCount": 1,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 30,
+      "addedNativeKeys": 451,
+      "fields": [
+        {
+          "Name": "ARCH_RISE_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DESIGN_STATE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EQUIP_REF",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EXTRA_VOL_FRAC",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EXTRA_VOL_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HORIZ_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LIFT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ORE_VOL_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PROFILE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 1,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "TEMPORAL_STAGE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "Double",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Double"
+          ]
+        },
+        {
+          "Name": "WALL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WASTE_GRADE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "ea24bbc4-02f0-4ab1-af6f-606835306900",
+      "Name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C09",
+      "FigureCount": 1,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 30,
+      "addedNativeKeys": 451,
+      "fields": [
+        {
+          "Name": "ARCH_RISE_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DESIGN_STATE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EQUIP_REF",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EXTRA_VOL_FRAC",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EXTRA_VOL_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HORIZ_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LIFT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ORE_VOL_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PROFILE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 1,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "TEMPORAL_STAGE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "Double",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Double"
+          ]
+        },
+        {
+          "Name": "WALL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WASTE_GRADE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "c3cea3cf-0dd2-4dce-8185-d922f780b930",
+      "Name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C10",
+      "FigureCount": 1,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 30,
+      "addedNativeKeys": 451,
+      "fields": [
+        {
+          "Name": "ARCH_RISE_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DESIGN_STATE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EQUIP_REF",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EXTRA_VOL_FRAC",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EXTRA_VOL_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HORIZ_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LIFT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ORE_VOL_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PROFILE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 1,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "TEMPORAL_STAGE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "Double",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Double"
+          ]
+        },
+        {
+          "Name": "WALL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WASTE_GRADE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "e44e3f53-0e23-44cc-9654-995ddc4d385c",
+      "Name": "03_PILOTO_MECANIZADO\\03_RAMPA_Y_CRUCES",
+      "FigureCount": 19,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 26,
+      "addedNativeKeys": 391,
+      "fields": [
+        {
+          "Name": "ARCH_RISE_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DESIGN_STATE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EQUIP_REF",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HORIZ_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PROFILE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "TAPER_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 9,
+          "MissingEntityCount": 10,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "USEFUL_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 9,
+          "MissingEntityCount": 10,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "Double",
+          "DefaultValue": 0,
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Double"
+          ]
+        },
+        {
+          "Name": "WALL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 19,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "364a1e7b-2dff-457b-9143-76e624276049",
+      "Name": "03_PILOTO_MECANIZADO\\04_ACCESOS_NIVELES",
+      "FigureCount": 13,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 28,
+      "addedNativeKeys": 421,
+      "fields": [
+        {
+          "Name": "ARCH_RISE_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "BRANCH_CONNECTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 9,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DESIGN_STATE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EQUIP_REF",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HORIZ_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LEVEL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PROFILE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 9,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SECTION_TRANSITION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 9,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "START_GRADE_SIGN",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 9,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "Double",
+          "DefaultValue": 0,
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Double"
+          ]
+        },
+        {
+          "Name": "WALL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 13,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "c423191c-bb8a-4f06-9ae0-0de6b98a2d50",
+      "Name": "03_PILOTO_MECANIZADO\\07_ESTACION_CARGA",
+      "FigureCount": 1,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 28,
+      "addedNativeKeys": 421,
+      "fields": [
+        {
+          "Name": "ARCH_RISE_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "BUCKET_H_REF",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DESIGN_STATE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EQUIP_REF",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HORIZ_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PROFILE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 1,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "TAPER_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "TIP_H_REF",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "USEFUL_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "Double",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Double"
+          ]
+        },
+        {
+          "Name": "WALL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "1ad47f61-3030-449e-9bdb-2e767c570175",
+      "Name": "03_PILOTO_MECANIZADO\\05_GALERIAS",
+      "FigureCount": 4,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 26,
+      "addedNativeKeys": 391,
+      "fields": [
+        {
+          "Name": "ARCH_RISE_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DESIGN_STATE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EQUIP_REF",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HORIZ_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LEVEL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PROFILE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 4,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "TRUCK_FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "Double",
+          "DefaultValue": 0,
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Double"
+          ]
+        },
+        {
+          "Name": "WALL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "a2d59617-a8ef-4fec-b339-93bd6b17195e",
+      "Name": "03_PILOTO_MECANIZADO\\06_ESTOCADAS",
+      "FigureCount": 4,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 27,
+      "addedNativeKeys": 406,
+      "fields": [
+        {
+          "Name": "ARCH_RISE_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DESIGN_STATE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EQUIP_REF",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FACE_TYPE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HORIZ_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LEVEL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PROFILE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 4,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "TRUCK_ALLOWED",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "Double",
+          "DefaultValue": 0,
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Double"
+          ]
+        },
+        {
+          "Name": "WALL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 4,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "b5ee877d-4d85-40a5-b588-04d1a34288f8",
+      "Name": "03_PILOTO_MECANIZADO\\11_CHIMENEAS_INTERNAS",
+      "FigureCount": 2,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 19,
+      "addedNativeKeys": 286,
+      "fields": [
+        {
+          "Name": "COMPARTMENTS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DESIGN_STATE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 2,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 2,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 2,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SURFACE_EXIT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "Double",
+          "DefaultValue": 0,
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Double"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "3955f085-176f-45d8-ae21-7e7a1a7723f2",
+      "Name": "03_PILOTO_MECANIZADO\\13_CONEXIONES_CH",
+      "FigureCount": 8,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 27,
+      "addedNativeKeys": 406,
+      "fields": [
+        {
+          "Name": "ARCH_RISE_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DESIGN_STATE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EQUIP_REF",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HORIZ_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LEVEL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PROFILE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 8,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SHAFT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "TRUCK_ALLOWED",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "Double",
+          "DefaultValue": 0,
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Double"
+          ]
+        },
+        {
+          "Name": "WALL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 8,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "80e0d742-3360-4b09-9a20-18a30e3eb95a",
+      "Name": "03_PILOTO_MECANIZADO\\08_ACCESO_SUPERFICIE",
+      "FigureCount": 1,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 25,
+      "addedNativeKeys": 376,
+      "fields": [
+        {
+          "Name": "ARCH_RISE_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DESIGN_STATE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "EQUIP_REF",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HEIGHT_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "HORIZ_LEN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PORTAL_LOCATION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PROFILE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 1,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "Double",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Double"
+          ]
+        },
+        {
+          "Name": "WALL_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_MIN_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "81f8f9d3-8f08-4c6c-8f13-a155a36e46a0",
+      "Name": "03_PILOTO_MECANIZADO\\10_MOV_TIERRA",
+      "FigureCount": 2,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 18,
+      "addedNativeKeys": 271,
+      "fields": [
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "DESIGN_STATE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 2,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 2,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 2,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 2,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "TIN_MODE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "Double",
+          "DefaultValue": 0,
+          "PresentEntityCount": 2,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Double"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 2,
+          "StoredValueTypes": []
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "6ce1b99b-988d-4cc1-946a-499076b187f0",
+      "Name": "03_PILOTO_MECANIZADO\\20_EJES",
+      "FigureCount": 62,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 16,
+      "addedNativeKeys": 241,
+      "fields": [
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 62,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 62,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 62,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 62,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 62,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 62,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 62,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PARENT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 60,
+          "MissingEntityCount": 2,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 62,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 62,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 62,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 62,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 62,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 62,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 62,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 62,
+          "StoredValueTypes": []
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "6deb7935-b5e0-4bb9-9142-5bbd55eced64",
+      "Name": "03_PILOTO_MECANIZADO\\12_DESCANSOS_GUIA",
+      "FigureCount": 7,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 16,
+      "addedNativeKeys": 241,
+      "fields": [
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 7,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 7,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 7,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 7,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 7,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 7,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "MAX_AXIS_SPACING_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 7,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 7,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 7,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 7,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 7,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 7,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 7,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 7,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 7,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 7,
+          "StoredValueTypes": []
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "1b0a487b-fb06-48ba-9ed3-c745b33d6f8d",
+      "Name": "03_PILOTO_MECANIZADO\\09_BOCAMINA",
+      "FigureCount": 1,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 16,
+      "addedNativeKeys": 241,
+      "fields": [
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 1,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 1,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 1,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PROFILE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 1,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 1,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 1,
+          "StoredValueTypes": []
+        }
+      ],
+      "priorDefinitionTypes": {}
+    },
+    {
+      "Guid": "3c2777a8-0ae9-46fa-86f2-ba2f483d2e70",
+      "Name": "03_PILOTO_MECANIZADO\\21_ROTULOS",
+      "FigureCount": 18,
+      "InitialDefinitionCount": 0,
+      "finalDefinitionCount": 16,
+      "addedNativeKeys": 241,
+      "fields": [
+        {
+          "Name": "DATA_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 18,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "ENTITY_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 18,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FILL_STATUS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 18,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "FUNCTION",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 18,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "GRADE_PCT",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 18,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "HEIGHT_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 18,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "LENGTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 18,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "NATIVE_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 18,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "PHASE",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 18,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "PILOT_ID",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 18,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "RADIUS_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 18,
+          "StoredValueTypes": []
+        },
+        {
+          "Name": "ROLE",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 18,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "SYNTHETIC",
+          "Type": "Integer",
+          "DefaultValue": 0,
+          "PresentEntityCount": 18,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "Int32"
+          ]
+        },
+        {
+          "Name": "UNITS",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 18,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "VOLUME_M3",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 18,
+          "MissingEntityCount": 0,
+          "StoredValueTypes": [
+            "String"
+          ]
+        },
+        {
+          "Name": "WIDTH_M",
+          "Type": "String",
+          "DefaultValue": "NO_APLICA",
+          "PresentEntityCount": 0,
+          "MissingEntityCount": 18,
+          "StoredValueTypes": []
+        }
+      ],
+      "priorDefinitionTypes": {}
+    }
+  ],
+  "definitionsNativePrefix": "_dw_Attribute",
+  "definitionsStorage": "Deswik.Entities.Cad.Layer.XProperties; per layer, not document or _DW_SETTINGS",
+  "schemaContract": "Graphics.Collections.Attributes.Count/GetFromIndex/PropNames read _dw_AttributeCount and 15 indexed definition keys",
+  "valueHandling": "All existing per-entity XProperties retained byte-for-byte. Types inferred per actual layer. Mixed/string extra values use String definitions; no silent entity conversion.",
+  "dimensionDefaultHandling": "Missing dimensions receive String definition/default NO_APLICA; no dimension value is invented or written to Figures",
+  "uiCreated": false,
+  "cadApplicationCreated": false,
+  "forbiddenAssembliesLoaded": [],
+  "cadFunctionalityValidated": false,
+  "note": "Native SDK schema write/read verified; CAD AttributeValueGet and property-panel functionality must be checked after licensed CAD opens the derived file. Historical original vein16 attributes remain untouched.",
+  "differences": []
+}

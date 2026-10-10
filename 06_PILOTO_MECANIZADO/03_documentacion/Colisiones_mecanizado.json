@@ -1,0 +1,1259 @@
+{
+  "verified": true,
+  "method": "AABB broad phase + original indexed swept-cell convex hull intersection LP; positive radius >1e-6m",
+  "convex_pairs_tested": 5724,
+  "lp_checks": 5724,
+  "self_intersections_included": true,
+  "unexpected_clash_count": 0,
+  "unexpected_clashes": [],
+  "declared_junctions": [
+    {
+      "a": "EXC_C01",
+      "b": "EXC_C02",
+      "overlap_cell_pairs": 1,
+      "reason": "Adjacent sequential phase roof overbreak; never simultaneous open stages",
+      "maximum_inscribed_overlap_radius_m": 0.24995052695109,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        0
+      ]
+    },
+    {
+      "a": "CX_N01_CURVA",
+      "b": "EXC_C01",
+      "overlap_cell_pairs": 15,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.28136748297498393,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        17,
+        31
+      ]
+    },
+    {
+      "a": "EXC_C01",
+      "b": "GAL_N01",
+      "overlap_cell_pairs": 67,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.37313432835821203,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        66
+      ]
+    },
+    {
+      "a": "CX_CH_TR_N01",
+      "b": "EXC_C01",
+      "overlap_cell_pairs": 4,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.25258095293035066,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        3
+      ]
+    },
+    {
+      "a": "CX_CH_VT_N01",
+      "b": "EXC_C01",
+      "overlap_cell_pairs": 3,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.35835037099526756,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        2
+      ]
+    },
+    {
+      "a": "EXC_C02",
+      "b": "EXC_C03",
+      "overlap_cell_pairs": 1,
+      "reason": "Adjacent sequential phase roof overbreak; never simultaneous open stages",
+      "maximum_inscribed_overlap_radius_m": 0.24995052695109,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        0
+      ]
+    },
+    {
+      "a": "CX_N01_CURVA",
+      "b": "EXC_C02",
+      "overlap_cell_pairs": 16,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.24826970499132436,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        16,
+        31
+      ]
+    },
+    {
+      "a": "EXC_C02",
+      "b": "GAL_N01",
+      "overlap_cell_pairs": 67,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.24995052695109046,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        66
+      ]
+    },
+    {
+      "a": "EXC_C03",
+      "b": "EXC_C04",
+      "overlap_cell_pairs": 1,
+      "reason": "Adjacent sequential phase roof overbreak; never simultaneous open stages",
+      "maximum_inscribed_overlap_radius_m": 0.24995052695109,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        0
+      ]
+    },
+    {
+      "a": "CX_N02_CURVA",
+      "b": "EXC_C03",
+      "overlap_cell_pairs": 14,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.24995052695109,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        18,
+        31
+      ]
+    },
+    {
+      "a": "EXC_C03",
+      "b": "GAL_N02",
+      "overlap_cell_pairs": 67,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.24995052695109,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        66
+      ]
+    },
+    {
+      "a": "CX_CH_TR_N02",
+      "b": "EXC_C03",
+      "overlap_cell_pairs": 2,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.20128263889213208,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        1
+      ]
+    },
+    {
+      "a": "CX_CH_VT_N02",
+      "b": "EXC_C03",
+      "overlap_cell_pairs": 2,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.20128263889213208,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        1
+      ]
+    },
+    {
+      "a": "EXC_C04",
+      "b": "EXC_C05",
+      "overlap_cell_pairs": 1,
+      "reason": "Adjacent sequential phase roof overbreak; never simultaneous open stages",
+      "maximum_inscribed_overlap_radius_m": 0.24995052695109046,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        0
+      ]
+    },
+    {
+      "a": "CX_N02_CURVA",
+      "b": "EXC_C04",
+      "overlap_cell_pairs": 15,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.2813674829749786,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        17,
+        31
+      ]
+    },
+    {
+      "a": "EXC_C04",
+      "b": "GAL_N02",
+      "overlap_cell_pairs": 67,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.37313432835821203,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        66
+      ]
+    },
+    {
+      "a": "CX_CH_TR_N02",
+      "b": "EXC_C04",
+      "overlap_cell_pairs": 4,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.25258095293035043,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        3
+      ]
+    },
+    {
+      "a": "CX_CH_VT_N02",
+      "b": "EXC_C04",
+      "overlap_cell_pairs": 3,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.2948887201563172,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        2
+      ]
+    },
+    {
+      "a": "EXC_C05",
+      "b": "EXC_C06",
+      "overlap_cell_pairs": 1,
+      "reason": "Adjacent sequential phase roof overbreak; never simultaneous open stages",
+      "maximum_inscribed_overlap_radius_m": 0.24995052695109038,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        0
+      ]
+    },
+    {
+      "a": "CX_N02_CURVA",
+      "b": "EXC_C05",
+      "overlap_cell_pairs": 16,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.248269704991323,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        16,
+        31
+      ]
+    },
+    {
+      "a": "EXC_C05",
+      "b": "GAL_N02",
+      "overlap_cell_pairs": 67,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.24995052695109055,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        66
+      ]
+    },
+    {
+      "a": "EXC_C06",
+      "b": "EXC_C07",
+      "overlap_cell_pairs": 1,
+      "reason": "Adjacent sequential phase roof overbreak; never simultaneous open stages",
+      "maximum_inscribed_overlap_radius_m": 0.24995052695109055,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        0
+      ]
+    },
+    {
+      "a": "CX_N03_CURVA",
+      "b": "EXC_C06",
+      "overlap_cell_pairs": 14,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.24995052695109055,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        18,
+        31
+      ]
+    },
+    {
+      "a": "EXC_C06",
+      "b": "GAL_N03",
+      "overlap_cell_pairs": 67,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.24995052695109055,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        66
+      ]
+    },
+    {
+      "a": "CX_CH_TR_N03",
+      "b": "EXC_C06",
+      "overlap_cell_pairs": 2,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.20128263889213252,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        1
+      ]
+    },
+    {
+      "a": "CX_CH_VT_N03",
+      "b": "EXC_C06",
+      "overlap_cell_pairs": 3,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.20128263889213252,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        2
+      ]
+    },
+    {
+      "a": "EXC_C07",
+      "b": "EXC_C08",
+      "overlap_cell_pairs": 1,
+      "reason": "Adjacent sequential phase roof overbreak; never simultaneous open stages",
+      "maximum_inscribed_overlap_radius_m": 0.24995052695109032,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        0
+      ]
+    },
+    {
+      "a": "CX_N03_CURVA",
+      "b": "EXC_C07",
+      "overlap_cell_pairs": 15,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.2813674829749804,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        17,
+        31
+      ]
+    },
+    {
+      "a": "EXC_C07",
+      "b": "GAL_N03",
+      "overlap_cell_pairs": 67,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.37313432835821203,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        66
+      ]
+    },
+    {
+      "a": "CX_CH_TR_N03",
+      "b": "EXC_C07",
+      "overlap_cell_pairs": 4,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.25258095293035066,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        3
+      ]
+    },
+    {
+      "a": "CX_CH_VT_N03",
+      "b": "EXC_C07",
+      "overlap_cell_pairs": 4,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.231427069317367,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        3
+      ]
+    },
+    {
+      "a": "EXC_C08",
+      "b": "EXC_C09",
+      "overlap_cell_pairs": 1,
+      "reason": "Adjacent sequential phase roof overbreak; never simultaneous open stages",
+      "maximum_inscribed_overlap_radius_m": 0.2499505269510899,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        0
+      ]
+    },
+    {
+      "a": "CX_N03_CURVA",
+      "b": "EXC_C08",
+      "overlap_cell_pairs": 16,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.24826970499132306,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        16,
+        31
+      ]
+    },
+    {
+      "a": "EXC_C08",
+      "b": "GAL_N03",
+      "overlap_cell_pairs": 67,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.24995052695109055,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        66
+      ]
+    },
+    {
+      "a": "EXC_C09",
+      "b": "EXC_C10",
+      "overlap_cell_pairs": 1,
+      "reason": "Adjacent sequential phase roof overbreak; never simultaneous open stages",
+      "maximum_inscribed_overlap_radius_m": 0.24995052695109088,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        0
+      ]
+    },
+    {
+      "a": "CX_N04_CURVA",
+      "b": "EXC_C09",
+      "overlap_cell_pairs": 14,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.24995052695109088,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        18,
+        31
+      ]
+    },
+    {
+      "a": "EXC_C09",
+      "b": "GAL_N04",
+      "overlap_cell_pairs": 67,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.24995052695109088,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        66
+      ]
+    },
+    {
+      "a": "CX_CH_TR_N04",
+      "b": "EXC_C09",
+      "overlap_cell_pairs": 2,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.20128263889213294,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        1
+      ]
+    },
+    {
+      "a": "CX_CH_VT_N04",
+      "b": "EXC_C09",
+      "overlap_cell_pairs": 3,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.16796541847841695,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        2
+      ]
+    },
+    {
+      "a": "CX_N04_CURVA",
+      "b": "EXC_C10",
+      "overlap_cell_pairs": 15,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.28136748297498215,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        17,
+        31
+      ]
+    },
+    {
+      "a": "EXC_C10",
+      "b": "GAL_N04",
+      "overlap_cell_pairs": 67,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.37313432835821203,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        66
+      ]
+    },
+    {
+      "a": "CX_CH_TR_N04",
+      "b": "EXC_C10",
+      "overlap_cell_pairs": 4,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.25258095293035066,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        3
+      ]
+    },
+    {
+      "a": "CX_CH_VT_N04",
+      "b": "EXC_C10",
+      "overlap_cell_pairs": 6,
+      "reason": "Stage excavation / connected level access; reopening through fill is conceptual",
+      "maximum_inscribed_overlap_radius_m": 0.16796541847841695,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        0,
+        5
+      ]
+    },
+    {
+      "a": "CX_N01_ESP",
+      "b": "RMP_A01",
+      "overlap_cell_pairs": 50,
+      "reason": "Declared tangent ramp branch; first path cells only, actual overlap measured",
+      "maximum_inscribed_overlap_radius_m": 0.32040716817806913,
+      "cell_a_range": [
+        0,
+        13
+      ],
+      "cell_b_range": [
+        0,
+        18
+      ]
+    },
+    {
+      "a": "CX_N02_ESP",
+      "b": "RMP_A07",
+      "overlap_cell_pairs": 29,
+      "reason": "Declared tangent ramp branch; first path cells only, actual overlap measured",
+      "maximum_inscribed_overlap_radius_m": 0.2976433131359082,
+      "cell_a_range": [
+        14,
+        22
+      ],
+      "cell_b_range": [
+        0,
+        11
+      ]
+    },
+    {
+      "a": "CX_N02_ESP",
+      "b": "REF_P04",
+      "overlap_cell_pairs": 42,
+      "reason": "Declared tangent ramp branch; first path cells only, actual overlap measured",
+      "maximum_inscribed_overlap_radius_m": 0.3363434757368893,
+      "cell_a_range": [
+        0,
+        10
+      ],
+      "cell_b_range": [
+        9,
+        24
+      ]
+    },
+    {
+      "a": "CX_N03_ESP",
+      "b": "REF_P07",
+      "overlap_cell_pairs": 22,
+      "reason": "Declared tangent ramp branch; first path cells only, actual overlap measured",
+      "maximum_inscribed_overlap_radius_m": 0.332989132391301,
+      "cell_a_range": [
+        3,
+        10
+      ],
+      "cell_b_range": [
+        19,
+        29
+      ]
+    },
+    {
+      "a": "CX_N03_ESP",
+      "b": "RMP_A13",
+      "overlap_cell_pairs": 55,
+      "reason": "Declared tangent ramp branch; first path cells only, actual overlap measured",
+      "maximum_inscribed_overlap_radius_m": 0.31685941756998126,
+      "cell_a_range": [
+        0,
+        14
+      ],
+      "cell_b_range": [
+        0,
+        19
+      ]
+    },
+    {
+      "a": "CX_N04_ESP",
+      "b": "RMP_A17",
+      "overlap_cell_pairs": 18,
+      "reason": "Declared tangent ramp branch; first path cells only, actual overlap measured",
+      "maximum_inscribed_overlap_radius_m": 0.32031901544250285,
+      "cell_a_range": [
+        17,
+        22
+      ],
+      "cell_b_range": [
+        15,
+        23
+      ]
+    },
+    {
+      "a": "CX_N04_ESP",
+      "b": "REF_P11",
+      "overlap_cell_pairs": 46,
+      "reason": "Declared tangent ramp branch; first path cells only, actual overlap measured",
+      "maximum_inscribed_overlap_radius_m": 0.31206230027192383,
+      "cell_a_range": [
+        0,
+        10
+      ],
+      "cell_b_range": [
+        1,
+        16
+      ]
+    },
+    {
+      "a": "ACC_SUP_01",
+      "b": "REF_P11",
+      "overlap_cell_pairs": 19,
+      "reason": "Declared upper ramp/surface adit tangent junction; first 16m only",
+      "maximum_inscribed_overlap_radius_m": 0.24883798280010794,
+      "cell_a_range": [
+        5,
+        10
+      ],
+      "cell_b_range": [
+        0,
+        8
+      ]
+    },
+    {
+      "a": "CX_N04_ESP",
+      "b": "RMP_A19",
+      "overlap_cell_pairs": 5,
+      "reason": "Declared tangent ramp branch; first path cells only, actual overlap measured",
+      "maximum_inscribed_overlap_radius_m": 0.2644495261111448,
+      "cell_a_range": [
+        0,
+        1
+      ],
+      "cell_b_range": [
+        0,
+        2
+      ]
+    },
+    {
+      "a": "ACC_SUP_01",
+      "b": "RMP_A19",
+      "overlap_cell_pairs": 7,
+      "reason": "Declared upper ramp/surface adit tangent junction; first 16m only",
+      "maximum_inscribed_overlap_radius_m": 0.24883798280010527,
+      "cell_a_range": [
+        0,
+        1
+      ],
+      "cell_b_range": [
+        7,
+        11
+      ]
+    },
+    {
+      "a": "EST_CARGA_01",
+      "b": "EST_N01",
+      "overlap_cell_pairs": 61,
+      "reason": "R8 scoop/jumbo tangent heading branch",
+      "maximum_inscribed_overlap_radius_m": 0.28571569582937073,
+      "cell_a_range": [
+        27,
+        39
+      ],
+      "cell_b_range": [
+        0,
+        17
+      ]
+    },
+    {
+      "a": "CX_N01_CURVA",
+      "b": "GAL_N01",
+      "overlap_cell_pairs": 38,
+      "reason": "R10 tangent crosscut/drive junction",
+      "maximum_inscribed_overlap_radius_m": 0.2813674829749786,
+      "cell_a_range": [
+        17,
+        31
+      ],
+      "cell_b_range": [
+        57,
+        66
+      ]
+    },
+    {
+      "a": "CX_CH_VT_N01",
+      "b": "CX_N01_CURVA",
+      "overlap_cell_pairs": 25,
+      "reason": "Local level junction beside drive; overlap extent must be reported",
+      "maximum_inscribed_overlap_radius_m": 0.2727122409836344,
+      "cell_a_range": [
+        16,
+        23
+      ],
+      "cell_b_range": [
+        0,
+        5
+      ]
+    },
+    {
+      "a": "CX_CH_TR_N01",
+      "b": "GAL_N01",
+      "overlap_cell_pairs": 12,
+      "reason": "Pedestrian/air link to drive",
+      "maximum_inscribed_overlap_radius_m": 0.25258095293035066,
+      "cell_a_range": [
+        1,
+        3
+      ],
+      "cell_b_range": [
+        0,
+        3
+      ]
+    },
+    {
+      "a": "CX_CH_VT_N01",
+      "b": "GAL_N01",
+      "overlap_cell_pairs": 9,
+      "reason": "Pedestrian/air link to drive",
+      "maximum_inscribed_overlap_radius_m": 0.35835037099526756,
+      "cell_a_range": [
+        63,
+        65
+      ],
+      "cell_b_range": [
+        0,
+        2
+      ]
+    },
+    {
+      "a": "CX_N02_RECT",
+      "b": "EST_N02",
+      "overlap_cell_pairs": 51,
+      "reason": "R8 scoop/jumbo tangent heading branch",
+      "maximum_inscribed_overlap_radius_m": 0.2857156958293636,
+      "cell_a_range": [
+        29,
+        40
+      ],
+      "cell_b_range": [
+        0,
+        15
+      ]
+    },
+    {
+      "a": "CX_N02_CURVA",
+      "b": "GAL_N02",
+      "overlap_cell_pairs": 38,
+      "reason": "R10 tangent crosscut/drive junction",
+      "maximum_inscribed_overlap_radius_m": 0.2813674829749768,
+      "cell_a_range": [
+        17,
+        31
+      ],
+      "cell_b_range": [
+        0,
+        9
+      ]
+    },
+    {
+      "a": "CX_CH_TR_N02",
+      "b": "CX_N02_CURVA",
+      "overlap_cell_pairs": 38,
+      "reason": "Local level junction beside drive; overlap extent must be reported",
+      "maximum_inscribed_overlap_radius_m": 0.25258095293035043,
+      "cell_a_range": [
+        15,
+        24
+      ],
+      "cell_b_range": [
+        0,
+        8
+      ]
+    },
+    {
+      "a": "CX_CH_TR_N02",
+      "b": "GAL_N02",
+      "overlap_cell_pairs": 12,
+      "reason": "Pedestrian/air link to drive",
+      "maximum_inscribed_overlap_radius_m": 0.25258095293035043,
+      "cell_a_range": [
+        1,
+        3
+      ],
+      "cell_b_range": [
+        0,
+        3
+      ]
+    },
+    {
+      "a": "CX_CH_VT_N02",
+      "b": "GAL_N02",
+      "overlap_cell_pairs": 9,
+      "reason": "Pedestrian/air link to drive",
+      "maximum_inscribed_overlap_radius_m": 0.2948887201563172,
+      "cell_a_range": [
+        63,
+        65
+      ],
+      "cell_b_range": [
+        0,
+        2
+      ]
+    },
+    {
+      "a": "CX_N03_RECT",
+      "b": "EST_N03",
+      "overlap_cell_pairs": 49,
+      "reason": "R8 scoop/jumbo tangent heading branch",
+      "maximum_inscribed_overlap_radius_m": 0.2857156958293672,
+      "cell_a_range": [
+        29,
+        40
+      ],
+      "cell_b_range": [
+        0,
+        15
+      ]
+    },
+    {
+      "a": "CX_N03_CURVA",
+      "b": "GAL_N03",
+      "overlap_cell_pairs": 38,
+      "reason": "R10 tangent crosscut/drive junction",
+      "maximum_inscribed_overlap_radius_m": 0.2813674829749804,
+      "cell_a_range": [
+        17,
+        31
+      ],
+      "cell_b_range": [
+        57,
+        66
+      ]
+    },
+    {
+      "a": "CX_CH_VT_N03",
+      "b": "CX_N03_CURVA",
+      "overlap_cell_pairs": 36,
+      "reason": "Local level junction beside drive; overlap extent must be reported",
+      "maximum_inscribed_overlap_radius_m": 0.231427069317367,
+      "cell_a_range": [
+        16,
+        23
+      ],
+      "cell_b_range": [
+        0,
+        8
+      ]
+    },
+    {
+      "a": "CX_CH_TR_N03",
+      "b": "GAL_N03",
+      "overlap_cell_pairs": 12,
+      "reason": "Pedestrian/air link to drive",
+      "maximum_inscribed_overlap_radius_m": 0.25258095293035066,
+      "cell_a_range": [
+        1,
+        3
+      ],
+      "cell_b_range": [
+        0,
+        3
+      ]
+    },
+    {
+      "a": "CX_CH_VT_N03",
+      "b": "GAL_N03",
+      "overlap_cell_pairs": 12,
+      "reason": "Pedestrian/air link to drive",
+      "maximum_inscribed_overlap_radius_m": 0.231427069317367,
+      "cell_a_range": [
+        63,
+        65
+      ],
+      "cell_b_range": [
+        0,
+        3
+      ]
+    },
+    {
+      "a": "ACC_SUP_01",
+      "b": "CX_N04_ESP",
+      "overlap_cell_pairs": 44,
+      "reason": "Compound upper ramp/level/adit junction only within first 6.5m adit and first 9.75m branch; union-volume not summed",
+      "maximum_inscribed_overlap_radius_m": 0.2488379828001186,
+      "cell_a_range": [
+        0,
+        10
+      ],
+      "cell_b_range": [
+        0,
+        11
+      ]
+    },
+    {
+      "a": "CX_N04_RECT",
+      "b": "EST_N04",
+      "overlap_cell_pairs": 46,
+      "reason": "R8 scoop/jumbo tangent heading branch",
+      "maximum_inscribed_overlap_radius_m": 0.2857156958293672,
+      "cell_a_range": [
+        29,
+        40
+      ],
+      "cell_b_range": [
+        0,
+        15
+      ]
+    },
+    {
+      "a": "CX_N04_CURVA",
+      "b": "GAL_N04",
+      "overlap_cell_pairs": 38,
+      "reason": "R10 tangent crosscut/drive junction",
+      "maximum_inscribed_overlap_radius_m": 0.28136748297498215,
+      "cell_a_range": [
+        17,
+        31
+      ],
+      "cell_b_range": [
+        57,
+        66
+      ]
+    },
+    {
+      "a": "CX_CH_VT_N04",
+      "b": "CX_N04_CURVA",
+      "overlap_cell_pairs": 48,
+      "reason": "Local level junction beside drive; overlap extent must be reported",
+      "maximum_inscribed_overlap_radius_m": 0.16796541847841695,
+      "cell_a_range": [
+        16,
+        23
+      ],
+      "cell_b_range": [
+        0,
+        12
+      ]
+    },
+    {
+      "a": "CX_CH_TR_N04",
+      "b": "GAL_N04",
+      "overlap_cell_pairs": 12,
+      "reason": "Pedestrian/air link to drive",
+      "maximum_inscribed_overlap_radius_m": 0.25258095293035066,
+      "cell_a_range": [
+        1,
+        3
+      ],
+      "cell_b_range": [
+        0,
+        3
+      ]
+    },
+    {
+      "a": "CX_CH_VT_N04",
+      "b": "GAL_N04",
+      "overlap_cell_pairs": 18,
+      "reason": "Pedestrian/air link to drive",
+      "maximum_inscribed_overlap_radius_m": 0.16796541847841695,
+      "cell_a_range": [
+        63,
+        65
+      ],
+      "cell_b_range": [
+        0,
+        5
+      ]
+    },
+    {
+      "a": "CH_TRANSITO_01",
+      "b": "CX_CH_TR_N01",
+      "overlap_cell_pairs": 2,
+      "reason": "Internal shaft/link junction",
+      "maximum_inscribed_overlap_radius_m": 0.25258095293034977,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        17,
+        18
+      ]
+    },
+    {
+      "a": "CH_TRANSITO_01",
+      "b": "CX_CH_TR_N02",
+      "overlap_cell_pairs": 2,
+      "reason": "Internal shaft/link junction",
+      "maximum_inscribed_overlap_radius_m": 0.25258095293034977,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        17,
+        18
+      ]
+    },
+    {
+      "a": "CH_TRANSITO_01",
+      "b": "CX_CH_TR_N03",
+      "overlap_cell_pairs": 2,
+      "reason": "Internal shaft/link junction",
+      "maximum_inscribed_overlap_radius_m": 0.25258095293034977,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        17,
+        18
+      ]
+    },
+    {
+      "a": "CH_TRANSITO_01",
+      "b": "CX_CH_TR_N04",
+      "overlap_cell_pairs": 2,
+      "reason": "Internal shaft/link junction",
+      "maximum_inscribed_overlap_radius_m": 0.10470285540946819,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        17,
+        18
+      ]
+    },
+    {
+      "a": "CH_VENT_01",
+      "b": "CX_CH_VT_N01",
+      "overlap_cell_pairs": 2,
+      "reason": "Internal shaft/link junction",
+      "maximum_inscribed_overlap_radius_m": 0.35835037099526623,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        17,
+        18
+      ]
+    },
+    {
+      "a": "CH_VENT_01",
+      "b": "CX_CH_VT_N02",
+      "overlap_cell_pairs": 2,
+      "reason": "Internal shaft/link junction",
+      "maximum_inscribed_overlap_radius_m": 0.29488872015631706,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        17,
+        18
+      ]
+    },
+    {
+      "a": "CH_VENT_01",
+      "b": "CX_CH_VT_N03",
+      "overlap_cell_pairs": 2,
+      "reason": "Internal shaft/link junction",
+      "maximum_inscribed_overlap_radius_m": 0.2314270693173679,
+      "cell_a_range": [
+        0,
+        0
+      ],
+      "cell_b_range": [
+        17,
+        18
+      ]
+    }
+  ],
+  "transport_meshes_aabb_separated_from_original_ore": [
+    "RMP_A01",
+    "REF_P01",
+    "RMP_A03",
+    "BAY_P01",
+    "RMP_A05",
+    "REF_P03",
+    "RMP_A07",
+    "REF_P04",
+    "RMP_A09",
+    "BAY_P02",
+    "RMP_A11",
+    "REF_P07",
+    "RMP_A13",
+    "BAY_P03",
+    "RMP_A15",
+    "REF_P10",
+    "RMP_A17",
+    "REF_P11",
+    "RMP_A19",
+    "CX_N01_ESP",
+    "EST_CARGA_01",
+    "EST_N01",
+    "CX_N02_ESP",
+    "EST_N02",
+    "CX_N03_ESP",
+    "EST_N03",
+    "CX_N04_ESP",
+    "EST_N04"
+  ],
+  "reference_exclusions": "10 geological bands are material references, not cavities; sequential excavations tested and classified by explicit adjacent IDs",
+  "earthworks": "CUT/FILL are exact positive/negative original TIN clips and begin at adit end cap; not treated as vehicle voids",
+  "limits": "Conservative convex swept cells; does not prove dynamic vehicle, rock stability or legal compliance"
+}

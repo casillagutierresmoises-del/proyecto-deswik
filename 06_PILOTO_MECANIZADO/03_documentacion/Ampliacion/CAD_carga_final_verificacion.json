@@ -1,0 +1,224 @@
+{
+  "verified": true,
+  "timestamp_utc": "2026-10-09T23:50:23.606908+00:00",
+  "scope": "Licensed live CAD document, loaded layers, sampled meshes and actual stored attributes; full native file review linked separately.",
+  "canonical_path": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\06_PILOTO_MECANIZADO\\proyecto-deswik-mecanizado.duf",
+  "canonical_sha256": "2f25c0a47ba4c4b931fbf9f5ab7eb556b8b662e7c35c3647353865a323b9b6b7",
+  "document_saved_clean": true,
+  "cad_open_verified": true,
+  "connector_inspection_atomic_snapshot": false,
+  "consistency_evidence": "All inspected document paths were canonical and clean; sampled GUIDs, layers, stored attributes and meshes matched the independently verified native file. Additional live NO_APLICA values matched explicit native layer defaults. Disk hash remained unchanged.",
+  "native_file_review_sha256": "8e8165cd9bc99d729b896fcab4a38aaeb61daf5d3a57a20ee76d676543c05bc8",
+  "raw_live_readings_sha256": "fc472316db80d300790e406a00e4778bf84e5350e84ba27b16ba4c2ef624d7dd",
+  "native_file_layers": 163,
+  "live_layers": 165,
+  "all_native_layers_loaded": true,
+  "additional_runtime_clipping_layers": [
+    "_DW_BOUNDARY_SLICEBOUNDARYBOXES_3",
+    "_DW_BOUNDARY_SLICEBOUNDARYBOXES_4"
+  ],
+  "new_figures_loaded": 830,
+  "sampled_entities": [
+    {
+      "group": "ramp",
+      "label": "RMP-V2-01",
+      "guid": "b6f54688-f44b-49fd-8eaa-afc9698bceee",
+      "handle": 2985,
+      "visible": true,
+      "native_stored_attribute_count": 32,
+      "live_attribute_count": 32,
+      "all_native_stored_attribute_values_exact": true,
+      "additional_live_values_match_explicit_native_layer_defaults": {}
+    },
+    {
+      "group": "ramp",
+      "label": "RMP-V2-02",
+      "guid": "4a27b1e0-9cbb-4d55-9ea3-085df9a15952",
+      "handle": 2986,
+      "visible": true,
+      "native_stored_attribute_count": 32,
+      "live_attribute_count": 32,
+      "all_native_stored_attribute_values_exact": true,
+      "additional_live_values_match_explicit_native_layer_defaults": {}
+    },
+    {
+      "group": "stope",
+      "label": "TJ-A1",
+      "guid": "a64f3887-688b-4980-82bf-e88538f0b07a",
+      "handle": 3020,
+      "visible": true,
+      "native_stored_attribute_count": 28,
+      "live_attribute_count": 30,
+      "all_native_stored_attribute_values_exact": true,
+      "additional_live_values_match_explicit_native_layer_defaults": {
+        "GRADE_PCT": "NO_APLICA",
+        "RADIUS_M": "NO_APLICA"
+      }
+    },
+    {
+      "group": "vent_raise",
+      "label": "CH-VENT",
+      "guid": "09d24261-e107-435f-8da2-49902059ce60",
+      "handle": 3246,
+      "visible": true,
+      "native_stored_attribute_count": 25,
+      "live_attribute_count": 27,
+      "all_native_stored_attribute_values_exact": true,
+      "additional_live_values_match_explicit_native_layer_defaults": {
+        "GRADE_PCT": "NO_APLICA",
+        "RADIUS_M": "NO_APLICA"
+      }
+    },
+    {
+      "group": "future_rampin",
+      "label": "RIN-A-C12",
+      "guid": "5c3771d8-616c-4ce0-bbf7-804409febb49",
+      "handle": 3350,
+      "visible": false,
+      "native_stored_attribute_count": 42,
+      "live_attribute_count": 42,
+      "all_native_stored_attribute_values_exact": true,
+      "additional_live_values_match_explicit_native_layer_defaults": {}
+    },
+    {
+      "group": "hidden_fill",
+      "label": "RLL-TJ-A1-C01",
+      "guid": "07644d31-e393-4001-98f0-df049f8a25ba",
+      "handle": 3023,
+      "visible": false,
+      "native_stored_attribute_count": 23,
+      "live_attribute_count": 25,
+      "all_native_stored_attribute_values_exact": true,
+      "additional_live_values_match_explicit_native_layer_defaults": {
+        "GRADE_PCT": "NO_APLICA",
+        "RADIUS_M": "NO_APLICA"
+      }
+    }
+  ],
+  "sampled_mesh_checks": [
+    {
+      "label": "RMP-V2-01",
+      "handle": 2985,
+      "vertices": 1843,
+      "live_volume_m3": 4212.267231439943,
+      "file_volume_m3": 4212.267231439938,
+      "absolute_volume_difference_m3": 5.4569682106375694e-12,
+      "live_bounding_box": {
+        "min": {
+          "x": 5078.423879472988,
+          "y": 11119.970901671417,
+          "z": 2190
+        },
+        "max": {
+          "x": 5142.923837581078,
+          "y": 11184.470859779507,
+          "z": 2214.5
+        },
+        "mid": {
+          "x": 5110.673858527033,
+          "y": 11152.220880725461,
+          "z": 2202.25
+        },
+        "dx": 64.49995810809014,
+        "dy": 64.49995810809014,
+        "dz": 24.5
+      },
+      "bounding_box_matches_file": true,
+      "verified": true
+    },
+    {
+      "label": "TJ-A1",
+      "handle": 3020,
+      "vertices": 1470,
+      "live_volume_m3": 1597.9517693570176,
+      "file_volume_m3": 1597.9517693570176,
+      "absolute_volume_difference_m3": 0.0,
+      "live_bounding_box": {
+        "min": {
+          "x": 5127.216138974857,
+          "y": 11015.94101364415,
+          "z": 2170
+        },
+        "max": {
+          "x": 5148.298175231218,
+          "y": 11048.224753111315,
+          "z": 2210
+        },
+        "mid": {
+          "x": 5137.757157103038,
+          "y": 11032.082883377732,
+          "z": 2190
+        },
+        "dx": 21.08203625636088,
+        "dy": 32.283739467166015,
+        "dz": 40
+      },
+      "bounding_box_matches_file": true,
+      "verified": true
+    },
+    {
+      "label": "CH-VENT",
+      "handle": 3246,
+      "vertices": 8,
+      "live_volume_m3": 1325.315413285669,
+      "file_volume_m3": 1325.3154132856691,
+      "absolute_volume_difference_m3": 2.2737367544323206e-13,
+      "live_bounding_box": {
+        "min": {
+          "x": 5181.689950581642,
+          "y": 11178.294306528514,
+          "z": 2110
+        },
+        "max": {
+          "x": 5185.497195557093,
+          "y": 11182.101551503965,
+          "z": 2257.2572681428364
+        },
+        "mid": {
+          "x": 5183.593573069367,
+          "y": 11180.19792901624,
+          "z": 2183.628634071418
+        },
+        "dx": 3.8072449754508852,
+        "dy": 3.8072449754508852,
+        "dz": 147.25726814283644
+      },
+      "bounding_box_matches_file": true,
+      "verified": true
+    }
+  ],
+  "original_topography_vein_and_14000_blocks_preserved_by_native_file_review": true,
+  "blocks_dm_and_csv_current_hashes_match_approved_review": true,
+  "full_block_count_not_queried_via_live_CAD": true,
+  "window_observation": {
+    "method": "Read-only Windows screenshot already reviewed visually; no UI input, move or resize performed.",
+    "observed_rendering": "Expanded ramp, multiple level galleries, stopes and four surface raises visible in licensed Deswik CAD.",
+    "app": "C:\\Program Files\\Deswik\\Deswik.Suite 2026.1\\Deswik.CAD.exe",
+    "window_id": 462242,
+    "screenshot_regions": [
+      {
+        "id": "screenshot-0",
+        "originX": 428,
+        "originY": -10,
+        "width": 1194,
+        "height": 824
+      },
+      {
+        "id": "screenshot-1",
+        "originX": 438,
+        "originY": 0,
+        "width": 1186,
+        "height": 816
+      }
+    ],
+    "arrangement_preserved": true,
+    "native_layouts_or_saved_camera_views_created": false
+  },
+  "no_ui_input_or_DUF_save_used_during_live_verification": true,
+  "limitations": [
+    "Connector snapshots are non-atomic; document identity and actual values were cross-checked across separate reads.",
+    "Conceptual synthetic design, not approved for execution.",
+    "Geotechnics, support, ventilation, escape details and dynamic vehicle manoeuvres require engineering validation.",
+    "Isometric and longitudinal projection images are derived views; no native CAD layout or saved section camera was created."
+  ]
+}

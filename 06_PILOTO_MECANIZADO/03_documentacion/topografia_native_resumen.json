@@ -1,0 +1,49 @@
+{
+  "schema": "native-deswik-tin-1",
+  "verified": true,
+  "source": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf",
+  "sourceSha256": "dad5de0a4311d47f7b77340aca039e0bb60c4033edd5409da4ba942ebe1e276d",
+  "nativeGuid": "0e27460a-44dc-4068-ad3f-f7bbd9ac92a9",
+  "nativeHandleAtRead": 2639,
+  "nativeLayer": "01_TOPOGRAFIA\\01_SUPERFICIE",
+  "nativeLayerGuid": "608d3c98-c967-4319-b590-d3daa95c5969",
+  "nativeEntityHash": "5EA0FFD97725CE87",
+  "nativeOpaquePayloadSha256": "F4FB9EBB7E26DB6FE0BF8C256E624EE005D6867854627C7A93FB50DF7B0D7325",
+  "nativeReader": "ReadGeometry.cs / installed Deswik.Entities.Cad + DufImplementation.LoadFromLatest; read-only, no Application or Save",
+  "readerExport": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-cyr\\native-duf\\review\\original_arrays_20261009.json",
+  "readerExportSha256": "e081e783d605833d144a36f32d45683b1c96d61bc890efcda1ce7b1138a13bf9",
+  "nativeSnapshotSha256": "87ff1c6bf1cd33e417a167b8080ca4cca33110653a8bf1b6122ef6da4758103f",
+  "wcsScale": 1,
+  "coordinateUnits": "project metres",
+  "deswikDocumentUnits": {
+    "Aunits": "Deswik.Entities.Cad.AUnits",
+    "InsUnits": "InsUnitsEnumUnspecified",
+    "Lunits": "Deswik.Entities.Cad.LUnits"
+  },
+  "epsg": null,
+  "vertexCount": 8283,
+  "triangleCount": 16199,
+  "nativeFaceListEntryCount": 80995,
+  "boundsWcs": [
+    [
+      4710.24169922,
+      10010.24169922,
+      2008.23739624
+    ],
+    [
+      5489.75830078,
+      11189.75830078,
+      2261.0
+    ]
+  ],
+  "surfaceAreaM2": 1016593.2722828686,
+  "faceConvention": "triangles_zero_based indexes vertices_wcs; native format one-based[a,b,c,a,-1] preserved separately",
+  "note": "Topographic surface; no closed-solid volume assumed. Original vertex order, shared indices and WCS preserved; no repair/retessellation.",
+  "output": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-mecanizado\\topografia_native.json",
+  "outputSha256": "6a9a135737b50022f167734a66ac63994045bec8410b3e1193ce841f91dbdc07",
+  "sourceUnchanged": true,
+  "exactArrayRoundTrip": true,
+  "zeroAreaTriangles": 0,
+  "uiCreated": false,
+  "dufSaveInvoked": false
+}

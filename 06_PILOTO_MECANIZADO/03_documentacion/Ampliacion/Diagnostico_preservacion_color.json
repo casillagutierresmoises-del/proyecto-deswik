@@ -1,0 +1,66 @@
+{
+  "verified": true,
+  "readOnly": true,
+  "dufSaveInvoked": false,
+  "uiCreated": false,
+  "figuresChecked": 830,
+  "colorChangesGeometryToFinal": 0,
+  "geometryColorSemanticSha256": "56d1fc8db21caf446c0232c06ca1961c8fbb78cc62854d2dd982505a3eaab349",
+  "finalColorSemanticSha256": "56d1fc8db21caf446c0232c06ca1961c8fbb78cc62854d2dd982505a3eaab349",
+  "cause": {
+    "field": "DXF ACI91 indexed palette interpretation",
+    "firstEntity": "TJ-A4",
+    "ezdxfRgb": [
+      127,
+      255,
+      127
+    ],
+    "installedNativeDxfSdkRgb": [
+      125,
+      255,
+      127
+    ],
+    "nativeStoredRgb": [
+      125,
+      255,
+      127
+    ],
+    "comparison": "Exact to installed SDK indexed palette; explicit true-color is checked exactly without this mapping",
+    "notASerializationChange": true
+  },
+  "paletteEvidence": {
+    "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\Paleta_DXF_SDK_2026.json",
+    "sha256": "a3213633b9d6cb00c6a825a3a90848c09cc57f7914f9389f468379c1178067ef"
+  },
+  "geometryReader": {
+    "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\relectura-geometria.json",
+    "sha256": "413896024dc1a22010960a22e190732af60176743a6de5e81a03681735d52cfc"
+  },
+  "finalReader": {
+    "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\Relectura_final_recursos.json",
+    "sha256": "e801f25b5d44f1b071db3fc0d5a60cb59b221f902df20c0b0fe186f647445ad0"
+  },
+  "nativePreservationReports": {
+    "Atributos_ampliacion_preservados.json": {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\Atributos_ampliacion_preservados.json",
+      "sha256": "9ce63abcee18e15f01a914995b6f80732d8e566179f19a942a198b514e094ebd",
+      "verified": true,
+      "sourceSha256": "C5B2B98BD43E09A91D78FDA99D40B6203B5E79712FAAF95B9E546433224F4EB6",
+      "outputSha256": "01E0A87E9B260656681109A79B2ECA955F44412BF612BA28E7C18C6C7ABD43DC"
+    },
+    "Presentacion_ampliacion_preservada.json": {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\Presentacion_ampliacion_preservada.json",
+      "sha256": "c32b2a7c474d25618d4b848e74fd9f4eb4603519cb3f1fd2edc9dbe244760082",
+      "verified": true,
+      "sourceSha256": "01E0A87E9B260656681109A79B2ECA955F44412BF612BA28E7C18C6C7ABD43DC",
+      "outputSha256": "782560874B567F672E5CE159F95E092D5F780145C4ECE4FEE36FFC43A7FD0AA2"
+    },
+    "ampliacion-final-geometria.duf.verification.json": {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\ampliacion-final-geometria.duf.verification.json",
+      "sha256": "d76ba2db6eaf9fc89f0343737c76e6e2ee6fc929086f2bed3f0f60a23cb9ba00",
+      "verified": true,
+      "sourceSha256": "DBDAFBD70D1E01F6746C3F1D4B77262C2E1A460809A8F95FF620969C1BD8DD68",
+      "outputSha256": "C5B2B98BD43E09A91D78FDA99D40B6203B5E79712FAAF95B9E546433224F4EB6"
+    }
+  }
+}

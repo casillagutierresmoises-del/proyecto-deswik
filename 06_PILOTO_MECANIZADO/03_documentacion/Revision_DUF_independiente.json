@@ -1,0 +1,1125 @@
+{
+  "verified": true,
+  "readOnly": true,
+  "dufSaveInvoked": false,
+  "uiCreated": false,
+  "independentReader": "ReadNativeGeometry.cs; no GeometryImport.cs dependency",
+  "original": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf",
+  "sourceSha256": "dad5de0a4311d47f7b77340aca039e0bb60c4033edd5409da4ba942ebe1e276d",
+  "geometry": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-mecanizado\\native-output\\mecanizado-geometria.duf",
+  "geometrySha256": "d79a863ed2df5421871ebea0bd9bf1034f795eaa1c1a3764c88fd1a9de4deccb",
+  "definitions": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-mecanizado\\native-output\\mecanizado-atributos.duf",
+  "definitionsSha256": "07fde6dd697ef961ebf9aed3a9130590059ebc9222042a91bd8ab9dc9a4e54e1",
+  "output": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-mecanizado\\native-output\\proyecto-deswik-mecanizado.duf",
+  "outputSha256": "af329349927a129a4947741034a964c3d52ca4a603b3c52bbac94dc163712e6f",
+  "dxfSha256": "16b7c939fed2758a1d32f9569bcde456dffb6d0978ddbe9cdeb54079dcbbd7d5",
+  "manifestSha256": "aa0c6719fecc4bf17ac3558aefd5ccfd7606b9003dff35233493a2100f53d791",
+  "layerStatesSha256": "3ef6b580fb1c09aee02c7064c9dfb2da1a4b62f63c6112a270bdfd9d14b05db0",
+  "all1407OriginalNativePayloadsAndMetadataExactAtAppend": true,
+  "allOriginalEntitiesPreservedAcrossDefinitionStage": true,
+  "originalLayerChangesAtModelStage": [
+    "_DW_SETTINGS"
+  ],
+  "nativeEntityCount": 1594,
+  "nativeLayerCount": 47,
+  "pilot": {
+    "meshes": 74,
+    "polylines": 70,
+    "texts": 18,
+    "figures": 162,
+    "newLayers": 25,
+    "minimumStoredNativeFieldCount": 10,
+    "maximumStoredNativeFieldCount": 29
+  },
+  "allWcsCoordinatesFaceIndicesTextLocationsExact": true,
+  "allMeshesClosedConsistentlyWoundPositiveVolume": true,
+  "allRgbColorsVisibilityAndResourceReferencesExact": true,
+  "allNativePenWidthLineScaleWeightsFlagsAndThicknessExact": true,
+  "allTypedNativeFieldsAndManifestExtrasExact": true,
+  "allFieldDefinitionsCompatibleWithStoredValues": true,
+  "allExistingNativeLayerDefinitionsAndVein16FieldsPreserved": true,
+  "changedDefinitionLayerGuids": [
+    "b0f21a92-061b-468b-baec-d31f9455fed3",
+    "3d4b8081-523e-450b-af5e-d3c158fbbe8c",
+    "7c7e4c93-96a8-45bc-a10c-01c112d9c192",
+    "6cf94e0f-f447-4378-8f9f-c2fb81bcbba1",
+    "b9591b38-faf3-4f37-9112-96a023cd4d10",
+    "59d94635-5ff3-4204-a58e-3328a2d0bb89",
+    "c854f86b-f6d9-46de-858f-db9ba37d7caf",
+    "15417a3c-67c2-4904-89bd-8a244e0a2b91",
+    "6ddbf95a-23e6-4bc9-8d01-f1780eb045d1",
+    "d74f9318-b019-4a3d-ba4c-dc8563e73954",
+    "ea24bbc4-02f0-4ab1-af6f-606835306900",
+    "c3cea3cf-0dd2-4dce-8185-d922f780b930",
+    "e44e3f53-0e23-44cc-9654-995ddc4d385c",
+    "364a1e7b-2dff-457b-9143-76e624276049",
+    "c423191c-bb8a-4f06-9ae0-0de6b98a2d50",
+    "1ad47f61-3030-449e-9bdb-2e767c570175",
+    "a2d59617-a8ef-4fec-b339-93bd6b17195e",
+    "b5ee877d-4d85-40a5-b588-04d1a34288f8",
+    "3955f085-176f-45d8-ae21-7e7a1a7723f2",
+    "80e0d742-3360-4b09-9a20-18a30e3eb95a",
+    "81f8f9d3-8f08-4c6c-8f13-a155a36e46a0",
+    "6ce1b99b-988d-4cc1-946a-499076b187f0",
+    "6deb7935-b5e0-4bb9-9142-5bbd55eced64",
+    "1b0a487b-fb06-48ba-9ed3-c745b33d6f8d",
+    "3c2777a8-0ae9-46fa-86f2-ba2f483d2e70"
+  ],
+  "initialSerializationDifferences": {
+    "count": 0,
+    "canonicalReferencesUsedAtAppend": true,
+    "cause": "Append uses registered resource GUIDs before and after saving. Independent coordinates/styles/fields and a separate canonical roundtrip also pass."
+  },
+  "canonicalNewObjectCount": 187,
+  "normalSerialization": "Default +Z omitted natively; null normal interpreted as (0,0,1)",
+  "globalSolidGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7",
+  "globalStandardGuid": "89d5cef8-5f33-4bb0-8842-7cf8336aec83",
+  "layer_states": [
+    {
+      "name": "03_PILOTO_MECANIZADO",
+      "guid": "b0f21a92-061b-468b-baec-d31f9455fed3",
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\01_MINERAL_FASES",
+      "guid": "3d4b8081-523e-450b-af5e-d3c158fbbe8c",
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C01",
+      "guid": "7c7e4c93-96a8-45bc-a10c-01c112d9c192",
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C02",
+      "guid": "6cf94e0f-f447-4378-8f9f-c2fb81bcbba1",
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C03",
+      "guid": "b9591b38-faf3-4f37-9112-96a023cd4d10",
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C04",
+      "guid": "59d94635-5ff3-4204-a58e-3328a2d0bb89",
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C05",
+      "guid": "c854f86b-f6d9-46de-858f-db9ba37d7caf",
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C06",
+      "guid": "15417a3c-67c2-4904-89bd-8a244e0a2b91",
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C07",
+      "guid": "6ddbf95a-23e6-4bc9-8d01-f1780eb045d1",
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C08",
+      "guid": "d74f9318-b019-4a3d-ba4c-dc8563e73954",
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C09",
+      "guid": "ea24bbc4-02f0-4ab1-af6f-606835306900",
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\02_EXCAVACION_C10",
+      "guid": "c3cea3cf-0dd2-4dce-8185-d922f780b930",
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\03_RAMPA_Y_CRUCES",
+      "guid": "e44e3f53-0e23-44cc-9654-995ddc4d385c",
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\04_ACCESOS_NIVELES",
+      "guid": "364a1e7b-2dff-457b-9143-76e624276049",
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\05_GALERIAS",
+      "guid": "1ad47f61-3030-449e-9bdb-2e767c570175",
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\06_ESTOCADAS",
+      "guid": "a2d59617-a8ef-4fec-b339-93bd6b17195e",
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\07_ESTACION_CARGA",
+      "guid": "c423191c-bb8a-4f06-9ae0-0de6b98a2d50",
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\08_ACCESO_SUPERFICIE",
+      "guid": "80e0d742-3360-4b09-9a20-18a30e3eb95a",
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\09_BOCAMINA",
+      "guid": "1b0a487b-fb06-48ba-9ed3-c745b33d6f8d",
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\10_MOV_TIERRA",
+      "guid": "81f8f9d3-8f08-4c6c-8f13-a155a36e46a0",
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\11_CHIMENEAS_INTERNAS",
+      "guid": "b5ee877d-4d85-40a5-b588-04d1a34288f8",
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\12_DESCANSOS_GUIA",
+      "guid": "6deb7935-b5e0-4bb9-9142-5bbd55eced64",
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\13_CONEXIONES_CH",
+      "guid": "3955f085-176f-45d8-ae21-7e7a1a7723f2",
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\20_EJES",
+      "guid": "6ce1b99b-988d-4cc1-946a-499076b187f0",
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    },
+    {
+      "name": "03_PILOTO_MECANIZADO\\21_ROTULOS",
+      "guid": "3c2777a8-0ae9-46fa-86f2-ba2f483d2e70",
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false,
+      "resourceGuid": "5c5cab83-30d8-4eea-b793-de2ce3b5f3f7"
+    }
+  ],
+  "topography": {
+    "guid": "0e27460a-44dc-4068-ad3f-f7bbd9ac92a9",
+    "vertices": 8283,
+    "exact": true
+  },
+  "vein": {
+    "guid": "1387534c-b5c9-4846-b6c5-8d2e859c9c84",
+    "vertices": 5522,
+    "fields": 16,
+    "exact": true
+  },
+  "units": {
+    "Aunits": "Deswik.Entities.Cad.AUnits",
+    "InsUnits": "InsUnitsEnumUnspecified",
+    "Lunits": "Deswik.Entities.Cad.LUnits"
+  },
+  "wcsScale": 1,
+  "epsg": null,
+  "modelReference": {
+    "settingsLayerGuid": "039961c7-6450-4c30-93d2-24cec20bf983",
+    "addedKeys": 35,
+    "modelRelativePath": "01_datos\\Bloques_piloto.dm",
+    "modelSha256": "89fb3d973346a6a8df2f3450a1a86214390f25d637915591a030161fa78503c8",
+    "initialModelUse": true,
+    "initialFixedPlaneUse": false,
+    "changedLayerOnly": true
+  },
+  "cadFunctionalityValidated": false,
+  "meshChecks": [
+    {
+      "label": "MINERAL_TAJO_C01",
+      "guid": "b6cca575-b154-433e-8e68-3ca0443f50ef",
+      "vertices": 580,
+      "triangles": 1156,
+      "volumeM3": 238.598783007464,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 13
+    },
+    {
+      "label": "MINERAL_TAJO_C02",
+      "guid": "bdf4d37f-6c2d-4699-bf4b-36041352f6a2",
+      "vertices": 580,
+      "triangles": 1156,
+      "volumeM3": 238.4904762698267,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 13
+    },
+    {
+      "label": "MINERAL_TAJO_C03",
+      "guid": "c1e1eb89-bb59-4ee9-a1a1-d2896a83b425",
+      "vertices": 580,
+      "triangles": 1156,
+      "volumeM3": 238.38161172922142,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 13
+    },
+    {
+      "label": "MINERAL_TAJO_C04",
+      "guid": "6696d026-080c-4d90-9636-ae9085efdbb7",
+      "vertices": 580,
+      "triangles": 1156,
+      "volumeM3": 238.27209133741053,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 13
+    },
+    {
+      "label": "MINERAL_TAJO_C05",
+      "guid": "a5bcfdf2-cbb9-410d-9ceb-31d153794dda",
+      "vertices": 580,
+      "triangles": 1156,
+      "volumeM3": 238.16211423342975,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 13
+    },
+    {
+      "label": "MINERAL_TAJO_C06",
+      "guid": "0f2ca99c-909e-4e16-a80b-e304bf6092e8",
+      "vertices": 580,
+      "triangles": 1156,
+      "volumeM3": 238.0515546027891,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 13
+    },
+    {
+      "label": "MINERAL_TAJO_C07",
+      "guid": "f6835793-e581-4450-bbae-9dc5add11716",
+      "vertices": 580,
+      "triangles": 1156,
+      "volumeM3": 237.9405189535937,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 13
+    },
+    {
+      "label": "MINERAL_TAJO_C08",
+      "guid": "988fa5ae-e5de-4de8-a92b-bee327d3906c",
+      "vertices": 580,
+      "triangles": 1156,
+      "volumeM3": 237.82888437100215,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 13
+    },
+    {
+      "label": "MINERAL_TAJO_C09",
+      "guid": "0671b19b-2af8-4d14-b642-0efa40eefe97",
+      "vertices": 580,
+      "triangles": 1156,
+      "volumeM3": 237.7167122040822,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 13
+    },
+    {
+      "label": "MINERAL_TAJO_C10",
+      "guid": "03149268-05a8-4b45-b92d-75add7c1c654",
+      "vertices": 580,
+      "triangles": 1156,
+      "volumeM3": 237.60393468666857,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 13
+    },
+    {
+      "label": "EXC_C01",
+      "guid": "3c0d7090-a7df-4d80-a2c2-a87e1946c74c",
+      "vertices": 38,
+      "triangles": 72,
+      "volumeM3": 593.2816127056334,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 29
+    },
+    {
+      "label": "EXC_C02",
+      "guid": "ac712599-33c0-4efb-ab8e-4380cd39d0ff",
+      "vertices": 38,
+      "triangles": 72,
+      "volumeM3": 593.2816127057498,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 29
+    },
+    {
+      "label": "EXC_C03",
+      "guid": "71c808ab-857c-43a4-b834-22ca2e9e511e",
+      "vertices": 38,
+      "triangles": 72,
+      "volumeM3": 593.2816127055557,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 29
+    },
+    {
+      "label": "EXC_C04",
+      "guid": "4e98eb28-2ae8-4e83-bedf-5f8b53bb3dd0",
+      "vertices": 38,
+      "triangles": 72,
+      "volumeM3": 593.2816127056334,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 29
+    },
+    {
+      "label": "EXC_C05",
+      "guid": "712d7718-c70a-4c0c-b480-7cf9df66931d",
+      "vertices": 38,
+      "triangles": 72,
+      "volumeM3": 593.2816127056722,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 29
+    },
+    {
+      "label": "EXC_C06",
+      "guid": "c0b9b97b-787e-424e-980d-a9163337259b",
+      "vertices": 38,
+      "triangles": 72,
+      "volumeM3": 593.2816127056334,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 29
+    },
+    {
+      "label": "EXC_C07",
+      "guid": "fd30e0bd-b777-487c-b04b-3ebe90ca13fe",
+      "vertices": 38,
+      "triangles": 72,
+      "volumeM3": 593.2816127054393,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 29
+    },
+    {
+      "label": "EXC_C08",
+      "guid": "fa83dfb1-997d-4c1a-8b24-f5b6c6c1d6db",
+      "vertices": 38,
+      "triangles": 72,
+      "volumeM3": 593.2816127055945,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 29
+    },
+    {
+      "label": "EXC_C09",
+      "guid": "0677e89b-95b8-4ce9-bff1-c4c1b1e7e15f",
+      "vertices": 38,
+      "triangles": 72,
+      "volumeM3": 593.2816127056334,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 29
+    },
+    {
+      "label": "EXC_C10",
+      "guid": "a93feec5-bbc3-4ed9-9b2e-ca4743932422",
+      "vertices": 38,
+      "triangles": 72,
+      "volumeM3": 593.2816127054781,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 29
+    },
+    {
+      "label": "RMP_A01",
+      "guid": "42daf8be-ffbc-46fa-acab-7eed03580dc0",
+      "vertices": 551,
+      "triangles": 1098,
+      "volumeM3": 394.166904694978,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 24
+    },
+    {
+      "label": "REF_P01",
+      "guid": "f4dc9f5f-eea4-4e9c-9694-746d7323456f",
+      "vertices": 228,
+      "triangles": 452,
+      "volumeM3": 189.55389545243816,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "RMP_A03",
+      "guid": "0f8a40d2-485b-49ba-aa2a-c744ca594f9d",
+      "vertices": 133,
+      "triangles": 262,
+      "volumeM3": 75.08007615923027,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 24
+    },
+    {
+      "label": "BAY_P01",
+      "guid": "3290983c-1f1f-485b-a01e-a4e981c0d3ea",
+      "vertices": 893,
+      "triangles": 1782,
+      "volumeM3": 889.5409367993901,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "RMP_A05",
+      "guid": "89beca25-4f8d-4ad8-88e5-45a62281a840",
+      "vertices": 133,
+      "triangles": 262,
+      "volumeM3": 75.08007615922058,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 24
+    },
+    {
+      "label": "REF_P03",
+      "guid": "1ed3e476-d3df-4ea7-b3dd-3751a2fdc2f1",
+      "vertices": 228,
+      "triangles": 452,
+      "volumeM3": 189.55389545242846,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "RMP_A07",
+      "guid": "13b58cd9-ddd9-4666-8804-c56ffd1ea0b7",
+      "vertices": 456,
+      "triangles": 908,
+      "volumeM3": 319.08796810474206,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 24
+    },
+    {
+      "label": "REF_P04",
+      "guid": "5e219d1b-9ed8-4ce4-b7f6-2f567524c62b",
+      "vertices": 228,
+      "triangles": 452,
+      "volumeM3": 189.55389545240905,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "RMP_A09",
+      "guid": "d8fbacac-105e-4964-b3a6-9cbb6833487f",
+      "vertices": 247,
+      "triangles": 490,
+      "volumeM3": 168.92867344070692,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 24
+    },
+    {
+      "label": "BAY_P02",
+      "guid": "c3862bde-0d37-492e-beb9-b7b85f433c2f",
+      "vertices": 893,
+      "triangles": 1782,
+      "volumeM3": 889.5409367993901,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "RMP_A11",
+      "guid": "a577dbd2-b180-4b44-b508-70e700d1f030",
+      "vertices": 627,
+      "triangles": 1250,
+      "volumeM3": 450.4764625085615,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 24
+    },
+    {
+      "label": "REF_P07",
+      "guid": "13fd6f9a-e163-4f2b-a842-e0b302bec048",
+      "vertices": 228,
+      "triangles": 452,
+      "volumeM3": 189.55389545240905,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "RMP_A13",
+      "guid": "50f5918e-4036-4b3c-8542-805ec5a7abe4",
+      "vertices": 380,
+      "triangles": 756,
+      "volumeM3": 262.7784055257119,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 24
+    },
+    {
+      "label": "BAY_P03",
+      "guid": "e6f34139-a260-4b4d-ac92-d6d0620dfeb1",
+      "vertices": 893,
+      "triangles": 1782,
+      "volumeM3": 889.5409367994095,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "RMP_A15",
+      "guid": "b36a49b0-09df-4e18-931f-93e0a36dd6d5",
+      "vertices": 513,
+      "triangles": 1022,
+      "volumeM3": 356.6281125158421,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 24
+    },
+    {
+      "label": "REF_P10",
+      "guid": "6cb07d5f-84a3-45e2-a39a-ea866ac00dde",
+      "vertices": 228,
+      "triangles": 452,
+      "volumeM3": 189.55389545239936,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "RMP_A17",
+      "guid": "98fcd206-cd9a-46c7-99ff-41da7b772edf",
+      "vertices": 456,
+      "triangles": 908,
+      "volumeM3": 319.08796810471785,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 24
+    },
+    {
+      "label": "REF_P11",
+      "guid": "2a7a9399-7fb2-41bb-97b3-8e56f0886f11",
+      "vertices": 228,
+      "triangles": 452,
+      "volumeM3": 189.55389545242846,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "RMP_A19",
+      "guid": "b8ee7cb9-cebd-4f12-9cac-35dda8e91d72",
+      "vertices": 57,
+      "triangles": 110,
+      "volumeM3": 19.295655772814673,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 24
+    },
+    {
+      "label": "CX_N01_ESP",
+      "guid": "8fef2f9c-fbc6-4cd3-a501-eed89af14072",
+      "vertices": 1273,
+      "triangles": 2542,
+      "volumeM3": 858.8683026541354,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "CX_N01_ENT",
+      "guid": "b89f66d8-c874-49e5-822d-d59e3db1fdf0",
+      "vertices": 57,
+      "triangles": 110,
+      "volumeM3": 18.76743869445079,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 24
+    },
+    {
+      "label": "EST_CARGA_01",
+      "guid": "2f11d234-6a78-4f86-94a9-f900c19ae18f",
+      "vertices": 893,
+      "triangles": 1782,
+      "volumeM3": 963.1696202460056,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 27
+    },
+    {
+      "label": "CX_N01_SAL",
+      "guid": "16d323e5-1cc6-4e6e-a648-4128eb877798",
+      "vertices": 247,
+      "triangles": 490,
+      "volumeM3": 161.724914041503,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 24
+    },
+    {
+      "label": "CX_N01_CURVA",
+      "guid": "4a818885-d4f6-4083-83bc-61a709006f3e",
+      "vertices": 627,
+      "triangles": 1250,
+      "volumeM3": 212.63821950390897,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "GAL_N01",
+      "guid": "e8aa450d-1319-4e81-b103-9f5b6c92e417",
+      "vertices": 1292,
+      "triangles": 2580,
+      "volumeM3": 593.2816127056334,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 25
+    },
+    {
+      "label": "EST_N01",
+      "guid": "e26ddd39-7ad8-4f59-9a34-8479199f8177",
+      "vertices": 722,
+      "triangles": 1440,
+      "volumeM3": 220.21164959414213,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "CX_N02_ESP",
+      "guid": "3caa4814-4547-4965-ba7e-80b092b4c826",
+      "vertices": 2622,
+      "triangles": 5240,
+      "volumeM3": 1861.0452262555675,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "CX_N02_RECT",
+      "guid": "ac569b3a-cbb4-4bdd-bec1-046b79906e36",
+      "vertices": 1064,
+      "triangles": 2124,
+      "volumeM3": 773.3267879671572,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 24
+    },
+    {
+      "label": "CX_N02_CURVA",
+      "guid": "ca097283-961b-41db-bed6-e9d822903b2e",
+      "vertices": 627,
+      "triangles": 1250,
+      "volumeM3": 212.62539122313805,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "GAL_N02",
+      "guid": "7d792834-fb40-4a72-84dc-40ebe4b529e7",
+      "vertices": 1292,
+      "triangles": 2580,
+      "volumeM3": 593.2816127056298,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 25
+    },
+    {
+      "label": "EST_N02",
+      "guid": "c039876b-0deb-4dcf-a5f6-ffddf61c5fa1",
+      "vertices": 722,
+      "triangles": 1440,
+      "volumeM3": 220.2116495941397,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "CX_N03_ESP",
+      "guid": "67fa600e-65c7-4d02-b97c-abb9ed3a6871",
+      "vertices": 3211,
+      "triangles": 6418,
+      "volumeM3": 2286.8266088502132,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "CX_N03_RECT",
+      "guid": "81a10017-e3bd-4a58-abcc-178b8cf352ba",
+      "vertices": 1007,
+      "triangles": 2010,
+      "volumeM3": 728.0683075876635,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 24
+    },
+    {
+      "label": "CX_N03_CURVA",
+      "guid": "636d72ed-d288-4bbb-bc4a-bb36a3191e8f",
+      "vertices": 627,
+      "triangles": 1250,
+      "volumeM3": 212.6382195039138,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "GAL_N03",
+      "guid": "98f2c8f5-98b9-4970-bde4-f8aff235784d",
+      "vertices": 1292,
+      "triangles": 2580,
+      "volumeM3": 593.2816127056225,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 25
+    },
+    {
+      "label": "EST_N03",
+      "guid": "e9fff1f3-320e-4f3f-a915-700e454208a4",
+      "vertices": 722,
+      "triangles": 1440,
+      "volumeM3": 220.21164959414213,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "CX_N04_ESP",
+      "guid": "17ce8f24-dba1-47d7-9033-2bfb24e219b9",
+      "vertices": 1938,
+      "triangles": 3872,
+      "volumeM3": 1350.130527750521,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "CX_N04_RECT",
+      "guid": "1b524111-926a-452c-84f1-f726b4977e76",
+      "vertices": 950,
+      "triangles": 1896,
+      "volumeM3": 682.8098272080533,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 24
+    },
+    {
+      "label": "CX_N04_CURVA",
+      "guid": "70a9b7ac-5e05-4b1e-8083-fee288a2e162",
+      "vertices": 627,
+      "triangles": 1250,
+      "volumeM3": 212.6382195039429,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "GAL_N04",
+      "guid": "4843ce16-ca21-414e-a7a2-b8614e42c41a",
+      "vertices": 1292,
+      "triangles": 2580,
+      "volumeM3": 593.2816127056309,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 25
+    },
+    {
+      "label": "EST_N04",
+      "guid": "505e8d16-99ae-4344-825d-57d022e96315",
+      "vertices": 722,
+      "triangles": 1440,
+      "volumeM3": 220.21164959414213,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "CH_TRANSITO_01",
+      "guid": "023f0c27-fc62-4d7d-bcad-cf05769c743d",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 90.56596026235881,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 16
+    },
+    {
+      "label": "CX_CH_TR_N01",
+      "guid": "6b123f6a-d1b2-4bf0-92f4-3f4ca0cd8cf7",
+      "vertices": 380,
+      "triangles": 756,
+      "volumeM3": 36.4905432477511,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "CX_CH_TR_N02",
+      "guid": "f2df162e-de9d-4757-898d-3a310fb21912",
+      "vertices": 380,
+      "triangles": 756,
+      "volumeM3": 36.49054324774867,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "CX_CH_TR_N03",
+      "guid": "8b0e5106-c17a-48bc-b58a-342ec5223aff",
+      "vertices": 380,
+      "triangles": 756,
+      "volumeM3": 36.4905432477511,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "CX_CH_TR_N04",
+      "guid": "74b3228d-277c-42a5-8c35-75ad095be53e",
+      "vertices": 380,
+      "triangles": 756,
+      "volumeM3": 36.49054324774867,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "CH_VENT_01",
+      "guid": "3a79f962-08ef-4299-8da1-1e54a8c50f18",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 60.7500000000388,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 16
+    },
+    {
+      "label": "CX_CH_VT_N01",
+      "guid": "f8cb1f4f-dfeb-4c14-904c-9d02fd497fce",
+      "vertices": 380,
+      "triangles": 756,
+      "volumeM3": 29.29305652228747,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "CX_CH_VT_N02",
+      "guid": "78302094-c2ff-443e-b0cc-fa36beb34e62",
+      "vertices": 380,
+      "triangles": 756,
+      "volumeM3": 24.1054360382938,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "CX_CH_VT_N03",
+      "guid": "6dc3719d-1939-470c-a025-d44b56953193",
+      "vertices": 380,
+      "triangles": 756,
+      "volumeM3": 18.917815554290428,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "CX_CH_VT_N04",
+      "guid": "2f222f06-f11d-4274-884c-95fd4a3da132",
+      "vertices": 380,
+      "triangles": 756,
+      "volumeM3": 13.730195070299184,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 26
+    },
+    {
+      "label": "ACC_SUP_01",
+      "guid": "25dbbeca-c26c-4f64-8295-96b4b1a2c6af",
+      "vertices": 1520,
+      "triangles": 3036,
+      "volumeM3": 737.8681507535608,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 24
+    },
+    {
+      "label": "BAN_CUT_01",
+      "guid": "97d42702-df0b-4be2-85b1-26fc774cad07",
+      "vertices": 24,
+      "triangles": 44,
+      "volumeM3": 189.3769386984774,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 13
+    },
+    {
+      "label": "BAN_FILL_01",
+      "guid": "6d9cae72-bd4a-434f-83be-04b0690049db",
+      "vertices": 22,
+      "triangles": 40,
+      "volumeM3": 35.19894163016579,
+      "coordinatesAndTopologyExact": true,
+      "closed": true,
+      "nativeFields": 13
+    }
+  ],
+  "limits": [
+    "File semantics validated independently; no CAD opening/display inspection",
+    "Conceptual synthetic mine layout; not operational engineering approval",
+    "No independent collision/geotechnical/ventilation proof in this file verifier"
+  ],
+  "evidence": {
+    "original_json": {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-mecanizado\\native-output\\original_export_final.json",
+      "sha256": "1e2fc6172b0e38e8bd676a26ac67b57b735e4f805362fafbcad3471b0ee59f86"
+    },
+    "geometry_json": {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-mecanizado\\native-output\\geometria_export.json",
+      "sha256": "cf9ae1414b103744268f13c30649ee668906ee11231a4dc85a33f32ed974a7b5"
+    },
+    "attributes_json": {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-mecanizado\\native-output\\atributos_export.json",
+      "sha256": "a7f23cd13724836d3690585984bdbc714eb19db52ca69b4229c43662ccf72bc0"
+    },
+    "dxf": {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-mecanizado\\salida\\03_PILOTO_MECANIZADO_Deswik.dxf",
+      "sha256": "16b7c939fed2758a1d32f9569bcde456dffb6d0978ddbe9cdeb54079dcbbd7d5"
+    },
+    "manifest": {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-mecanizado\\salida\\Manifest_mecanizado.json",
+      "sha256": "aa0c6719fecc4bf17ac3558aefd5ccfd7606b9003dff35233493a2100f53d791"
+    },
+    "append_report": {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-mecanizado\\native-output\\mecanizado-geometria.duf.verification.json",
+      "sha256": "701e2c894b2b935ccbd9105bd8562736c9e35155b872b7b93fc8c27d627d2023"
+    },
+    "canonical_report": {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-mecanizado\\native-output\\Verificacion_integracion_canonica.json",
+      "sha256": "1e9e574b3903399bd976f0a973d4b60b6846406c55026fcd14ac43a598ecf169"
+    },
+    "attributes_report": {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-mecanizado\\native-output\\Atributos_relectura_verificacion.json",
+      "sha256": "053448a59a873aa4ad0472530a81803c54fe0a8460eaa367a0374bd502a8ff5c"
+    },
+    "layer_states": {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-mecanizado\\native-output\\Presentacion_capas.json",
+      "sha256": "3ef6b580fb1c09aee02c7064c9dfb2da1a4b62f63c6112a270bdfd9d14b05db0"
+    },
+    "final_json": {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-mecanizado\\native-output\\final_export.json",
+      "sha256": "cc324053d31339e5e5886fb6db26686b8ad0b38cb4d6281d36874782622ba542"
+    },
+    "model_reference_report": {
+      "path": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-mecanizado\\native-output\\Referencia_DM_relectura_verificacion.json",
+      "sha256": "c8d68dec80bb8efa183cc4e35157dff828922f065999a1695a802a1a5c2f0713"
+    }
+  }
+}

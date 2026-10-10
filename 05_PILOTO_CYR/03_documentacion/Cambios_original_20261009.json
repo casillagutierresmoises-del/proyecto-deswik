@@ -1,0 +1,7173 @@
+{
+  "oldEntityCount": 1407,
+  "currentEntityCount": 1407,
+  "identitiesExact": true,
+  "allOriginalModelEntityPayloadsExact": true,
+  "modelEntitiesChanged": 0,
+  "changedRows": 2,
+  "changes": [
+    {
+      "guid": "039961c7-6450-4c30-93d2-24cec20bf983",
+      "name": "_DW_SETTINGS",
+      "category": "Layers",
+      "fields": [
+        "attributes",
+        "serializedXPropsSha256",
+        "xpropNativeHash"
+      ],
+      "before": {
+        "attributes": [
+          {
+            "name": "_dw_Options_PrimaryDocumentBackground",
+            "value": [
+              {
+                "ValueInt32": -16777216
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_SavedDocumentBackground",
+            "value": [
+              {
+                "ValueInt32": -16777216
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_UseDocumentBackground",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_AlternateDocumentBackground",
+            "value": [
+              {
+                "ValueInt32": -1
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_UseAlternateDocumentBackground",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_OSnapVisibilityPrecision",
+            "value": [
+              {
+                "ValueString": "0.0001"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_Imperial",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_PolyfaceHighlightColor",
+            "value": [
+              {
+                "ValueInt32": 16776960
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_PolyfaceHighlightColorIsIndexed",
+            "value": [
+              {
+                "ValueString": "False"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_PolyfaceHighlightColorIndexed",
+            "value": [
+              {
+                "ValueInt16": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_PolylineSelectionColor2",
+            "value": [
+              {
+                "ValueInt32": -256
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_PolylineSelectionColor",
+            "value": [
+              {
+                "ValueColor": -256
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_UsePolyfaceHighlightColor",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_UsePolylineSelectionColor",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_StopeOptLicenseRefreshTime",
+            "value": [
+              {
+                "ValueInt32": 10
+              }
+            ]
+          },
+          {
+            "name": "CID_SNAPPING_OSNAPMODEVISIBILITY",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_OverLayText_Enabled",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidSelectionMode",
+            "value": [
+              {
+                "ValueInt32": 2
+              }
+            ]
+          },
+          {
+            "name": "_dw_ActivePenColor",
+            "value": [
+              {
+                "ValueInt32": -65536
+              }
+            ]
+          },
+          {
+            "name": "_dw_ActivePenColor_IsByBlock",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ActivePenColor_IsByLayer",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ActivePenColor_IsByColorIndex",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_ActivePenColor_ColorIndex",
+            "value": [
+              {
+                "ValueInt16": 9
+              }
+            ]
+          },
+          {
+            "name": "DufUseBrotliCompression",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SnappingModePreserve",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_SnappingSnapToLockedLayers",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ModelSpaceViewMode",
+            "value": [
+              {
+                "ValueInt32": 32
+              }
+            ]
+          },
+          {
+            "name": "_dw_DrawingDefault_Name",
+            "value": [
+              {
+                "ValueString": "<None>"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SelectedLayer_Model",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_ActiveLineType",
+            "value": [
+              {
+                "ValueString": "BYLAYER"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ActivePenWidth",
+            "value": [
+              {
+                "ValueDouble": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_CID_View_Clipping_NearUse",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_CID_View_Clipping_DistanceNear",
+            "value": [
+              {
+                "ValueDouble": 10
+              }
+            ]
+          },
+          {
+            "name": "_dw_CID_View_Clipping_FarUse",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_CID_View_Clipping_DistanceFar",
+            "value": [
+              {
+                "ValueDouble": 10
+              }
+            ]
+          },
+          {
+            "name": "_dw_DefaultBlocksInitialized",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_DXFPolyfacesFixed",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_LayersAdd_SetActive",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_MODEL_ActiveLayer",
+            "value": [
+              {
+                "ValueString": "03_REFERENCIAS"
+              }
+            ]
+          },
+          {
+            "name": "_dw_LayersToUnIsolate_Count",
+            "value": [
+              {
+                "ValueInt32": 4
+              }
+            ]
+          },
+          {
+            "name": "_dw_LayersToUnIsolate_[0]",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_LayersToUnIsolate_[1]",
+            "value": [
+              {
+                "ValueString": "_DW_HIDDEN_GRAPHICS"
+              }
+            ]
+          },
+          {
+            "name": "_dw_LayersToUnIsolate_[2]",
+            "value": [
+              {
+                "ValueString": "0\\LAYER01"
+              }
+            ]
+          },
+          {
+            "name": "_dw_LayersToUnIsolate_[3]",
+            "value": [
+              {
+                "ValueString": "POLILYNES"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ViewScaleX",
+            "value": [
+              {
+                "ValueString": "1"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ViewScaleY",
+            "value": [
+              {
+                "ValueString": "1"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ViewScaleZ",
+            "value": [
+              {
+                "ValueString": "1"
+              }
+            ]
+          },
+          {
+            "name": "_dw_EnableURLS",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_EnableToolTips",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "CID_SNAPPING_FORCE",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_DocContainsDDDLayers",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_BlockModelSlicing_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "IsSyncVersion",
+            "value": [
+              {
+                "ValueString": "00000000-0000-0000-0000-000000000000"
+              }
+            ]
+          },
+          {
+            "name": "_dw_FileFormatVersion",
+            "value": [
+              {
+                "ValueString": "2026.1.2"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SaveHistory",
+            "value": [
+              {
+                "ValueString": "2026-10-01 23:09:02|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\PLANEAMIENTO_UG\\PMS_2026.duf|English (United States) :: English (United States)*!*2026-10-02 10:48:43|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\PLANEAMIENTO_UG\\PMS_2026.duf|English (United States) :: English (United States)*!*2026-10-02 14:18:37|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\PLANEAMIENTO_UG\\PMS_2026.duf|English (United States) :: English (United States)*!*2026-10-02 21:26:12|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\PLANEAMIENTO_UG\\PMS_2026.duf|English (United States) :: English (United States)*!*2026-10-03 10:47:39|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\PLANEAMIENTO_UG\\PMS_2026.duf|English (United States) :: English (United States)*!*2026-10-04 14:27:15|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\PLANEAMIENTO_UG\\PMS_2026.duf|English (United States) :: English (United States)*!*2026-10-04 17:39:44|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\PLANEAMIENTO_UG\\PMS_2026.duf|English (United States) :: English (United States)*!*2026-10-04 20:41:06|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\PLANEAMIENTO_UG\\PMS_2026.duf|English (United States) :: English (United States)*!*2026-10-04 21:07:40|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\PLANEAMIENTO_UG\\PMS_2026.duf|English (United States) :: English (United States)*!*2026-10-05 00:37:43|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\PLANEAMIENTO_UG\\PMS_2026.duf|English (United States) :: English (United States)*!*2026-10-05 11:59:40|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\outputs\\PMS_2026_VETA_75_1_3m.duf|English (United States) :: English (United States)*!*2026-10-05 12:25:20|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\outputs\\PMS_2026_VETA_CON_DATOS_EJEMPLO.duf|English (United States) :: English (United States)*!*2026-10-05 12:49:04|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf|English (United States) :: English (United States)*!*2026-10-05 12:54:30|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf|English (United States) :: English (United States)*!*2026-10-05 18:44:24|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf|English (United States) :: English (United States)*!*2026-10-05 22:43:28|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf|English (United States) :: English (United States)*!*2026-10-05 23:48:22|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf|English (United States) :: English (United States)*!*2026-10-06 22:58:06|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf|English (United States) :: English (United States)*!*2026-10-08 23:10:46|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf|English (United States) :: English (United States)"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SnappingOSnapMode",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_BackgroundColourARGB",
+            "value": [
+              {
+                "ValueInt32": -16777216
+              }
+            ]
+          },
+          {
+            "name": "_dw_HiddenXREFLayers",
+            "value": [
+              {
+                "ValueString": "<HiddenSettings />"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ClipBox_Enabled",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ClipBox_Rotation",
+            "value": [
+              {
+                "ValueBaseObject": {
+                  "A00": 1,
+                  "A01": 0,
+                  "A02": 0,
+                  "A03": 0,
+                  "A10": 0,
+                  "A11": 1,
+                  "A12": 0,
+                  "A13": 0,
+                  "A20": 0,
+                  "A21": 0,
+                  "A22": 1,
+                  "A23": 0,
+                  "A30": 0,
+                  "A31": 0,
+                  "A32": 0,
+                  "A33": 1,
+                  "CurrrentVersion": 0,
+                  "UnsupportedData": null
+                }
+              }
+            ]
+          },
+          {
+            "name": "_dw_ClipBox_Scale",
+            "value": [
+              {
+                "ValueVector3_dp": {}
+              }
+            ]
+          },
+          {
+            "name": "_dw_ClipBox_Shaded",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PlaneDefintion_Shortcuts",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_Filters_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_Filters_UseGrouping",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Is3DGrid",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Visible",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_LineType",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_X_Visible",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_X_TextFormat",
+            "value": [
+              {
+                "ValueString": "#,##0\"E\""
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_X_Spacing",
+            "value": [
+              {
+                "ValueString": "25"
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_X_Color",
+            "value": [
+              {
+                "ValueInt32": -4144960
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_X_Opacity",
+            "value": [
+              {
+                "ValueByte": 255
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_X_TextHeightPercentage",
+            "value": [
+              {
+                "ValueString": "2"
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_X_DisplayText",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_X_PassingValue",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Y_Visible",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Y_TextFormat",
+            "value": [
+              {
+                "ValueString": "#,##0\"N\""
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Y_Spacing",
+            "value": [
+              {
+                "ValueString": "25"
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Y_Color",
+            "value": [
+              {
+                "ValueInt32": -4144960
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Y_Opacity",
+            "value": [
+              {
+                "ValueByte": 255
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Y_TextHeightPercentage",
+            "value": [
+              {
+                "ValueString": "2"
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Y_DisplayText",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Y_PassingValue",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Z_Visible",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Z_TextFormat",
+            "value": [
+              {
+                "ValueString": "#,##0\"RL\""
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Z_Spacing",
+            "value": [
+              {
+                "ValueString": "25"
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Z_Color",
+            "value": [
+              {
+                "ValueInt32": -4144960
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Z_Opacity",
+            "value": [
+              {
+                "ValueByte": 255
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Z_TextHeightPercentage",
+            "value": [
+              {
+                "ValueString": "2"
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Z_DisplayText",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Z_PassingValue",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_ExtrudeType",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_FixedVolume",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_VolumeValue",
+            "value": [
+              {
+                "ValueString": "100"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_VolumeAttribute",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_ElevationFixed",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_ElevationValue",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_ElevationAttribute",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Distance",
+            "value": [
+              {
+                "ValueString": "5"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_DistanceDown",
+            "value": [
+              {
+                "ValueString": "-3"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_UpFixed",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_DownFixed",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_UpAttribute",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_DownAttribute",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_DefineDirection",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Azimuth",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Dip",
+            "value": [
+              {
+                "ValueString": "90"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_EndCap",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_LimitLower",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_LimitUpper",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_LimitLowerLayer",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_LimitUpperLayer",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_ElevationUp",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_ByAzimuth",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Outside",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_EndCapElevation",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_UseStitching",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_DistanceIsVertical",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Selection_EntitySelection",
+            "value": [
+              {
+                "ValueInt32": 2
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Selection_Layers_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Selection_FiltersUse",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Selection_FilterString",
+            "value": [
+              {
+                "ValueString": "<No Filtering>"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Selection_ExternalFiles_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_ExtrusionDirFromPolyline",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Output_LayerType",
+            "value": [
+              {
+                "ValueInt32": 2
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Output_SpecifiedLayer",
+            "value": [
+              {
+                "ValueString": "SOLIDOS"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_WrapText",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_UpdateAttributes",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_UpdateProperties",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_SortAttributes",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_SortAttributeValues",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_UnGroupedAtTop",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_XYZMinimum",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_XYZMaximum",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_XYZDelta",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_XMinimum",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_XMaximum",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_XDelta",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_YMinimum",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_YMaximum",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_YDelta",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_ZMinimum",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_ZMaximum",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_ZDelta",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_Volume",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_SurfaceArea",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_VertexCount",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_FaceCount",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_Handle",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_GUID",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesEditVertices_ShowDipDegrees",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesEditVertices_ShowDipPercent",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesEditVertices_ShowDipOneIn",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesEditVertices_MaintainSegDist",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesEditVertices_AutoApply",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_DisplayWorkingPlaneGuide",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_OutputWindow_WorkingPlaneZ",
+            "value": [
+              {
+                "ValueDouble": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_LayersDeleteEmpty_DeleteImportedOrObject",
+            "value": [
+              {
+                "ValueInt32": 6
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_ConnectTolerance",
+            "value": [
+              {
+                "ValueString": "0.00499999988824129"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_BreakTolerance",
+            "value": [
+              {
+                "ValueString": "0.00499999988824129"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_BreakAtIntersections",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_ExcludeSelfIntersections",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_LayerType",
+            "value": [
+              {
+                "ValueInt32": 2
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_SpecifiedLayer",
+            "value": [
+              {
+                "ValueString": "POLILYNES\\LAYPOL"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_DeleteInputs",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_appendAttributes",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_Selection_EntitySelection",
+            "value": [
+              {
+                "ValueInt32": 2
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_Selection_Layers_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_Selection_FiltersUse",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_Selection_FilterString",
+            "value": [
+              {
+                "ValueString": "<No Filtering>"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_Selection_ExternalFiles_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_Groups_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_In2D",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineFilletInternal_Radius",
+            "value": [
+              {
+                "ValueString": "360"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineFilletInternal_PromptRadius",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineFilletInternal_CurveResolution",
+            "value": [
+              {
+                "ValueString": "0.1"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineFilletInternal_NumberOfPoints",
+            "value": [
+              {
+                "ValueInt32": 10
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineFilletInternal_FilletType",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesAutomaticallyChamferOrFillet_Selectiontype",
+            "value": [
+              {
+                "ValueInt32": 2
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesAutomaticallyChamferOrFillet_Layers_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesAutomaticallyChamferOrFillet_InsideAngleGreaterThanConstraint",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dwPolylinesAutomaticallyChamferOrFillet_InsideAngle",
+            "value": [
+              {
+                "ValueString": "180"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesAutomaticallyChamferOrFillet_MinimumAzimuthChange",
+            "value": [
+              {
+                "ValueString": "45"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesAutomaticallyChamferOrFillet_Chamfer",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesAutomaticallyChamferOrFillet_Distance1",
+            "value": [
+              {
+                "ValueString": "1"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesAutomaticallyChamferOrFillet_Distance2",
+            "value": [
+              {
+                "ValueString": "1"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesAutomaticallyChamferOrFillet_Fillet",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesAutomaticallyChamferOrFillet_Radius",
+            "value": [
+              {
+                "ValueString": "1"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesAutomaticallyChamferOrFillet_PointSpacing",
+            "value": [
+              {
+                "ValueString": "1"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineChamferInternal_DistanceStart",
+            "value": [
+              {
+                "ValueDouble": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineChamferInternal_DistanceFinish",
+            "value": [
+              {
+                "ValueDouble": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineSmoothSegments_NumPoints",
+            "value": [
+              {
+                "ValueDouble": 20
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesGradientAdjust_Gradiant",
+            "value": [
+              {
+                "ValueString": "12"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesGradientAdjust_Type",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesGradientAdjust_GradientConstant",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesGradientAdjust_MaintainSegmentLength",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesGradientAdjust_MaintainFollowingGradient",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToBoundingBox",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToBoundingBoxX",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToBoundingBoxY",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToBoundingBoxZ",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToBoundingBoxMinX",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToBoundingBoxMinY",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToBoundingBoxMinZ",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToBoundingBoxMaxX",
+            "value": [
+              {
+                "ValueString": "100"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToBoundingBoxMaxY",
+            "value": [
+              {
+                "ValueString": "100"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToBoundingBoxMaxZ",
+            "value": [
+              {
+                "ValueString": "100"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_File[0]File",
+            "value": [
+              {
+                "ValueString": "C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\Topos.csv"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_File[0]Delimiter",
+            "value": [
+              {
+                "ValueString": ","
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_File[0]DelimitersAsOne",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_File[0]HasHeader",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_File[0]XYZOrder",
+            "value": [
+              {
+                "ValueString": "0;1;2"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_FileCount",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_CropGrid",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_CreateGrid",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_GridXSpacing",
+            "value": [
+              {
+                "ValueString": "10"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_GridYSpacing",
+            "value": [
+              {
+                "ValueString": "10"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_GridExpansionDistance",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_DecimateSurfaces",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_GridLayer",
+            "value": [
+              {
+                "ValueString": "SCAN DATA\\GRID SURFACE"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_GridLayerText",
+            "value": [
+              {
+                "ValueString": "SCAN DATA\\GRID SURFACE"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LayerPerFile",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_UseMinimumPointDistance",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_MinimumPointDistance",
+            "value": [
+              {
+                "ValueString": "1"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_CreatePoints",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_IsPointCloud",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_UsePointIntensity",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_PointsLayer",
+            "value": [
+              {
+                "ValueString": "TOPODRAFIAA\\POINTS2"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_PointsLayerText",
+            "value": [
+              {
+                "ValueString": "TOPODRAFIAA\\POINTS2"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_PointStyle",
+            "value": [
+              {
+                "ValueString": "CIRCLE_CENTER"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_PointSizeType",
+            "value": [
+              {
+                "ValueString": "ABSOLUTE"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_PointSize",
+            "value": [
+              {
+                "ValueString": "0.25"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_SurfaceLayer",
+            "value": [
+              {
+                "ValueString": "TOPODRAFIAA\\SURFACE"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_SurfaceLayerText",
+            "value": [
+              {
+                "ValueString": "TOPODRAFIAA\\SURFACE"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_CreateSurface",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToPolygons",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToPolygonsInside",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_IncludePolygonsInSurface",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_PolygonLayer",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_PolygonLayerText",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_SurfaceTrim",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_TrimDist",
+            "value": [
+              {
+                "ValueString": "1000"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_TrimAngle",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_TrimInternal",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_Trim2DLength",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_SpurKeys",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_SpurCrest",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_SpurValley",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_DeleteExisting",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_TransformData",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_TransformationRule",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_TranslateOrTransform",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_XselectedCoordinate",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_YselectedCoordinate",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_ZselectedCoordinate",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_TranslateData",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_EntitySelectedFrame()Option",
+            "value": [
+              {
+                "ValueInt32": 5
+              }
+            ]
+          },
+          {
+            "name": "_dw_EntitySelectedFrame()Count",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_EntitySelectedFrame()Layer(0)",
+            "value": [
+              {
+                "ValueString": "TOPODRAFIAA\\POINTS"
+              }
+            ]
+          },
+          {
+            "name": "_dw_EntitySelectedFrame()FileCount",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_Selection_EntitySelection",
+            "value": [
+              {
+                "ValueInt32": 5
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_Selection_Layers_Count",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_Selection_Layers_[0]",
+            "value": [
+              {
+                "ValueString": "TOPODRAFIAA\\POINTS"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_Selection_FiltersUse",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_Selection_FilterString",
+            "value": [
+              {
+                "ValueString": "<No Filtering>"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_Selection_ExternalFiles_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_AutoGenerateBoundary",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_AutoGenerateBoundaryMaxLength",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_MinFlatFacents",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_Trim",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_InvertResult",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_UseBoundaries",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_RelimitBoundary",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_MaximumLength",
+            "value": [
+              {
+                "ValueString": "1000"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_MinimumAngle",
+            "value": [
+              {
+                "ValueString": "-1"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_TrimInternal",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_Trim2DLength",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_BreaklineTolerance",
+            "value": [
+              {
+                "ValueString": "0.001"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_KeySpurs",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_CrestSpurs",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_ValleySpurs",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_GroupBy_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_AttributesToTessellateOn_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_TessellateNonElevation",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_IncludeVertical",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_TessellatePlane",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_UsePenColor",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_PenColor",
+            "value": [
+              {
+                "ValueString": "129"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_PenColorTransparency",
+            "value": [
+              {
+                "ValueByte": 255
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_FlatFacetTolerance",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_PreventInternalPolylineConnection",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_Selection_EntitySelection",
+            "value": [
+              {
+                "ValueInt32": 5
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_Selection_Layers_Count",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_Selection_Layers_[0]",
+            "value": [
+              {
+                "ValueString": "TOPODRAFIAA\\POINTS"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_Selection_FiltersUse",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_Selection_FilterString",
+            "value": [
+              {
+                "ValueString": "<No Filtering>"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_Selection_ExternalFiles_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_Major2Create",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MajorColor2",
+            "value": [
+              {
+                "ValueInt32": -16744448
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_IncrementToAddMinor",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_IncrementToAddMajor",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_IncrementToAddMajor2",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MajorSpacing",
+            "value": [
+              {
+                "ValueString": "10"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MinorSpacing",
+            "value": [
+              {
+                "ValueString": "2"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MajorColor",
+            "value": [
+              {
+                "ValueInt32": -65536
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MinorColor",
+            "value": [
+              {
+                "ValueInt32": -5383962
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_LimitToPolygon",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_LimitToElevations",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MinimumElevation",
+            "value": [
+              {
+                "ValueString": "-1000"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MaximumElevation",
+            "value": [
+              {
+                "ValueString": "1000"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_PassingElevation",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_GenerateMinor",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MajorDistance",
+            "value": [
+              {
+                "ValueString": "200"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MinorDistance",
+            "value": [
+              {
+                "ValueString": "200"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MajorAnnotate",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MinorAnnotate",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MajorTextSize",
+            "value": [
+              {
+                "ValueString": "7"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MinorTextSize",
+            "value": [
+              {
+                "ValueString": "5"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MajorFormat",
+            "value": [
+              {
+                "ValueString": "#,##0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MinorFormat",
+            "value": [
+              {
+                "ValueString": "#,##0.0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_EntitySelectedFrame(_dw_SolidsSlice)Option",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_EntitySelectedFrame(_dw_SolidsSlice)Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_EntitySelectedFrame(_dw_SolidsSlice)FileCount",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice__PlaneDefinitions_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_HonorHatchProperties",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_Attribute",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_AttributeUse",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_DataExtents",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_NoSplits",
+            "value": [
+              {
+                "ValueInt32": 1000
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_Increment",
+            "value": [
+              {
+                "ValueString": "10"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_PlaneConstant",
+            "value": [
+              {
+                "ValueString": "Plan"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_Elevation",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_KeepRemnants",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_UseVariable",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_SliceToSpacing",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_UpperElevationAtt",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_LowerElevationAtt",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_SplitToHeight",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_SplitHeightAtt",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_SelectionType",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_SelectionLayers_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_SelectionFiles_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_NoVariableSplits",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_PlacePlanes",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_UsePlaneName",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_PlaceLayers",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_AlongPolylineSpacing",
+            "value": [
+              {
+                "ValueString": "10"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_AlongPolylineDip",
+            "value": [
+              {
+                "ValueString": "90"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_AlongPolylineRelative",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_AlongPolylineHandle",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_AlongPolylineGUID",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_PromptForPolyline",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_SetOutputLayer",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_OutputLayer",
+            "value": [
+              {
+                "ValueString": "TOPODRAFIAA\\SLICES7"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_IsElevationAttribute",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_ElevationAttribute",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_UseMeshMethod",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_GroupBy_[0]",
+            "value": [
+              {
+                "ValueString": "*LayerName"
+              }
+            ]
+          },
+          {
+            "name": "DufPreserve2dRenderingOrder",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "X_ENTITIES_COUNT",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_DocFixedForErrors_1",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "CID_FORMAT_DISPLAYDYNAMICSLICE",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "CID_FORMAT_DISPLAYMODELEXTENTS",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_LastWorkFlow",
+            "value": [
+              {
+                "ValueString": "DEFAULT"
+              }
+            ]
+          },
+          {
+            "name": "_dw_LoadedPlugin_Names_Count",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_LoadedPlugin_Names_[0]",
+            "value": [
+              {
+                "ValueString": "Deswik.Addin"
+              }
+            ]
+          },
+          {
+            "name": "_dw_LoadedPlugin_StartupClasses_Count",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_LoadedPlugin_StartupClasses_[0]",
+            "value": [
+              {
+                "ValueString": "DeswikMcpAddin"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_File",
+            "value": [
+              {
+                "ValueString": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\outputs\\Veta_75_ESE_solido_1_3m.dxf"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_TransformationRule",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_Invert",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_Use",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_UpdateBlocks",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_UseDefaultLoader",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_BuildAttributes",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_IncludeFilenameInParentLayer",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_ImportAsReference",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_ImportAsSingleLayer",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_CollapseToParent",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_fAttributesFromFormula_ShowProperties",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_HeaderLinesToIgnore",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_DataField",
+            "value": [
+              {
+                "ValueString": "HANDLE"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_KeyField",
+            "value": [
+              {
+                "ValueString": "*Handle"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_File",
+            "value": [
+              {
+                "ValueString": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\01_datos\\Veta_atributos_ejemplo.csv"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FileType",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_EntitySelectionParameters_EntitySelection",
+            "value": [
+              {
+                "ValueInt32": 2
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_EntitySelectionParameters_Layers_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_EntitySelectionParameters_FiltersUse",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_EntitySelectionParameters_FilterString",
+            "value": [
+              {
+                "ValueString": "<No Filtering>"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_EntitySelectionParameters_ExternalFiles_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_ImportAll",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_CaseSensitive",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_SheetName",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_Count",
+            "value": [
+              {
+                "ValueInt32": 16
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[0]",
+            "value": [
+              {
+                "ValueString": "HANDLE"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[1]",
+            "value": [
+              {
+                "ValueString": "VETA_ID"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[2]",
+            "value": [
+              {
+                "ValueString": "ESTADO_DATOS"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[3]",
+            "value": [
+              {
+                "ValueString": "AU_G_T_EJEMPLO"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[4]",
+            "value": [
+              {
+                "ValueString": "AG_G_T_EJEMPLO"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[5]",
+            "value": [
+              {
+                "ValueString": "DENSIDAD_T_M3_EJEMPLO"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[6]",
+            "value": [
+              {
+                "ValueString": "BUZAMIENTO_DEG"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[7]",
+            "value": [
+              {
+                "ValueString": "AZIMUT_BUZ_DEG"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[8]",
+            "value": [
+              {
+                "ValueString": "POT_MIN_M"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[9]",
+            "value": [
+              {
+                "ValueString": "POT_MAX_M"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[10]",
+            "value": [
+              {
+                "ValueString": "PROF_VERTICAL_M"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[11]",
+            "value": [
+              {
+                "ValueString": "VOLUMEN_M3"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[12]",
+            "value": [
+              {
+                "ValueString": "TONELAJE_T_EJEMPLO"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[13]",
+            "value": [
+              {
+                "ValueString": "ORIGEN_LEYES"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[14]",
+            "value": [
+              {
+                "ValueString": "CLASIFICACION"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[15]",
+            "value": [
+              {
+                "ValueString": "VERSION_DATOS"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[0]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[1]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[2]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[3]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[4]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[5]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[6]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[7]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[8]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[9]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[10]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[11]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[12]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[13]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[14]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[15]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_Multi_Layer_Temp_Configurations1",
+            "value": [
+              {
+                "ValueString": "list:Deswik.Graphics.LayerObjects.MultiLayerAnnotations.MultiLayerAnnotationConfiguration"
+              }
+            ]
+          },
+          {
+            "name": "_Multi_Layer_Temp",
+            "value": [
+              {
+                "ValueString": "instance:Deswik.Graphics.LayerObjects.MultiLayerAnnotations.MultiLayerAnnotationLogic+MultiLayerTemp"
+              }
+            ]
+          },
+          {
+            "name": "LayerVisible[MODEL]",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_LayerVisibilityType",
+            "value": [
+              {
+                "ValueInt32": 2
+              }
+            ]
+          }
+        ],
+        "serializedXPropsSha256": "B9390F5498A7F85CA98033C0ABE5309E6A787AB8939A572350AAB45F0CDB6014",
+        "xpropNativeHash": "AA48F992E1952A80"
+      },
+      "after": {
+        "attributes": [
+          {
+            "name": "_dw_Options_PrimaryDocumentBackground",
+            "value": [
+              {
+                "ValueInt32": -16777216
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_SavedDocumentBackground",
+            "value": [
+              {
+                "ValueInt32": -16777216
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_UseDocumentBackground",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_AlternateDocumentBackground",
+            "value": [
+              {
+                "ValueInt32": -1
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_UseAlternateDocumentBackground",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_OSnapVisibilityPrecision",
+            "value": [
+              {
+                "ValueString": "0.0001"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_Imperial",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_PolyfaceHighlightColor",
+            "value": [
+              {
+                "ValueInt32": 16776960
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_PolyfaceHighlightColorIsIndexed",
+            "value": [
+              {
+                "ValueString": "False"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_PolyfaceHighlightColorIndexed",
+            "value": [
+              {
+                "ValueInt16": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_PolylineSelectionColor2",
+            "value": [
+              {
+                "ValueInt32": -256
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_PolylineSelectionColor",
+            "value": [
+              {
+                "ValueColor": -256
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_UsePolyfaceHighlightColor",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_UsePolylineSelectionColor",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Options_StopeOptLicenseRefreshTime",
+            "value": [
+              {
+                "ValueInt32": 10
+              }
+            ]
+          },
+          {
+            "name": "CID_SNAPPING_OSNAPMODEVISIBILITY",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_OverLayText_Enabled",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidSelectionMode",
+            "value": [
+              {
+                "ValueInt32": 2
+              }
+            ]
+          },
+          {
+            "name": "_dw_ActivePenColor",
+            "value": [
+              {
+                "ValueInt32": -65536
+              }
+            ]
+          },
+          {
+            "name": "_dw_ActivePenColor_IsByBlock",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ActivePenColor_IsByLayer",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ActivePenColor_IsByColorIndex",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_ActivePenColor_ColorIndex",
+            "value": [
+              {
+                "ValueInt16": 9
+              }
+            ]
+          },
+          {
+            "name": "DufUseBrotliCompression",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SnappingModePreserve",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_SnappingSnapToLockedLayers",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ModelSpaceViewMode",
+            "value": [
+              {
+                "ValueInt32": 32
+              }
+            ]
+          },
+          {
+            "name": "_dw_DrawingDefault_Name",
+            "value": [
+              {
+                "ValueString": "<None>"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SelectedLayer_Model",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_ActiveLineType",
+            "value": [
+              {
+                "ValueString": "BYLAYER"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ActivePenWidth",
+            "value": [
+              {
+                "ValueDouble": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_CID_View_Clipping_NearUse",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_CID_View_Clipping_DistanceNear",
+            "value": [
+              {
+                "ValueDouble": 10
+              }
+            ]
+          },
+          {
+            "name": "_dw_CID_View_Clipping_FarUse",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_CID_View_Clipping_DistanceFar",
+            "value": [
+              {
+                "ValueDouble": 10
+              }
+            ]
+          },
+          {
+            "name": "_dw_DefaultBlocksInitialized",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_DXFPolyfacesFixed",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_LayersAdd_SetActive",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_MODEL_ActiveLayer",
+            "value": [
+              {
+                "ValueString": "03_REFERENCIAS"
+              }
+            ]
+          },
+          {
+            "name": "_dw_LayersToUnIsolate_Count",
+            "value": [
+              {
+                "ValueInt32": 4
+              }
+            ]
+          },
+          {
+            "name": "_dw_LayersToUnIsolate_[0]",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_LayersToUnIsolate_[1]",
+            "value": [
+              {
+                "ValueString": "_DW_HIDDEN_GRAPHICS"
+              }
+            ]
+          },
+          {
+            "name": "_dw_LayersToUnIsolate_[2]",
+            "value": [
+              {
+                "ValueString": "0\\LAYER01"
+              }
+            ]
+          },
+          {
+            "name": "_dw_LayersToUnIsolate_[3]",
+            "value": [
+              {
+                "ValueString": "POLILYNES"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ViewScaleX",
+            "value": [
+              {
+                "ValueString": "1"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ViewScaleY",
+            "value": [
+              {
+                "ValueString": "1"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ViewScaleZ",
+            "value": [
+              {
+                "ValueString": "1"
+              }
+            ]
+          },
+          {
+            "name": "_dw_EnableURLS",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_EnableToolTips",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "CID_SNAPPING_FORCE",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_DocContainsDDDLayers",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_BlockModelSlicing_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "IsSyncVersion",
+            "value": [
+              {
+                "ValueString": "00000000-0000-0000-0000-000000000000"
+              }
+            ]
+          },
+          {
+            "name": "_dw_FileFormatVersion",
+            "value": [
+              {
+                "ValueString": "2026.1.2"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SaveHistory",
+            "value": [
+              {
+                "ValueString": "2026-10-01 23:09:02|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\PLANEAMIENTO_UG\\PMS_2026.duf|English (United States) :: English (United States)*!*2026-10-02 10:48:43|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\PLANEAMIENTO_UG\\PMS_2026.duf|English (United States) :: English (United States)*!*2026-10-02 14:18:37|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\PLANEAMIENTO_UG\\PMS_2026.duf|English (United States) :: English (United States)*!*2026-10-02 21:26:12|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\PLANEAMIENTO_UG\\PMS_2026.duf|English (United States) :: English (United States)*!*2026-10-03 10:47:39|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\PLANEAMIENTO_UG\\PMS_2026.duf|English (United States) :: English (United States)*!*2026-10-04 14:27:15|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\PLANEAMIENTO_UG\\PMS_2026.duf|English (United States) :: English (United States)*!*2026-10-04 17:39:44|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\PLANEAMIENTO_UG\\PMS_2026.duf|English (United States) :: English (United States)*!*2026-10-04 20:41:06|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\PLANEAMIENTO_UG\\PMS_2026.duf|English (United States) :: English (United States)*!*2026-10-04 21:07:40|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\PLANEAMIENTO_UG\\PMS_2026.duf|English (United States) :: English (United States)*!*2026-10-05 00:37:43|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\PLANEAMIENTO_UG\\PMS_2026.duf|English (United States) :: English (United States)*!*2026-10-05 11:59:40|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\outputs\\PMS_2026_VETA_75_1_3m.duf|English (United States) :: English (United States)*!*2026-10-05 12:25:20|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\outputs\\PMS_2026_VETA_CON_DATOS_EJEMPLO.duf|English (United States) :: English (United States)*!*2026-10-05 12:49:04|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf|English (United States) :: English (United States)*!*2026-10-05 12:54:30|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf|English (United States) :: English (United States)*!*2026-10-05 18:44:24|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf|English (United States) :: English (United States)*!*2026-10-05 22:43:28|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf|English (United States) :: English (United States)*!*2026-10-05 23:48:22|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf|English (United States) :: English (United States)*!*2026-10-06 22:58:06|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf|English (United States) :: English (United States)*!*2026-10-08 23:10:46|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf|English (United States) :: English (United States)*!*2026-10-08 23:38:00|moise|2026.1.2309+ef3e7fed30|C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf|English (United States) :: English (United States)"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SnappingOSnapMode",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_BackgroundColourARGB",
+            "value": [
+              {
+                "ValueInt32": -16777216
+              }
+            ]
+          },
+          {
+            "name": "_dw_HiddenXREFLayers",
+            "value": [
+              {
+                "ValueString": "<HiddenSettings />"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ClipBox_Enabled",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ClipBox_Rotation",
+            "value": [
+              {
+                "ValueBaseObject": {
+                  "A00": 1,
+                  "A01": 0,
+                  "A02": 0,
+                  "A03": 0,
+                  "A10": 0,
+                  "A11": 1,
+                  "A12": 0,
+                  "A13": 0,
+                  "A20": 0,
+                  "A21": 0,
+                  "A22": 1,
+                  "A23": 0,
+                  "A30": 0,
+                  "A31": 0,
+                  "A32": 0,
+                  "A33": 1,
+                  "CurrrentVersion": 0,
+                  "UnsupportedData": null
+                }
+              }
+            ]
+          },
+          {
+            "name": "_dw_ClipBox_Scale",
+            "value": [
+              {
+                "ValueVector3_dp": {}
+              }
+            ]
+          },
+          {
+            "name": "_dw_ClipBox_Shaded",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PlaneDefintion_Shortcuts",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_Filters_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_Filters_UseGrouping",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Is3DGrid",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Visible",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_LineType",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_X_Visible",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_X_TextFormat",
+            "value": [
+              {
+                "ValueString": "#,##0\"E\""
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_X_Spacing",
+            "value": [
+              {
+                "ValueString": "25"
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_X_Color",
+            "value": [
+              {
+                "ValueInt32": -4144960
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_X_Opacity",
+            "value": [
+              {
+                "ValueByte": 255
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_X_TextHeightPercentage",
+            "value": [
+              {
+                "ValueString": "2"
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_X_DisplayText",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_X_PassingValue",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Y_Visible",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Y_TextFormat",
+            "value": [
+              {
+                "ValueString": "#,##0\"N\""
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Y_Spacing",
+            "value": [
+              {
+                "ValueString": "25"
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Y_Color",
+            "value": [
+              {
+                "ValueInt32": -4144960
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Y_Opacity",
+            "value": [
+              {
+                "ValueByte": 255
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Y_TextHeightPercentage",
+            "value": [
+              {
+                "ValueString": "2"
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Y_DisplayText",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Y_PassingValue",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Z_Visible",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Z_TextFormat",
+            "value": [
+              {
+                "ValueString": "#,##0\"RL\""
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Z_Spacing",
+            "value": [
+              {
+                "ValueString": "25"
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Z_Color",
+            "value": [
+              {
+                "ValueInt32": -4144960
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Z_Opacity",
+            "value": [
+              {
+                "ValueByte": 255
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Z_TextHeightPercentage",
+            "value": [
+              {
+                "ValueString": "2"
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Z_DisplayText",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_CoordinateGrid_Z_PassingValue",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_ExtrudeType",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_FixedVolume",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_VolumeValue",
+            "value": [
+              {
+                "ValueString": "100"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_VolumeAttribute",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_ElevationFixed",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_ElevationValue",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_ElevationAttribute",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Distance",
+            "value": [
+              {
+                "ValueString": "5"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_DistanceDown",
+            "value": [
+              {
+                "ValueString": "-3"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_UpFixed",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_DownFixed",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_UpAttribute",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_DownAttribute",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_DefineDirection",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Azimuth",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Dip",
+            "value": [
+              {
+                "ValueString": "90"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_EndCap",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_LimitLower",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_LimitUpper",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_LimitLowerLayer",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_LimitUpperLayer",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_ElevationUp",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_ByAzimuth",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Outside",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_EndCapElevation",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_UseStitching",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_DistanceIsVertical",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Selection_EntitySelection",
+            "value": [
+              {
+                "ValueInt32": 2
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Selection_Layers_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Selection_FiltersUse",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Selection_FilterString",
+            "value": [
+              {
+                "ValueString": "<No Filtering>"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Selection_ExternalFiles_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_ExtrusionDirFromPolyline",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Output_LayerType",
+            "value": [
+              {
+                "ValueInt32": 2
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineExtrudeToSolid_Output_SpecifiedLayer",
+            "value": [
+              {
+                "ValueString": "SOLIDOS"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_WrapText",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_UpdateAttributes",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_UpdateProperties",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_SortAttributes",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_SortAttributeValues",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_UnGroupedAtTop",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_XYZMinimum",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_XYZMaximum",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_XYZDelta",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_XMinimum",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_XMaximum",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_XDelta",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_YMinimum",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_YMaximum",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_YDelta",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_ZMinimum",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_ZMaximum",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_ZDelta",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_Volume",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_SurfaceArea",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_VertexCount",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_FaceCount",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_Handle",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesWindow_GUID",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesEditVertices_ShowDipDegrees",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesEditVertices_ShowDipPercent",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesEditVertices_ShowDipOneIn",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesEditVertices_MaintainSegDist",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PropertiesEditVertices_AutoApply",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_DisplayWorkingPlaneGuide",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_OutputWindow_WorkingPlaneZ",
+            "value": [
+              {
+                "ValueDouble": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_LayersDeleteEmpty_DeleteImportedOrObject",
+            "value": [
+              {
+                "ValueInt32": 6
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_ConnectTolerance",
+            "value": [
+              {
+                "ValueString": "0.00499999988824129"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_BreakTolerance",
+            "value": [
+              {
+                "ValueString": "0.00499999988824129"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_BreakAtIntersections",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_ExcludeSelfIntersections",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_LayerType",
+            "value": [
+              {
+                "ValueInt32": 2
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_SpecifiedLayer",
+            "value": [
+              {
+                "ValueString": "POLILYNES\\LAYPOL"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_DeleteInputs",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_appendAttributes",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_Selection_EntitySelection",
+            "value": [
+              {
+                "ValueInt32": 2
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_Selection_Layers_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_Selection_FiltersUse",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_Selection_FilterString",
+            "value": [
+              {
+                "ValueString": "<No Filtering>"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_Selection_ExternalFiles_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_Groups_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesConnectAutomatically_In2D",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineFilletInternal_Radius",
+            "value": [
+              {
+                "ValueString": "360"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineFilletInternal_PromptRadius",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineFilletInternal_CurveResolution",
+            "value": [
+              {
+                "ValueString": "0.1"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineFilletInternal_NumberOfPoints",
+            "value": [
+              {
+                "ValueInt32": 10
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineFilletInternal_FilletType",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesAutomaticallyChamferOrFillet_Selectiontype",
+            "value": [
+              {
+                "ValueInt32": 2
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesAutomaticallyChamferOrFillet_Layers_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesAutomaticallyChamferOrFillet_InsideAngleGreaterThanConstraint",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dwPolylinesAutomaticallyChamferOrFillet_InsideAngle",
+            "value": [
+              {
+                "ValueString": "180"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesAutomaticallyChamferOrFillet_MinimumAzimuthChange",
+            "value": [
+              {
+                "ValueString": "45"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesAutomaticallyChamferOrFillet_Chamfer",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesAutomaticallyChamferOrFillet_Distance1",
+            "value": [
+              {
+                "ValueString": "1"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesAutomaticallyChamferOrFillet_Distance2",
+            "value": [
+              {
+                "ValueString": "1"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesAutomaticallyChamferOrFillet_Fillet",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesAutomaticallyChamferOrFillet_Radius",
+            "value": [
+              {
+                "ValueString": "1"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesAutomaticallyChamferOrFillet_PointSpacing",
+            "value": [
+              {
+                "ValueString": "1"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineChamferInternal_DistanceStart",
+            "value": [
+              {
+                "ValueDouble": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineChamferInternal_DistanceFinish",
+            "value": [
+              {
+                "ValueDouble": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylineSmoothSegments_NumPoints",
+            "value": [
+              {
+                "ValueDouble": 20
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesGradientAdjust_Gradiant",
+            "value": [
+              {
+                "ValueString": "12"
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesGradientAdjust_Type",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesGradientAdjust_GradientConstant",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesGradientAdjust_MaintainSegmentLength",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_PolylinesGradientAdjust_MaintainFollowingGradient",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToBoundingBox",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToBoundingBoxX",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToBoundingBoxY",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToBoundingBoxZ",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToBoundingBoxMinX",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToBoundingBoxMinY",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToBoundingBoxMinZ",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToBoundingBoxMaxX",
+            "value": [
+              {
+                "ValueString": "100"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToBoundingBoxMaxY",
+            "value": [
+              {
+                "ValueString": "100"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToBoundingBoxMaxZ",
+            "value": [
+              {
+                "ValueString": "100"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_File[0]File",
+            "value": [
+              {
+                "ValueString": "C:\\Users\\moise\\OneDrive\\Escritorio\\CURSO_DESWIK_LAING-MINERIA\\Topos.csv"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_File[0]Delimiter",
+            "value": [
+              {
+                "ValueString": ","
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_File[0]DelimitersAsOne",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_File[0]HasHeader",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_File[0]XYZOrder",
+            "value": [
+              {
+                "ValueString": "0;1;2"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_FileCount",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_CropGrid",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_CreateGrid",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_GridXSpacing",
+            "value": [
+              {
+                "ValueString": "10"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_GridYSpacing",
+            "value": [
+              {
+                "ValueString": "10"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_GridExpansionDistance",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_DecimateSurfaces",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_GridLayer",
+            "value": [
+              {
+                "ValueString": "SCAN DATA\\GRID SURFACE"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_GridLayerText",
+            "value": [
+              {
+                "ValueString": "SCAN DATA\\GRID SURFACE"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LayerPerFile",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_UseMinimumPointDistance",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_MinimumPointDistance",
+            "value": [
+              {
+                "ValueString": "1"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_CreatePoints",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_IsPointCloud",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_UsePointIntensity",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_PointsLayer",
+            "value": [
+              {
+                "ValueString": "TOPODRAFIAA\\POINTS2"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_PointsLayerText",
+            "value": [
+              {
+                "ValueString": "TOPODRAFIAA\\POINTS2"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_PointStyle",
+            "value": [
+              {
+                "ValueString": "CIRCLE_CENTER"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_PointSizeType",
+            "value": [
+              {
+                "ValueString": "ABSOLUTE"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_PointSize",
+            "value": [
+              {
+                "ValueString": "0.25"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_SurfaceLayer",
+            "value": [
+              {
+                "ValueString": "TOPODRAFIAA\\SURFACE"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_SurfaceLayerText",
+            "value": [
+              {
+                "ValueString": "TOPODRAFIAA\\SURFACE"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_CreateSurface",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToPolygons",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_LimitToPolygonsInside",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_IncludePolygonsInSurface",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_PolygonLayer",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_PolygonLayerText",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_SurfaceTrim",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_TrimDist",
+            "value": [
+              {
+                "ValueString": "1000"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_TrimAngle",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_TrimInternal",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_Trim2DLength",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_SpurKeys",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_SpurCrest",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_SpurValley",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_DeleteExisting",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_TransformData",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_TransformationRule",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_TranslateOrTransform",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_XselectedCoordinate",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_YselectedCoordinate",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_ZselectedCoordinate",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_Importxyz_TranslateData",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_EntitySelectedFrame()Option",
+            "value": [
+              {
+                "ValueInt32": 5
+              }
+            ]
+          },
+          {
+            "name": "_dw_EntitySelectedFrame()Count",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_EntitySelectedFrame()Layer(0)",
+            "value": [
+              {
+                "ValueString": "TOPODRAFIAA\\POINTS"
+              }
+            ]
+          },
+          {
+            "name": "_dw_EntitySelectedFrame()FileCount",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_Selection_EntitySelection",
+            "value": [
+              {
+                "ValueInt32": 5
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_Selection_Layers_Count",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_Selection_Layers_[0]",
+            "value": [
+              {
+                "ValueString": "TOPODRAFIAA\\POINTS"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_Selection_FiltersUse",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_Selection_FilterString",
+            "value": [
+              {
+                "ValueString": "<No Filtering>"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_Selection_ExternalFiles_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_AutoGenerateBoundary",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_AutoGenerateBoundaryMaxLength",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_MinFlatFacents",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_Trim",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_InvertResult",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_UseBoundaries",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_RelimitBoundary",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_MaximumLength",
+            "value": [
+              {
+                "ValueString": "1000"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_MinimumAngle",
+            "value": [
+              {
+                "ValueString": "-1"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_TrimInternal",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_Trim2DLength",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_BreaklineTolerance",
+            "value": [
+              {
+                "ValueString": "0.001"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_KeySpurs",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_CrestSpurs",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_ValleySpurs",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_GroupBy_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_AttributesToTessellateOn_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_TessellateNonElevation",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_IncludeVertical",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_TessellatePlane",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_UsePenColor",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_PenColor",
+            "value": [
+              {
+                "ValueString": "129"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_PenColorTransparency",
+            "value": [
+              {
+                "ValueByte": 255
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_FlatFacetTolerance",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_PreventInternalPolylineConnection",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_Selection_EntitySelection",
+            "value": [
+              {
+                "ValueInt32": 5
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_Selection_Layers_Count",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_Selection_Layers_[0]",
+            "value": [
+              {
+                "ValueString": "TOPODRAFIAA\\POINTS"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_Selection_FiltersUse",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_Selection_FilterString",
+            "value": [
+              {
+                "ValueString": "<No Filtering>"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_Selection_ExternalFiles_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_Major2Create",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MajorColor2",
+            "value": [
+              {
+                "ValueInt32": -16744448
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_IncrementToAddMinor",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_IncrementToAddMajor",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_IncrementToAddMajor2",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MajorSpacing",
+            "value": [
+              {
+                "ValueString": "10"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MinorSpacing",
+            "value": [
+              {
+                "ValueString": "2"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MajorColor",
+            "value": [
+              {
+                "ValueInt32": -65536
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MinorColor",
+            "value": [
+              {
+                "ValueInt32": -5383962
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_LimitToPolygon",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_LimitToElevations",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MinimumElevation",
+            "value": [
+              {
+                "ValueString": "-1000"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MaximumElevation",
+            "value": [
+              {
+                "ValueString": "1000"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_PassingElevation",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_GenerateMinor",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MajorDistance",
+            "value": [
+              {
+                "ValueString": "200"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MinorDistance",
+            "value": [
+              {
+                "ValueString": "200"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MajorAnnotate",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MinorAnnotate",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MajorTextSize",
+            "value": [
+              {
+                "ValueString": "7"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MinorTextSize",
+            "value": [
+              {
+                "ValueString": "5"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MajorFormat",
+            "value": [
+              {
+                "ValueString": "#,##0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsContour_MinorFormat",
+            "value": [
+              {
+                "ValueString": "#,##0.0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_EntitySelectedFrame(_dw_SolidsSlice)Option",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_EntitySelectedFrame(_dw_SolidsSlice)Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_EntitySelectedFrame(_dw_SolidsSlice)FileCount",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice__PlaneDefinitions_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_HonorHatchProperties",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_Attribute",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_AttributeUse",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_DataExtents",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_NoSplits",
+            "value": [
+              {
+                "ValueInt32": 1000
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_Increment",
+            "value": [
+              {
+                "ValueString": "10"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_PlaneConstant",
+            "value": [
+              {
+                "ValueString": "Plan"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_Elevation",
+            "value": [
+              {
+                "ValueString": "0"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_KeepRemnants",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_UseVariable",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_SliceToSpacing",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_UpperElevationAtt",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_LowerElevationAtt",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_SplitToHeight",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_SplitHeightAtt",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_SelectionType",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_SelectionLayers_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_SelectionFiles_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_NoVariableSplits",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_PlacePlanes",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_UsePlaneName",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_PlaceLayers",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_AlongPolylineSpacing",
+            "value": [
+              {
+                "ValueString": "10"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_AlongPolylineDip",
+            "value": [
+              {
+                "ValueString": "90"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_AlongPolylineRelative",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_AlongPolylineHandle",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_AlongPolylineGUID",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_PromptForPolyline",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_SetOutputLayer",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_OutputLayer",
+            "value": [
+              {
+                "ValueString": "TOPODRAFIAA\\SLICES7"
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_IsElevationAttribute",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_ElevationAttribute",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_SolidsSlice_UseMeshMethod",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_Tesselation_GroupBy_[0]",
+            "value": [
+              {
+                "ValueString": "*LayerName"
+              }
+            ]
+          },
+          {
+            "name": "DufPreserve2dRenderingOrder",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "X_ENTITIES_COUNT",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_DocFixedForErrors_1",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "CID_FORMAT_DISPLAYDYNAMICSLICE",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "CID_FORMAT_DISPLAYMODELEXTENTS",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_LastWorkFlow",
+            "value": [
+              {
+                "ValueString": "DEFAULT"
+              }
+            ]
+          },
+          {
+            "name": "_dw_LoadedPlugin_Names_Count",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_LoadedPlugin_Names_[0]",
+            "value": [
+              {
+                "ValueString": "Deswik.Addin"
+              }
+            ]
+          },
+          {
+            "name": "_dw_LoadedPlugin_StartupClasses_Count",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_LoadedPlugin_StartupClasses_[0]",
+            "value": [
+              {
+                "ValueString": "DeswikMcpAddin"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_File",
+            "value": [
+              {
+                "ValueString": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\outputs\\Veta_75_ESE_solido_1_3m.dxf"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_TransformationRule",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_Invert",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_Use",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_UpdateBlocks",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_UseDefaultLoader",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_BuildAttributes",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_IncludeFilenameInParentLayer",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_ImportAsReference",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_ImportAsSingleLayer",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportCAD_CollapseToParent",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_fAttributesFromFormula_ShowProperties",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_HeaderLinesToIgnore",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_DataField",
+            "value": [
+              {
+                "ValueString": "HANDLE"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_KeyField",
+            "value": [
+              {
+                "ValueString": "*Handle"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_File",
+            "value": [
+              {
+                "ValueString": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\01_datos\\Veta_atributos_ejemplo.csv"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FileType",
+            "value": [
+              {
+                "ValueInt32": 1
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_EntitySelectionParameters_EntitySelection",
+            "value": [
+              {
+                "ValueInt32": 2
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_EntitySelectionParameters_Layers_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_EntitySelectionParameters_FiltersUse",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_EntitySelectionParameters_FilterString",
+            "value": [
+              {
+                "ValueString": "<No Filtering>"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_EntitySelectionParameters_ExternalFiles_Count",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_ImportAll",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_CaseSensitive",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_SheetName",
+            "value": [
+              {
+                "ValueString": ""
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_Count",
+            "value": [
+              {
+                "ValueInt32": 16
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[0]",
+            "value": [
+              {
+                "ValueString": "HANDLE"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[1]",
+            "value": [
+              {
+                "ValueString": "VETA_ID"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[2]",
+            "value": [
+              {
+                "ValueString": "ESTADO_DATOS"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[3]",
+            "value": [
+              {
+                "ValueString": "AU_G_T_EJEMPLO"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[4]",
+            "value": [
+              {
+                "ValueString": "AG_G_T_EJEMPLO"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[5]",
+            "value": [
+              {
+                "ValueString": "DENSIDAD_T_M3_EJEMPLO"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[6]",
+            "value": [
+              {
+                "ValueString": "BUZAMIENTO_DEG"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[7]",
+            "value": [
+              {
+                "ValueString": "AZIMUT_BUZ_DEG"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[8]",
+            "value": [
+              {
+                "ValueString": "POT_MIN_M"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[9]",
+            "value": [
+              {
+                "ValueString": "POT_MAX_M"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[10]",
+            "value": [
+              {
+                "ValueString": "PROF_VERTICAL_M"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[11]",
+            "value": [
+              {
+                "ValueString": "VOLUMEN_M3"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[12]",
+            "value": [
+              {
+                "ValueString": "TONELAJE_T_EJEMPLO"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[13]",
+            "value": [
+              {
+                "ValueString": "ORIGEN_LEYES"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[14]",
+            "value": [
+              {
+                "ValueString": "CLASIFICACION"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImport_[15]",
+            "value": [
+              {
+                "ValueString": "VERSION_DATOS"
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[0]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[1]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[2]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[3]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[4]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[5]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[6]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[7]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[8]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[9]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[10]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[11]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[12]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[13]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[14]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_ImportAttributes_FieldsToImportType[15]",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_Multi_Layer_Temp_Configurations1",
+            "value": [
+              {
+                "ValueString": "list:Deswik.Graphics.LayerObjects.MultiLayerAnnotations.MultiLayerAnnotationConfiguration"
+              }
+            ]
+          },
+          {
+            "name": "_Multi_Layer_Temp",
+            "value": [
+              {
+                "ValueString": "instance:Deswik.Graphics.LayerObjects.MultiLayerAnnotations.MultiLayerAnnotationLogic+MultiLayerTemp"
+              }
+            ]
+          },
+          {
+            "name": "LayerVisible[MODEL]",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_LayerVisibilityType",
+            "value": [
+              {
+                "ValueInt32": 2
+              }
+            ]
+          }
+        ],
+        "serializedXPropsSha256": "98B04169224994A37B1A778BC2330C8D6261A6664760F8276D4B87AD533FEEF9",
+        "xpropNativeHash": "FE2FBD0CAF751E11"
+      }
+    },
+    {
+      "guid": "e428aba7-11eb-4e55-84ab-3b59f79d07b8",
+      "name": "_DW_HIDDEN_GRAPHICS",
+      "category": "Layers",
+      "fields": [
+        "attributes",
+        "serializedXPropsSha256",
+        "xpropNativeHash"
+      ],
+      "before": {
+        "attributes": [
+          {
+            "name": "_dw_DocumentDateTimeAttributesFixed",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "X_ENTITIES_COUNT",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_LayerVisibilityType",
+            "value": [
+              {
+                "ValueInt32": 2
+              }
+            ]
+          },
+          {
+            "name": "LayerVisible[MODEL]",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_IsReferenceOnly",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_LastModifiedBy",
+            "value": [
+              {
+                "ValueString": "moise"
+              }
+            ]
+          },
+          {
+            "name": "_dw_LastModifiedDate",
+            "value": [
+              {
+                "ValueString": "2026-10-08 23:10:44"
+              }
+            ]
+          }
+        ],
+        "serializedXPropsSha256": "39A075A6865284579249F0B7F9747332FE186975A0CA421DD6AA93ACD562FCAA",
+        "xpropNativeHash": "942DFA2AD525C50E"
+      },
+      "after": {
+        "attributes": [
+          {
+            "name": "_dw_DocumentDateTimeAttributesFixed",
+            "value": [
+              {
+                "ValueBoolean": true
+              }
+            ]
+          },
+          {
+            "name": "X_ENTITIES_COUNT",
+            "value": [
+              {
+                "ValueInt32": 0
+              }
+            ]
+          },
+          {
+            "name": "_dw_LayerVisibilityType",
+            "value": [
+              {
+                "ValueInt32": 2
+              }
+            ]
+          },
+          {
+            "name": "LayerVisible[MODEL]",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_IsReferenceOnly",
+            "value": [
+              {
+                "ValueBoolean": false
+              }
+            ]
+          },
+          {
+            "name": "_dw_LastModifiedBy",
+            "value": [
+              {
+                "ValueString": "moise"
+              }
+            ]
+          },
+          {
+            "name": "_dw_LastModifiedDate",
+            "value": [
+              {
+                "ValueString": "2026-10-08 23:38:00"
+              }
+            ]
+          }
+        ],
+        "serializedXPropsSha256": "8D253DDD52271567EAEE3126261BD37F84AC9E530B0D3B77F48A0A22E5E14F78",
+        "xpropNativeHash": "5AFC163016F369BF"
+      }
+    }
+  ],
+  "beforeContext": {
+    "maxHandle": 2678,
+    "reachableEntityGuids": 2590,
+    "objectGraphNodes": 12752,
+    "danglingParents": [],
+    "danglingFigureLayers": [],
+    "documentUnits": {
+      "Aunits": "Deswik.Entities.Cad.AUnits",
+      "InsUnits": "InsUnitsEnumUnspecified",
+      "Lunits": "Deswik.Entities.Cad.LUnits"
+    },
+    "sourceLayerNames": [
+      "_DW_HIDDEN_ANNOTATIONS",
+      "_DW_HIDDEN_GRAPHICS",
+      "_DW_SETTINGS",
+      "_DW_XREF_LAYER",
+      "0",
+      "01_TOPOGRAFIA",
+      "01_TOPOGRAFIA\\01_SUPERFICIE",
+      "01_TOPOGRAFIA\\BOUNDARYY",
+      "01_TOPOGRAFIA\\POINTS",
+      "01_TOPOGRAFIA\\POINTS\\CONTOUR",
+      "01_TOPOGRAFIA\\POINTS\\CONTOUR\\ANNOTATION",
+      "01_TOPOGRAFIA\\POINTS2",
+      "01_TOPOGRAFIA\\SLICES7",
+      "02_GEOLOGIA_VETA_001",
+      "02_GEOLOGIA_VETA_001\\01_SOLIDO_POT_1_3M",
+      "02_GEOLOGIA_VETA_001\\02_SUPERFICIE_CENTRAL",
+      "03_REFERENCIAS",
+      "03_REFERENCIAS\\LAYPOL",
+      "03_REFERENCIAS\\SOLIDOS",
+      "04_SUPERFICIES_AUX",
+      "90_GUIAS_VETA",
+      "90_GUIAS_VETA\\MODELO_GUIA_1000M"
+    ]
+  },
+  "currentContext": {
+    "maxHandle": 2678,
+    "reachableEntityGuids": 2590,
+    "objectGraphNodes": 12752,
+    "danglingParents": [],
+    "danglingFigureLayers": [],
+    "documentUnits": {
+      "Aunits": "Deswik.Entities.Cad.AUnits",
+      "InsUnits": "InsUnitsEnumUnspecified",
+      "Lunits": "Deswik.Entities.Cad.LUnits"
+    },
+    "sourceLayerNames": [
+      "_DW_HIDDEN_ANNOTATIONS",
+      "_DW_HIDDEN_GRAPHICS",
+      "_DW_SETTINGS",
+      "_DW_XREF_LAYER",
+      "0",
+      "01_TOPOGRAFIA",
+      "01_TOPOGRAFIA\\01_SUPERFICIE",
+      "01_TOPOGRAFIA\\BOUNDARYY",
+      "01_TOPOGRAFIA\\POINTS",
+      "01_TOPOGRAFIA\\POINTS\\CONTOUR",
+      "01_TOPOGRAFIA\\POINTS\\CONTOUR\\ANNOTATION",
+      "01_TOPOGRAFIA\\POINTS2",
+      "01_TOPOGRAFIA\\SLICES7",
+      "02_GEOLOGIA_VETA_001",
+      "02_GEOLOGIA_VETA_001\\01_SOLIDO_POT_1_3M",
+      "02_GEOLOGIA_VETA_001\\02_SUPERFICIE_CENTRAL",
+      "03_REFERENCIAS",
+      "03_REFERENCIAS\\LAYPOL",
+      "03_REFERENCIAS\\SOLIDOS",
+      "04_SUPERFICIES_AUX",
+      "90_GUIAS_VETA",
+      "90_GUIAS_VETA\\MODELO_GUIA_1000M"
+    ]
+  },
+  "readOnly": true
+}

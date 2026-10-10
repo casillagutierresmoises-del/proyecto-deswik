@@ -1,0 +1,31 @@
+{
+  "verified": true,
+  "timestamp_utc": "2026-10-09T23:38:31.329294+00:00",
+  "canonical_path": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\06_PILOTO_MECANIZADO\\proyecto-deswik-mecanizado.duf",
+  "source_saved_sha256": "a8349eab3075e10265cd616621b687ac84726868cd36c4a98e24157727a81928",
+  "canonical_sha256": "2f25c0a47ba4c4b931fbf9f5ab7eb556b8b662e7c35c3647353865a323b9b6b7",
+  "backup_path": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\04_respaldo\\proyecto-deswik-mecanizado_guardado_2026-10-09.duf",
+  "backup_sha256": "a8349eab3075e10265cd616621b687ac84726868cd36c4a98e24157727a81928",
+  "canonical_replaced": true,
+  "same_project_and_filename": true,
+  "user_save_preserved": true,
+  "cad_before": {
+    "id": "eb0801e7-a93b-4fb2-a1e1-d089a8d6547e",
+    "success": true,
+    "data": {
+      "filename": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\05_PILOTO_CYR\\proyecto-deswik-piloto-cyr.duf",
+      "fileDirectory": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\05_PILOTO_CYR",
+      "isDirty": true,
+      "isReadOnly": false,
+      "activeLayerName": "04_SUPERFICIES_AUX",
+      "activeLayoutName": "MODEL",
+      "layerCount": 35
+    },
+    "error": null,
+    "errorCode": null,
+    "timestamp": "2026-10-09T23:38:29.7616562Z"
+  },
+  "cad_loaded_verified": false,
+  "native_qa_sha256": "8e8165cd9bc99d729b896fcab4a38aaeb61daf5d3a57a20ee76d676543c05bc8",
+  "note": "File update verified; open the same canonical DUF and verify licensed live CAD separately."
+}

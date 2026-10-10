@@ -1,14 +1,13 @@
-# Mantener binarios CAD y DXF íntegros, sin comparación ni combinación de texto.
+# Preserve exact source bytes, including historical CRLF, for audit hashes.
+* -text
 *.duf binary
+*.dm binary
 *.dxf binary
 *.png binary
-
-# CSV UTF-8: preservar los bytes y finales de línea originales (incluido CRLF).
-# diff mantiene comparación textual; -text evita normalización en el índice.
+*.jpg binary
+*.xlsx binary
+*.zip binary
+*.part??? binary
 *.csv -text diff
-
-# Documentación de texto UTF-8.
-*.md text eol=lf
-*.json text eol=lf
-.gitignore text eol=lf
-.gitattributes text eol=lf
+*.md -text diff
+*.json -text diff

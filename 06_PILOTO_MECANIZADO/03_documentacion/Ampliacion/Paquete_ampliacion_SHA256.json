@@ -1,0 +1,155 @@
+{
+  "status": "CANONICAL_UPDATED_AND_LIVE_CAD_VERIFIED",
+  "canonical_path": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\06_PILOTO_MECANIZADO\\proyecto-deswik-mecanizado.duf",
+  "candidate_path_internal": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\ampliacion-mecanizado\\rebase\\ampliacion-final.duf",
+  "candidate_sha256": "2f25c0a47ba4c4b931fbf9f5ab7eb556b8b662e7c35c3647353865a323b9b6b7",
+  "canonical_replaced": true,
+  "cad_open_verified": true,
+  "rebase_on_latest_user_save": true,
+  "files": [
+    {
+      "path": "01_datos/Ampliacion/Mediciones_datos.json",
+      "bytes": 446247,
+      "sha256": "91b25eef0a7f9535043b8f93dff9fe604fb373e7be5a4751b7d1557367879751"
+    },
+    {
+      "path": "01_datos/Ampliacion/Mediciones_labores.csv",
+      "bytes": 139390,
+      "sha256": "ad822147057f3ac6da8a042ff5039ed3ebbc1bfcdebdd83d666e0474ac395349"
+    },
+    {
+      "path": "01_datos/Ampliacion/Mediciones_mecanizado.xlsx",
+      "bytes": 49866,
+      "sha256": "efc70d6ce7cb630181d57d9acf9b1fc18af19684d8fe0c36705ec988ae56f233"
+    },
+    {
+      "path": "01_datos/Ampliacion/Mediciones_tajeos.csv",
+      "bytes": 1300,
+      "sha256": "f8990c7eaffa022fe331bb65badefd2a79a2351e1fe9992b6b507f22234c7be9"
+    },
+    {
+      "path": "02_geometria/Ampliacion/Geometria_y_evidencia.zip",
+      "bytes": 66062713,
+      "sha256": "b16994ea0a2f5ac80e86102d0c7b61ae342d918efe39b4715bc0087918a1d136"
+    },
+    {
+      "path": "02_geometria/Ampliacion/Isometrica_ampliacion.png",
+      "bytes": 686867,
+      "sha256": "4adad4fa3d5f5e95561a85c2ea112bc870022538439803fbf5e66b988f16be78"
+    },
+    {
+      "path": "02_geometria/Ampliacion/Isometrica_ampliacion.svg",
+      "bytes": 792354,
+      "sha256": "db79eb9f2a4cbf4a494e3e660420fc4c540fe9fe9d4cfe506706133f9d5a733a"
+    },
+    {
+      "path": "02_geometria/Ampliacion/Seccion_longitudinal.png",
+      "bytes": 647522,
+      "sha256": "dfc30c25edb8495491c9420949a4c018eec9ffec7c42066c2c7ebf5840533b50"
+    },
+    {
+      "path": "02_geometria/Ampliacion/Seccion_longitudinal.svg",
+      "bytes": 574380,
+      "sha256": "c68c689b9026f30749040e531e54adb0624c16e026841af1f88ff8f5de6c2b61"
+    },
+    {
+      "path": "02_geometria/Ampliacion/Vistas_geometria.json",
+      "bytes": 1533,
+      "sha256": "95f9b4eed2acab967b3cfe32899895886a9282d30d754751f90b3ae405c2c1f9"
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Atributos_ampliacion_preservados.json",
+      "bytes": 939581,
+      "sha256": "c2c71527f18e8414d3fcacc4103f3f35b24c7be018235788cbd3dd2c1530b7ca"
+    },
+    {
+      "path": "03_documentacion/Ampliacion/CAD_carga_final_verificacion.json",
+      "bytes": 7866,
+      "sha256": "9c8a10ac550362b883c0d4da727847a010b8ce86d412f415f2ea3208fe17e4a1"
+    },
+    {
+      "path": "03_documentacion/Ampliacion/CAD_lecturas_finales.json",
+      "bytes": 59651,
+      "sha256": "fc472316db80d300790e406a00e4778bf84e5350e84ba27b16ba4c2ef624d7dd"
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Compatibilidad_base_guardada.json",
+      "bytes": 7320,
+      "sha256": "592177986a0d5690be85848c02b0b923aac87be5548f797a6432542f19824695"
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Correccion_descriptor_RLL_TJ_B1.json",
+      "bytes": 3921,
+      "sha256": "56a1a149e11fe1273000e6e4a0e5c1a0593b20a9f0bbb611f0a49bde7cb53ea1"
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Criterios_y_fuentes.md",
+      "bytes": 8858,
+      "sha256": "0b1427b19142fe3f3013b0744dae018c8949e0cbbf1e19d92b6ad822dd5cc2c2"
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Diagnostico_preservacion_color.json",
+      "bytes": 3062,
+      "sha256": "7989d6b1e998d728a998c4381392f10a476f2ff7b438b0c47283a2b893eb0e4f"
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Geometria_interferencias_verificacion.json",
+      "bytes": 1692527,
+      "sha256": "6c8dd51ec5e7ac14a254aee6d4fb5eff9d816be75c8539d31fdb85c597f2db2b"
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Integracion_nativa_ampliacion.json",
+      "bytes": 435541,
+      "sha256": "5e5f878e658e6ce747c74644f1bc546307f8a4a0a941b11c9710ca1f309f26c5"
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Integracion_principal.json",
+      "bytes": 1556,
+      "sha256": "04b105cb8e91bda8cba0eb366ea7c83e145ca79bc677ea5c34acb56ee778c44b"
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Manifest_ampliacion.json",
+      "bytes": 1692832,
+      "sha256": "20ab929fc2055bef932025ce0d1df162a42066178c41c67ab7003fa59dbea26d"
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Mediciones_XLSX_verificacion.json",
+      "bytes": 2613,
+      "sha256": "f2cadcc3c96a4e0809ed36f3e198aa5c5cfeb4b859139faaf955d9db21658e9b"
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Paleta_DXF_SDK_2026.json",
+      "bytes": 14189,
+      "sha256": "a3213633b9d6cb00c6a825a3a90848c09cc57f7914f9389f468379c1178067ef"
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Presentacion_ampliacion_preservada.json",
+      "bytes": 11109,
+      "sha256": "fdb8147ab8b97f061791e9410628292f5528c11bce6d513fada0c60877532be4"
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Resumen_ampliacion.md",
+      "bytes": 9845,
+      "sha256": "57f5575c0ff6264bc35c84bfeeec893eb361754ade0d958a9c96456e8131ce45"
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Revision_DUF_ampliacion_independiente.json",
+      "bytes": 114023,
+      "sha256": "8e8165cd9bc99d729b896fcab4a38aaeb61daf5d3a57a20ee76d676543c05bc8"
+    },
+    {
+      "path": "03_documentacion/Ampliacion/Vinculo_auditoria_exportacion.json",
+      "bytes": 66487,
+      "sha256": "6cfb74b55bff98183bc36e6f27ea0820cbb38760bba20fc90986264856b6a0d5"
+    },
+    {
+      "path": "03_documentacion/LEEME_estado_actual.md",
+      "bytes": 1612,
+      "sha256": "8627d862562ca421ab75eb0afd0da54335cea1716729f78d631a98edf041db0e"
+    }
+  ],
+  "canonical_sha256": "2f25c0a47ba4c4b931fbf9f5ab7eb556b8b662e7c35c3647353865a323b9b6b7",
+  "integration_receipt_sha256": "04b105cb8e91bda8cba0eb366ea7c83e145ca79bc677ea5c34acb56ee778c44b",
+  "live_cad_verification_report": "03_documentacion/Ampliacion/CAD_carga_final_verificacion.json",
+  "live_cad_verification_report_sha256": "9c8a10ac550362b883c0d4da727847a010b8ce86d412f415f2ea3208fe17e4a1"
+}

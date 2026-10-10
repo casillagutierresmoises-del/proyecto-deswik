@@ -1,0 +1,326 @@
+{
+  "verified": true,
+  "independentReader": "ReadGeometry.cs; no GeometryImport.cs dependency",
+  "source": "C:\\Users\\moise\\OneDrive\\Escritorio\\proyecto-deswik\\proyecto-deswik.duf",
+  "sourceSha256": "dad5de0a4311d47f7b77340aca039e0bb60c4033edd5409da4ba942ebe1e276d",
+  "integrated": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\proyecto-deswik-piloto-cyr-integrado-20261009.duf",
+  "integratedSha256": "a4efe77b9b03355a5dba70778142c7905eee0499488e94a139a93609092957d0",
+  "dxf": "C:\\Users\\moise\\Documents\\Codex\\2026-10-05\\hol\\work\\piloto-cyr\\native-duf\\03_PILOTO_CYR_R2010_Deswik.dxf",
+  "dxfSha256": "9bf8229198aaa68f953802f5f1b31090bec5bf80108ec29c24b691e4de0181b7",
+  "manifestSha256": "25d1a8cec9ff85a07abee1b26008bf2cee3311c1594b302adf0f8df054e19db9",
+  "sourceUnchangedAtCreation": true,
+  "sourceUnchangedSince9OctExport": true,
+  "currentDesktopSourceSha256": "dad5de0a4311d47f7b77340aca039e0bb60c4033edd5409da4ba942ebe1e276d",
+  "sourceBaseline": "Native snapshot and independent reader export from current 9-Oct source DAD5; all original entity payloads are preserved",
+  "baselineSnapshotSha256": "87ff1c6bf1cd33e417a167b8080ca4cca33110653a8bf1b6122ef6da4758103f",
+  "readOnly": true,
+  "dufSaveInvoked": false,
+  "uiCreated": false,
+  "original1407NativeMetadataAndHashesExact": true,
+  "all5ExistingMeshObjectsExact": true,
+  "topographyVertices": 8283,
+  "veinVertices": 5522,
+  "veinNativeAttributes": 16,
+  "nativeEntityCount": 1521,
+  "nativeLayerCount": 33,
+  "pilot": {
+    "meshes": 38,
+    "polylines": 39,
+    "texts": 26,
+    "attributesEach": 10
+  },
+  "allWcsVerticesFaceIndicesTextLocationsExact": true,
+  "all38MeshesClosedAndVolumesPositive": true,
+  "allPilotLayerMetadataReferencesExact": true,
+  "allParentReferencesExist": true,
+  "allPilotRgbColorsAndVisibilityExact": true,
+  "allNativeResourceGuidReferencesExist": true,
+  "allNewLayerOnFrozenLockPlotColorAndWeightExact": true,
+  "allPilotLineScaleWeightPenWidthAndThicknessExact": true,
+  "allPilotTextFontHeightWidthRotationAlignmentExact": true,
+  "lineStyleSemanticsVerified": true,
+  "lineStyleErrors": [],
+  "normalSerialization": "Curve field295 and Text field507 omit default (0,0,1) via Is001(); nullable absent native field is compared as default normal",
+  "textStyleMapping": "DXF STANDARD -> existing native STANDARD (Arial); light reference GUID resolved against TextStyles table",
+  "lineTypeMapping": "Existing global SOLID resource GUID5c5cab83-30d8-4eea-b793-de2ce3b5f3f7, handle27; verifies actual resource byGUID, not a lightweight defaultName",
+  "unitsPreserved": {
+    "Aunits": "Deswik.Entities.Cad.AUnits",
+    "InsUnits": "InsUnitsEnumUnspecified",
+    "Lunits": "Deswik.Entities.Cad.LUnits"
+  },
+  "epsg": null,
+  "wcsScale": 1,
+  "meshChecks": [
+    {
+      "label": "TAJO_C01",
+      "vertices": 580,
+      "triangles": 1156,
+      "volumeM3": 238.59878300745913,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "TAJO_C02",
+      "vertices": 580,
+      "triangles": 1156,
+      "volumeM3": 238.4904762698461,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "TAJO_C03",
+      "vertices": 580,
+      "triangles": 1156,
+      "volumeM3": 238.38161172922628,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "TAJO_C04",
+      "vertices": 580,
+      "triangles": 1156,
+      "volumeM3": 238.2720913374069,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "TAJO_C05",
+      "vertices": 580,
+      "triangles": 1156,
+      "volumeM3": 238.1621142334237,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "TAJO_C06",
+      "vertices": 580,
+      "triangles": 1156,
+      "volumeM3": 238.05155460279275,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "TAJO_C07",
+      "vertices": 580,
+      "triangles": 1156,
+      "volumeM3": 237.9405189536034,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "TAJO_C08",
+      "vertices": 580,
+      "triangles": 1156,
+      "volumeM3": 237.82888437099004,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "TAJO_C09",
+      "vertices": 580,
+      "triangles": 1156,
+      "volumeM3": 237.7167122040919,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "TAJO_C10",
+      "vertices": 580,
+      "triangles": 1156,
+      "volumeM3": 237.60393468666493,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "RMP_01",
+      "vertices": 2004,
+      "triangles": 4004,
+      "volumeM3": 2251.346111628411,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "RES_REF_01",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 17.99999999999515,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "RES_REF_02",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 17.999999999997573,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "RES_REF_03",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 17.99999999999515,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "RES_REF_04",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 18.0,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "RES_REF_05",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 18.00000000000485,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "RES_REF_06",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 18.00000000000485,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "RES_REF_07",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 17.999999999997573,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "RES_REF_08",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 17.999999999990298,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "RES_REF_09",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 18.000000000002427,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "CX_N01",
+      "vertices": 16,
+      "triangles": 28,
+      "volumeM3": 194.55582688038217,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "GAL_N01",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 449.99999999994907,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "CX_N02",
+      "vertices": 24,
+      "triangles": 44,
+      "volumeM3": 501.969219512197,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "GAL_N02",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 450.00000000008123,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "CX_N03",
+      "vertices": 16,
+      "triangles": 28,
+      "volumeM3": 151.62136282309075,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "GAL_N03",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 449.9999999998242,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "CX_N04",
+      "vertices": 24,
+      "triangles": 44,
+      "volumeM3": 455.720256848382,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "GAL_N04",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 449.99999999995515,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "CH_ESC_LOCAL",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 100.62884473589172,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "CH_VENT_LOCAL",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 67.50000000005821,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "CX_ESC_01",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 24.300000000010186,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "CX_VENT_01",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 25.013956720093727,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "CX_ESC_02",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 24.300000000010186,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "CX_VENT_02",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 19.587985573377107,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "CX_ESC_03",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 24.300000000005337,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "CX_VENT_03",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 14.162014426643509,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "CX_ESC_04",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 24.3000000000211,
+      "coordinatesAndTopologyExact": true
+    },
+    {
+      "label": "CX_VENT_04",
+      "vertices": 8,
+      "triangles": 12,
+      "volumeM3": 8.736043279905061,
+      "coordinatesAndTopologyExact": true
+    }
+  ],
+  "limits": [
+    "CAD display/opening not tested",
+    "Synthetic conceptual geometry and grades",
+    "Topography cover evaluated by original separate sampled report, not by this file reader"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "model_format": "CSV_FOR_NATIVE_DATAMINE_CONVERTER_NOT_DXF_BLOCKS",
+  "units": "m",
+  "epsg": null,
+  "reference": "WCS_PROJECT_CRS_UNDOCUMENTED",
+  "origin_wcs": [
+    5028.0843142650965,
+    10667.981304504554,
+    2097.9608782041414
+  ],
+  "rotation_origin_wcs": [
+    5028.0843142650965,
+    10667.981304504554,
+    2097.9608782041414
+  ],
+  "local_corner_relative_to_panel_center_m": [
+    -7.0,
+    -25.0,
+    -15.0
+  ],
+  "parent_block_size_m": [
+    0.5,
+    2.0,
+    1.5
+  ],
+  "counts_xyz": [
+    28,
+    25,
+    20
+  ],
+  "records": 14000,
+  "rotation_matrix_wcs_rows": [
+    [
+      0.9465631618162187,
+      0.3225184966672193,
+      0.0
+    ],
+    [
+      -0.3225184966672193,
+      0.9465631618162187,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "axis_vectors_wcs": {
+    "DIP_HORIZONTAL": [
+      0.9465631618162187,
+      -0.3225184966672193,
+      0.0
+    ],
+    "STRIKE": [
+      0.3225184966672193,
+      0.9465631618162187,
+      0.0
+    ],
+    "VERTICAL": [
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "axis_names": [
+    "DIP_HORIZONTAL",
+    "STRIKE",
+    "VERTICAL"
+  ],
+  "rotation_z_counterclockwise_deg": -18.81530145811885,
+  "deswik_converter": {
+    "Clockwise": true,
+    "ZRotationDegrees": 18.81530145811885,
+    "XRotationDegrees": 0,
+    "YRotationDegrees": 0,
+    "WorldCoordinateCentroids": true,
+    "CentroidAtOrigin": false,
+    "Origin": [
+      5028.0843142650965,
+      10667.981304504554,
+      2097.9608782041414
+    ],
+    "RotationOrigin": [
+      5028.0843142650965,
+      10667.981304504554,
+      2097.9608782041414
+    ],
+    "Mapping": {
+      "XC": "X",
+      "YC": "Y",
+      "ZC": "Z",
+      "DX": "XSIZE",
+      "DY": "YSIZE",
+      "DZ": "ZSIZE"
+    }
+  },
+  "ore_fraction_method": "5x5 Gauss quadrature along STRIKE/Z plus exact horizontal interval intersection; contact width matches original triangulated vein",
+  "ore_fraction_9x9_volume_m3": 2381.0502679842803,
+  "ore_fraction_convergence_difference_m3": 0.00033954897207877366,
+  "synthetic_flag": "SYNTH=1 on all records; all Au/Ag are illustrative; DENS is assumed",
+  "classification": "NO_CLASIFICADO"
+}

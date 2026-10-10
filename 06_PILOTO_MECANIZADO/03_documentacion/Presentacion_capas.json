@@ -1,0 +1,155 @@
+{
+  "layerPrefix": "03_PILOTO_MECANIZADO",
+  "layers": {
+    "03_PILOTO_MECANIZADO": {
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\01_MINERAL_FASES": {
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\02_EXCAVACION_C01": {
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\02_EXCAVACION_C02": {
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\02_EXCAVACION_C03": {
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\02_EXCAVACION_C04": {
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\02_EXCAVACION_C05": {
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\02_EXCAVACION_C06": {
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\02_EXCAVACION_C07": {
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\02_EXCAVACION_C08": {
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\02_EXCAVACION_C09": {
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\02_EXCAVACION_C10": {
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\03_RAMPA_Y_CRUCES": {
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\04_ACCESOS_NIVELES": {
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\05_GALERIAS": {
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\06_ESTOCADAS": {
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\07_ESTACION_CARGA": {
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\08_ACCESO_SUPERFICIE": {
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\09_BOCAMINA": {
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\10_MOV_TIERRA": {
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\11_CHIMENEAS_INTERNAS": {
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\12_DESCANSOS_GUIA": {
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\13_CONEXIONES_CH": {
+      "on": true,
+      "plot": true,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\20_EJES": {
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false
+    },
+    "03_PILOTO_MECANIZADO\\21_ROTULOS": {
+      "on": false,
+      "plot": false,
+      "frozen": false,
+      "locked": false
+    }
+  }
+}
